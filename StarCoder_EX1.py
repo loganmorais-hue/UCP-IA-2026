@@ -5,11 +5,14 @@ model_name = "bigcode/starcoder2-3b"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
-prompt = """
-Analyze the following Java code and point if there are any problems with it and correct them.
-public int divide(int a, int b){
-    return a/b;
-}
+prompt = """// Refactor this Java code to prevent division by zero:
+// Original:
+// public int divide(int a, int b){
+//     return a/b;
+// }
+//
+// Refactored Java code:
+public int divide(int a, int b) {
 """
 
 inputs = tokenizer(prompt, return_tensors="pt")
