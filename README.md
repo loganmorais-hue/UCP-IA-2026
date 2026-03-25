@@ -1,3 +1,3 @@
 # UCP-IA-2026
 
-f
+## Exercício 1 ------
