@@ -1,0 +1,43 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,stars,fork,language
+https://github.com/AtCloudDiwash/CrossAI/pull/2,Feature/add perplexity ai platform,2026-03-08T10:26:26Z,2026-03-15T20:45:07Z,0,False,JavaScript
+https://github.com/pv-udpv/pplx-unofficial-sdk/pull/32,feat: Add YOLO MCP auto-approve Tampermonkey userscript,2026-02-25T17:29:50Z,2026-02-25T17:30:35Z,3,False,TypeScript
+https://github.com/DIYgod/RSSHub/pull/21436,feat(route): add perplexity blog,2026-03-18T08:50:52Z,2026-03-20T11:38:07Z,43090,False,TypeScript
+https://github.com/brass-crusader-tx/PetroSquare/pull/30,feat(ui): Unified Modern UI Rebuild,2026-02-14T21:25:02Z,2026-02-15T01:45:18Z,0,False,TypeScript
+https://github.com/amirbiron/refiner-bot/pull/20,Expand source button labels for more URL types,2026-02-22T10:31:43Z,2026-02-22T10:32:21Z,0,False,Python
+https://github.com/depodefi/rss-miner/pull/1,Fix Perplexity scraper using curl_cffi to bypass Cloudflare,2026-01-28T09:50:45Z,2026-01-28T16:33:35Z,0,False,Python
+https://github.com/bordenet/genesis/pull/123,docs: add 82 hyperlinks to BACKGROUND.md for cross-referencing,2026-02-06T16:00:29Z,2026-02-06T16:22:07Z,0,False,JavaScript
+https://github.com/plausible/analytics/pull/4599,Channel and source data updates,2024-09-19T13:48:54Z,2024-10-30T13:46:30Z,24490,False,Elixir
+https://github.com/ramc10/engram-community/pull/130,Fix performance issues and overly broad permissions,2026-02-14T06:55:46Z,2026-02-14T06:59:00Z,4,False,JavaScript
+https://github.com/joganubaid/omniexporter-ai-fixed-v2/pull/6,"Extract Perplexity, ChatGPT, and Claude adapters from content.js into standalone files",2026-02-19T20:44:02Z,2026-02-19T20:54:35Z,0,False,JavaScript
+https://github.com/chambtai-sys/Perplexity-API-Key-Generator/pull/1,Perplexity.ai API Key Generator,2025-12-15T19:07:55Z,2025-12-15T19:09:12Z,1,False,Python
+https://github.com/lammps/lammps/pull/4817,Visualize body particle faces and ellipsoid particles,2025-12-19T23:35:09Z,2026-01-16T17:25:30Z,2833,False,C++
+https://github.com/pv-udpv/pplx-unofficial-sdk/pull/29,Implement enterprise monorepo workspace with Python microservices and schema-driven architecture,2026-02-04T04:05:04Z,2026-02-06T10:06:11Z,3,False,TypeScript
+https://github.com/Suree33/blog/pull/351,調査: globals v17.0.0の破壊的変更の影響分析,2026-01-16T08:44:27Z,2026-01-16T09:08:39Z,0,False,XSLT
+https://github.com/reccaller-ai/reccall/pull/67,fix: Correct Perplexity and Sora integration docs - use browser extensions not MCP,2025-11-02T16:13:24Z,2025-11-02T16:14:51Z,0,False,TypeScript
+https://github.com/wootzapp/ext-store/pull/156,Enterprise security all,2025-10-13T11:22:21Z,2025-10-13T11:59:38Z,4,False,JavaScript
+https://github.com/aj47/techfren-discord-bot/pull/66,feat: Switch from OpenRouter to Perplexity with configurable API settings,2025-08-18T03:40:51Z,2025-08-18T15:06:07Z,9,False,Python
+https://github.com/ru-aish/Perplexity-api/pull/1,Add comprehensive README documentation for VNC-Perplexity API Server,2025-09-04T15:14:19Z,2025-09-04T15:15:56Z,1,False,Python
+https://github.com/mrdannyclark82/Milla-Rayne/pull/95,Add Predictive Updates feature: AI news monitoring and recommendation engine,2025-10-01T22:47:05Z,2025-10-01T23:08:23Z,1,False,Python
+https://github.com/plankanban/planka/pull/1262,Added pt-PT translations,2025-07-20T10:08:50Z,2025-07-21T10:25:44Z,11755,False,JavaScript
+https://github.com/labeebshareef/wxt-aichat-exporter/pull/1,Implement complete AI Answer Exporter Chrome Extension with WXT framework,2025-08-19T11:45:27Z,2025-08-19T12:07:52Z,0,False,TypeScript
+https://github.com/DrBenjamin/Data-Science-and-Data-Analytics/pull/17,Add comprehensive Data Management paragraph and references,2025-10-05T13:13:57Z,2025-10-05T13:22:38Z,0,False,HTML
+https://github.com/DrBenjamin/Data-Science-and-Data-Analytics/pull/19,[FEAT] Add comprehensive Data Evaluation section to course materials,2025-10-05T16:17:14Z,2025-10-05T16:24:51Z,0,False,HTML
+https://github.com/ritchieng/the-incredible-ai-agents/pull/6,Add new GitHub implementations for AI agents and frameworks,2025-07-29T23:22:58Z,2025-07-30T08:42:51Z,18,False,
+https://github.com/CisnerosCodes/AI-Context-Manager/pull/1,"Reorganize repository into clean, minimal structure with src/ directories",2025-09-02T16:42:09Z,2025-09-02T16:53:28Z,1,False,JavaScript
+https://github.com/open-webui/open-webui/pull/14616,feat: add Perplexity AI model and search context usage configuration options,2025-06-02T22:25:47Z,2025-06-04T20:28:01Z,129257,False,Python
+https://github.com/reqnroll/Reqnroll/pull/658,Add BuildMetadata and BuildMetadataProvider classes,2025-07-02T15:30:40Z,2025-07-09T08:32:29Z,734,False,C#
+https://github.com/spartDev/My-Prompt-Manager/pull/1,Complete content script modularization and achieve 99.6% test coverage,2025-08-02T11:34:33Z,2025-08-02T11:36:13Z,5,False,TypeScript
+https://github.com/Dev-NotAqua/ai-prompt-enhancer/pull/1,Initialize Universal AI Prompt Enhancement Browser Extension,2025-08-01T23:42:10Z,2025-08-02T00:10:17Z,0,False,JavaScript
+https://github.com/Jana-Elst/Abby/pull/27,Debugging with perplexity.ai,2025-05-31T09:40:40Z,2025-05-31T09:41:21Z,2,False,JavaScript
+https://github.com/Jana-Elst/Abby/pull/22,Arduino,2025-05-30T07:43:52Z,2025-05-30T07:44:03Z,2,False,JavaScript
+https://github.com/perplexityai/modelcontextprotocol/pull/1,Deploy Perplexity MCP Server,2025-03-10T20:08:16Z,2025-03-10T20:28:06Z,2062,False,TypeScript
+https://github.com/ohmyzsh/ohmyzsh/pull/12815,feat(web-search): add perplexity.ai,2024-11-20T00:03:28Z,2025-01-08T08:34:00Z,185743,False,Shell
+https://github.com/perrin4869/dotfiles/pull/4612,chore(deps): bump home/.oh-my-zsh from `d826691` to `7a3695a`,2025-01-13T00:11:53Z,2025-01-13T00:44:28Z,6,False,Shell
+https://github.com/Surgo/dotfiles/pull/620,Bump .config/zsh/ohmyzsh from `d826691` to `5c17bcd` in the zsh-plugins group,2025-01-08T23:22:11Z,2025-01-09T05:08:22Z,5,False,Shell
+https://github.com/rksm/org-ai/pull/129,support perplexity.ai responses in org-ai--normalize-response,2024-09-08T14:07:59Z,2024-10-14T22:46:57Z,815,False,Emacs Lisp
+https://github.com/zuluion/Clash-Template-Config/pull/5,add perplexity rule-set and proxy-group,2024-11-10T12:03:52Z,2024-11-15T08:09:03Z,217,False,PowerShell
+https://github.com/FunctionCalling/FunctionCalling-AIProxySwift/pull/4,"Update dependency lzell/AIProxySwift to from: ""0.42.2""",2024-11-13T23:26:01Z,2024-11-13T23:57:00Z,6,False,Swift
+https://github.com/13zebras/scrum-poker-sur-mer/pull/4,"Server services; logic for updating userNames and Story Points, storing in state, and emitting these values to all clients",2024-08-19T02:04:05Z,2024-08-27T00:47:16Z,0,False,TypeScript
+https://github.com/GoodwayGroup/circleci-orb/pull/89,chore: Adds optional package-lock-filename parameter to test-nodejs*,2024-08-22T18:32:34Z,2024-08-22T20:43:54Z,0,False,JavaScript
+https://github.com/karthink/gptel/pull/204,README.org: Update with instructions for perplexity.ai,2024-02-04T00:25:36Z,2024-02-04T00:36:24Z,3272,False,Emacs Lisp
+https://github.com/PreMiD/Activities/pull/7346,feat(Perplexity): add new presence,2023-05-09T19:30:27Z,2023-05-26T18:15:51Z,736,False,TypeScript

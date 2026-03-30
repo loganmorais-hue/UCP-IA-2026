@@ -1,0 +1,10 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,stars,fork,language
+https://github.com/GooglyBlox/auto-mcgraw/pull/20,fix deepseek integration,2026-03-12T03:26:39Z,2026-03-14T02:05:04Z,38,False,JavaScript
+https://github.com/urzeye/ophel/pull/208,feat(deepseek): add DeepSeek adapter support,2026-03-09T04:18:47Z,2026-03-09T04:19:56Z,414,False,TypeScript
+https://github.com/bao1979/ai-labor-tracker/pull/1,feat: Implement AI Labor Tracker Edge browser extension,2026-02-21T06:27:22Z,2026-02-21T06:30:41Z,0,False,TypeScript
+https://github.com/lavilao/chathub-free/pull/1,Add Support for New Chat Platforms,2025-12-25T23:14:44Z,2025-12-25T23:30:24Z,0,True,TypeScript
+https://github.com/joganubaid/omniexporter-ai-fixed-v2/pull/1,"Fix Priority-0 security issues: sensitive data exposure, broken token refresh, over-broad permissions, unvalidated inputs",2026-02-19T19:54:46Z,2026-02-19T20:00:12Z,0,False,JavaScript
+https://github.com/anon987654321/pub3/pull/23,[WIP] Update master.json for anti-truncation enforcement,2025-10-18T08:12:21Z,2025-10-18T08:13:27Z,0,False,Ruby
+https://github.com/Zeeeepa/open_codegen/pull/77,🤖 Universal AI Endpoint Management System - Trading Bot Architecture for AI Services,2025-09-16T06:13:18Z,2025-09-20T04:26:23Z,0,False,Python
+https://github.com/Git-Fg/pharma-prompt-powerhouse/pull/4,"Comprehensive 2025 AI Tools Update: New Models, Tools, and Security Guidelines",2025-09-01T11:03:46Z,2025-09-01T12:07:03Z,0,False,TypeScript
+https://github.com/duckduckgo/autoconsent/pull/1018,[1 / 4] 🤖 Add autoconsent rules for 200 sites (7 need review),2025-10-03T23:10:40Z,2025-10-13T11:49:05Z,109,False,TypeScript

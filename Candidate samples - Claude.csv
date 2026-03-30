@@ -1,0 +1,1001 @@
+PR URL,PR Title,PR createdAt,PR mergedAt,stars,fork,language
+https://github.com/bauti-defi/claude-collab/pull/1,feat: web chat UI + remote MCP for claude.ai,2026-03-14T19:44:43Z,2026-03-14T19:44:50Z,4,False,Go
+https://github.com/yuto2245/swell_child/pull/11,AIチャットページの実装（Claude.ai風UI + 4プロバイダーSSE対応）,2026-03-28T12:29:08Z,2026-03-28T12:41:59Z,0,False,CSS
+https://github.com/Brake-Labs/porchsongs/pull/199,fix: replace single-line chat input with auto-growing textarea,2026-03-28T22:52:14Z,2026-03-28T22:55:47Z,2,False,TypeScript
+https://github.com/gbfans/discourse-component/pull/20,fix: reset header overrides for full-page chat mode,2026-03-29T22:08:56Z,2026-03-29T22:09:01Z,0,False,SCSS
+https://github.com/cabgcu/vendoradmin/pull/77,Fix OpenRouter API requests: remove broken fallback URL and update model,2026-03-28T22:52:47Z,2026-03-28T22:52:52Z,0,False,HTML
+https://github.com/Senior3514/rentelx-080ee8e3/pull/173,Route ALL AI calls through ai-chat (proven working with Gemini),2026-03-30T09:45:10Z,2026-03-30T09:45:30Z,0,False,TypeScript
+https://github.com/Maurice-AIEMPIRE/core/pull/5,fix(telegram-bot): correct Ollama API base URL to include /v1 path,2026-03-29T09:46:10Z,2026-03-29T09:46:21Z,1,True,TypeScript
+https://github.com/Ramsdale00/LubeOilSim/pull/15,fix: use prompt field for Ollama generate format (fixes HTTP 422),2026-03-30T10:43:17Z,2026-03-30T10:43:24Z,0,False,TypeScript
+https://github.com/VilDeMil/handschelle/pull/188,Show LLM parameters panel by default and support hs_name URL paramete…,2026-03-29T04:07:28Z,2026-03-29T04:07:37Z,0,False,PHP
+https://github.com/lightproud/brain-in-a-vat/pull/69,feat: add channel_index.json to Discord archiver,2026-03-29T12:15:41Z,2026-03-29T12:15:49Z,0,False,Python
+https://github.com/alexavonc/MeetingMind/pull/21,Add multi-user Telegram bot linking,2026-03-30T10:05:39Z,2026-03-30T10:05:47Z,0,False,TypeScript
+https://github.com/levensti/artifact/pull/16,refactor: split chat-panel and chat route into modular components,2026-03-29T17:16:11Z,2026-03-29T17:58:49Z,4,False,TypeScript
+https://github.com/albinotonnina/echos/pull/198,feat: split web chat routes into separate modules (task 9.05),2026-03-29T22:09:05Z,2026-03-29T22:30:27Z,36,False,TypeScript
+https://github.com/rbatsenko/beta-rocks/pull/37,refactor: remove all remaining chat references from codebase,2026-03-28T12:26:51Z,2026-03-28T12:47:03Z,0,False,TypeScript
+https://github.com/knifflig/next-prop-manager/pull/1,Move initial chat to src/content/docs and extract final decisions,2026-03-28T20:52:33Z,2026-03-28T20:52:46Z,1,False,MDX
+https://github.com/shanimosco47-pixel/hey-usa/pull/38,feat: make Moti floating button draggable,2026-03-28T11:03:15Z,2026-03-28T11:03:23Z,0,False,TypeScript
+https://github.com/Goifal/mindhome/pull/653,Add /api/chat/stream SSE endpoint to assistant + addon URL discovery,2026-03-28T17:14:15Z,2026-03-28T17:14:21Z,0,False,Python
+https://github.com/mikaelra/wom-mid/pull/57,Redesign chat as small speech bubble button in lobby,2026-03-30T11:07:50Z,2026-03-30T11:21:37Z,0,False,TypeScript
+https://github.com/karltor/MunkenTipset/pull/51,"Mobile chat: two-line message layout, full-height chat area",2026-03-28T19:21:04Z,2026-03-28T19:21:12Z,0,False,JavaScript
+https://github.com/gunterstruck/ORDO/pull/86,feat: Add contextual AI companion (floating assistant modal),2026-03-29T08:32:08Z,2026-03-29T09:48:15Z,0,False,JavaScript
+https://github.com/NextMonthLab/icemaker/pull/2015,Add WORKSHOP BLUEPRINT detection log and chat hint,2026-03-27T11:03:48Z,2026-03-27T11:03:59Z,0,False,TypeScript
+https://github.com/TherranT11/nationhood/pull/1360,Show amber badge with total message count on chat bubble,2026-03-29T13:35:41Z,2026-03-29T13:35:46Z,0,False,HTML
+https://github.com/rbatsenko/beta-rocks/pull/35,feat: remove AI chat feature from web app,2026-03-28T08:33:50Z,2026-03-28T11:48:11Z,0,False,TypeScript
+https://github.com/JKern100/CareerDev/pull/86,"Add AI Career Coach feature with chat, goals, and career context",2026-03-29T11:41:58Z,2026-03-29T11:42:04Z,0,False,TypeScript
+https://github.com/Goifal/mindhome/pull/687,Allow api/chat/ prefix in proxy paths for direct-mode compatibility,2026-03-29T17:45:54Z,2026-03-29T17:46:00Z,0,False,Python
+https://github.com/scwayman1/event-intelligence-hub/pull/36,fix: auto-scroll Franck chat to bottom on messages and open,2026-03-29T06:18:01Z,2026-03-29T06:18:32Z,0,False,TypeScript
+https://github.com/cabgcu/vendoradmin/pull/78,Switch to google/gemma-3-27b-it:free model for OpenRouter text tasks,2026-03-28T22:56:24Z,2026-03-28T22:56:29Z,0,False,HTML
+https://github.com/tune-77/tune_lease_55/pull/14,docs: 計画書に P8 Gemini SDK 移行を追加,2026-03-29T05:20:13Z,2026-03-29T05:20:21Z,0,False,Python
+https://github.com/VilDeMil/handschelle/pull/136,feat: add Ollama chat widget (v15.0),2026-03-26T03:49:16Z,2026-03-26T03:49:23Z,0,False,PHP
+https://github.com/VilDeMil/handschelle/pull/138,revert: remove Ollama chat widget (reverts v15.0 changes),2026-03-26T04:56:04Z,2026-03-26T04:56:12Z,0,False,PHP
+https://github.com/Keksiczek/ai-home-hub/pull/86,fix: update tests for async chat endpoint and api_path parameter,2026-03-26T11:29:55Z,2026-03-26T11:30:25Z,0,False,Python
+https://github.com/TomasBalestrin/Bethel-CS/pull/19,fix: Stream event handler type in chat page,2026-03-25T16:55:12Z,2026-03-25T16:56:43Z,0,False,TypeScript
+https://github.com/karltor/MunkenTipset/pull/49,"Mobile chat: move match cards below chat, fullscreen chat, bump font 10%",2026-03-28T19:04:55Z,2026-03-28T19:05:06Z,0,False,JavaScript
+https://github.com/las-swermers/LAS-Link-Board/pull/98,"Add /category slash commands to bot, transport Chat only on day-of",2026-03-30T08:55:02Z,2026-03-30T08:55:08Z,0,False,HTML
+https://github.com/riverwest-mike/riverwest-toolbox/pull/384,Add Haiku/Sonnet model toggle and usage tips to chat refinement,2026-03-29T14:37:02Z,2026-03-29T14:37:08Z,0,False,TypeScript
+https://github.com/bercly0b/rtg/pull/89,feat: show status bar notification on manual chat list refresh (R key),2026-03-25T15:43:38Z,2026-03-26T05:09:39Z,0,False,Rust
+https://github.com/abnasim/TekAutomate/pull/25,OpenAI Responses API + Anthropic tools + prompt defaults,2026-03-29T07:49:57Z,2026-03-29T07:50:13Z,0,False,TypeScript
+https://github.com/dadashhh/dadash-crm/pull/1051,Refactor chat ID extraction in message conversation key,2026-03-29T21:58:58Z,2026-03-29T21:59:03Z,0,False,HTML
+https://github.com/AlfanumrikOS/Alfanumrik/pull/199,Add voice button to Foxy chat page,2026-03-29T05:54:21Z,2026-03-29T05:54:59Z,1,False,TypeScript
+https://github.com/DoperDodge/Master-Key/pull/9,"Add messaging, reporting, post sharing, and mobile fixes",2026-03-27T16:36:27Z,2026-03-27T16:36:34Z,1,False,JavaScript
+https://github.com/hanyuriyu/lingonect/pull/51,"Update chat UI: brighter selected user, visible language, new title f…",2026-03-24T21:41:39Z,2026-03-24T21:41:47Z,0,False,HTML
+https://github.com/dncdante911/messenger_v2/pull/399,"Business chat: branding indicator, correct avatar, profile view from …",2026-03-28T08:54:14Z,2026-03-28T08:54:19Z,0,False,Kotlin
+https://github.com/mwasambilijaphet-glitch/Laundry-Connect--frontend/pull/37,Add messaging to owner dashboard,2026-03-29T08:58:50Z,2026-03-29T08:58:56Z,0,False,JavaScript
+https://github.com/Brian2169fdsa/friday/pull/22,feat: replace FRIDAY tab with cockpit chat interface,2026-03-28T21:26:28Z,2026-03-28T21:46:43Z,0,False,HTML
+https://github.com/takeshy/obsidian-llm-hub/pull/18,feat: add Search tab for semantic search with result selection,2026-03-29T09:02:40Z,2026-03-29T14:26:15Z,1,False,TypeScript
+https://github.com/gunterstruck/ORDO/pull/87,feat: Voice-first UI – remove all text input fields,2026-03-29T10:01:28Z,2026-03-29T10:01:34Z,0,False,JavaScript
+https://github.com/Nomarcus/svensk-laxhjalp/pull/19,"Move contact form to own page, fix dark mode on chat input, update pl…",2026-03-27T02:00:49Z,2026-03-27T02:02:31Z,0,False,TypeScript
+https://github.com/vitorpamplona/amethyst/pull/2018,Implement NIP-C7 chat messages (kind 9),2026-03-30T00:30:27Z,2026-03-30T01:24:59Z,1493,False,Kotlin
+https://github.com/gracebotly/checkhire-app/pull/13,"feat(slice-4): add chat pages, interview scheduling UI, disclosure co…",2026-03-28T20:19:12Z,2026-03-28T20:59:47Z,0,False,TypeScript
+https://github.com/gityoni/rebsam.github.io/pull/187,fix(ui): fond chat neutre + gradient header bleu→violet→corail,2026-03-24T20:27:38Z,2026-03-24T20:27:54Z,0,False,HTML
+https://github.com/outis1one/silent-send/pull/54,"fix: narrow isInNonChatArea to stop blocking chat reveal, bump 0.9.17",2026-03-29T17:50:34Z,2026-03-29T17:50:39Z,0,False,JavaScript
+https://github.com/gunterstruck/ORDO/pull/83,fix: Retry mit Backoff + Modell-Fallback für robusteren Chat-Dienst,2026-03-28T18:10:14Z,2026-03-28T18:10:20Z,0,False,JavaScript
+https://github.com/loki217089-jpg/capyworlds/pull/96,fix: auto-create chat_rooms tables on first /chat/join call,2026-03-24T00:40:40Z,2026-03-24T00:48:24Z,0,False,HTML
+https://github.com/kpcrmv4/stockmanager/pull/5,fix: resolve chat RLS infinite recursion causing 500 error,2026-03-24T18:15:51Z,2026-03-24T18:15:59Z,1,False,TypeScript
+https://github.com/wwwourstudio/leverage-ai-chat/pull/357,"UI/UX polish: copy animation, toasts, jump-to-bottom, date separators…",2026-03-28T03:24:39Z,2026-03-28T03:24:46Z,1,False,TypeScript
+https://github.com/spichen/specrun/pull/4,Add interactive chat mode with --chat flag,2026-03-28T09:07:12Z,2026-03-28T09:08:36Z,0,False,TypeScript
+https://github.com/andrrrrey/Tenot/pull/77,"fix: align content left, fix mobile chat input, single-line textarea",2026-03-27T07:50:23Z,2026-03-27T07:50:30Z,0,True,TypeScript
+https://github.com/rixdennis9-create/Taschenrechner-1/pull/16,"Full-page starry bg, fix chat height, Android back button",2026-03-27T15:06:20Z,2026-03-27T15:06:28Z,0,False,HTML
+https://github.com/sharonlombardo/Fdv-concierge/pull/7,Fix curate rotation + add concierge chat navigation,2026-03-26T21:29:24Z,2026-03-26T21:29:30Z,1,False,TypeScript
+https://github.com/arjanjin/ThaiLLM/pull/1,Add ThaiLLM Pathumma API client and Web UI,2026-03-29T19:42:39Z,2026-03-29T19:44:44Z,0,False,HTML
+https://github.com/FolahanWilliams/decision-intel/pull/315,"Fix TypeScript errors in journal route, billing, chat sessions, deals…",2026-03-28T16:27:23Z,2026-03-28T16:27:30Z,1,False,TypeScript
+https://github.com/scwayman1/event-intelligence-hub/pull/25,Franck: real-time auto-seating + persistent chat memory,2026-03-28T19:16:24Z,2026-03-28T19:16:37Z,0,False,TypeScript
+https://github.com/loki217089-jpg/capyworlds/pull/90,Add 1-on-1 scenario chat room,2026-03-23T11:06:24Z,2026-03-23T11:07:02Z,0,False,HTML
+https://github.com/matthewyonan/agent-clerk-plugin/pull/13,Fix step-3 chat: update jQuery selectors to match ac-prefixed HTML IDs,2026-03-25T15:26:59Z,2026-03-25T15:27:26Z,0,False,PHP
+https://github.com/wanghwplus/LootG/pull/1,Strip taint from secure strings in chat event handlers,2026-03-28T14:00:33Z,2026-03-28T14:34:40Z,0,False,Lua
+https://github.com/Carrerajorge/Hola/pull/493,fix(chat): route aiState resets to correct conversation via conversationId,2026-03-28T21:43:58Z,2026-03-28T21:44:03Z,1,False,TypeScript
+https://github.com/landonray/Command-center/pull/19,Fix mobile navigation to show context-appropriate tabs,2026-03-30T06:26:32Z,2026-03-30T06:26:45Z,0,False,JavaScript
+https://github.com/TheGainsLab/wodwisdom/pull/268,Add Try it Free CTA and real examples heading to AI Coaching page,2026-03-28T16:28:55Z,2026-03-28T16:30:11Z,0,False,TypeScript
+https://github.com/imjosephheras/sales/pull/425,perf: optimize image loading speed in chat and file serving,2026-03-27T15:04:17Z,2026-03-27T15:04:23Z,0,False,PHP
+https://github.com/abnasim/TekAutomate/pull/32,Balance chat verbosity — informative but focused,2026-03-29T08:49:02Z,2026-03-29T08:49:11Z,0,False,TypeScript
+https://github.com/Msliz00/igaming-master-flow/pull/2,"feat: dashboard central — 4 painéis, Claude API, Supabase live",2026-03-23T19:27:26Z,2026-03-23T19:27:58Z,0,False,
+https://github.com/FolahanWilliams/decision-intel/pull/306,feat: add Founder AI chat widget with dedicated endpoint,2026-03-28T14:00:07Z,2026-03-28T14:00:14Z,1,False,TypeScript
+https://github.com/Stratimaagency/scalyo/pull/55,fix: use DeepSeek v1 API URL + show real error messages in chat,2026-03-26T02:01:50Z,2026-03-26T02:01:58Z,0,False,HTML
+https://github.com/CAPFlyingFun/StormTracker/pull/3,"Fix translation failures: wire AI language/settings, expand auto-translate coverage",2026-03-29T17:41:38Z,2026-03-29T23:56:57Z,1,False,TypeScript
+https://github.com/kpcrmv4/KPPromptCreator/pull/35,"Add ""ปรึกษา AI เพิ่มเติม"" chat for GAS Wizard analysis",2026-03-28T07:21:34Z,2026-03-28T07:21:42Z,0,False,JavaScript
+https://github.com/crisippolite/Bucks-AI/pull/192,feat: replace old LayoutShell+WidgetGrid with WorkspaceShell,2026-03-28T16:09:11Z,2026-03-28T16:09:23Z,0,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/106,feat: Backend Truth Layer — Run/Step IDs + Stream Protocol V2,2026-03-29T02:12:19Z,2026-03-29T02:12:20Z,0,False,TypeScript
+https://github.com/soheib77130/ServikoV2/pull/6,"Refonte complète des dashboards: matching temps réel, chat, paiement, notation",2026-03-28T13:57:06Z,2026-03-28T13:57:13Z,0,False,HTML
+https://github.com/kpcrmv4/stockmanager/pull/9,feat: add push notifications for chat messages when screen is closed,2026-03-24T20:21:51Z,2026-03-24T20:22:01Z,1,False,TypeScript
+https://github.com/imjosephheras/sales/pull/423,fix: resolve chat employee list not loading due to wrong API base path,2026-03-26T21:14:47Z,2026-03-26T21:14:54Z,0,False,PHP
+https://github.com/cbuckley-code/Cosi/pull/2,fix: resolve session type mismatch causing DELETE not to clear chat sessions,2026-03-29T07:58:01Z,2026-03-29T07:59:36Z,0,False,JavaScript
+https://github.com/Genie268/on-it-with-genie/pull/1,Fix missing closing div tag in chat container section,2026-03-30T09:12:13Z,2026-03-30T09:13:57Z,0,False,HTML
+https://github.com/dncdante911/messenger_v2/pull/403,Add Business tab to ChatsScreenModern for business owner inbox,2026-03-28T10:07:09Z,2026-03-28T10:07:16Z,0,False,Kotlin
+https://github.com/tseggai/balkinaAI/pull/202,feat: split marketing into tenant landing + customer app page,2026-03-28T17:10:49Z,2026-03-28T17:10:57Z,0,False,TypeScript
+https://github.com/crisippolite/Bucks-AI/pull/125,feat: split Model Chat and Court Lab into separate pages,2026-03-22T18:59:48Z,2026-03-22T18:59:56Z,0,False,TypeScript
+https://github.com/salvormallow/finlens/pull/1,Add advisor memory system for persistent client knowledge,2026-03-28T22:30:58Z,2026-03-28T22:34:57Z,0,False,TypeScript
+https://github.com/GaryLuton/fluffy-octo-funicular-fe/pull/23,Turn FloveeHub into Roblox-style game platform with 9 experiences,2026-03-29T14:06:44Z,2026-03-29T14:06:52Z,0,False,HTML
+https://github.com/cmaldonado80/ultimatebrain/pull/53,fix: wire sourceAgentId through ChatSessionManager to frontend,2026-03-27T16:42:16Z,2026-03-27T16:43:48Z,0,False,TypeScript
+https://github.com/K3E9X/All-Hack/pull/48,"fix: Chat, Scan persistence, Exploit Assistant, multi-provider support",2026-03-28T13:58:00Z,2026-03-28T13:58:08Z,1,False,Python
+https://github.com/abnasim/TekAutomate/pull/31,"Tighten chat rules — short responses, no walls of text",2026-03-29T08:47:29Z,2026-03-29T08:47:44Z,0,False,TypeScript
+https://github.com/Goifal/mindhome/pull/658,Fix Chat Card: create Ingress session server-side in integration,2026-03-28T18:03:07Z,2026-03-28T18:03:22Z,0,False,Python
+https://github.com/charleslow/code-stories/pull/18,Fix mobile chat panel only filling half the screen,2026-03-23T03:50:50Z,2026-03-23T03:51:02Z,0,False,JavaScript
+https://github.com/wwwourstudio/leverage-ai-chat/pull/361,Replace green/emerald/teal palette with blue/violet throughout chat UI,2026-03-28T18:38:36Z,2026-03-28T18:38:41Z,1,False,TypeScript
+https://github.com/RequityGit/requity/pull/1045,Update Retell AI widget public key,2026-03-29T15:34:41Z,2026-03-29T15:34:49Z,0,False,TypeScript
+https://github.com/dncdante911/messenger_v2/pull/401,fix: business/personal chat thread routing and Signal ratchet protection,2026-03-28T09:49:09Z,2026-03-28T09:49:18Z,0,False,Kotlin
+https://github.com/AlfanumrikOS/Alfanumrik/pull/132,Remove stale voice references from help FAQ and welcome page,2026-03-26T13:13:05Z,2026-03-26T13:13:16Z,1,False,TypeScript
+https://github.com/felipedelafuente1/partsflow-landing-v4/pull/11,feat: connect contact form to Supabase CRM + Google Chat notification,2026-03-28T22:50:47Z,2026-03-28T22:50:53Z,0,False,TypeScript
+https://github.com/riverwest-mike/riverwest-toolbox/pull/382,"Add cost tracking, delete, duplicate check, and dashboard tables",2026-03-29T13:48:57Z,2026-03-29T13:49:04Z,0,False,TypeScript
+https://github.com/roziyevbehroz-tech/Multilevel/pull/23,feat: add streaming for real-time feedback display,2026-03-27T12:49:13Z,2026-03-27T12:49:23Z,0,False,TypeScript
+https://github.com/charleslow/code-stories/pull/26,Fix chat panel positioning in desktop mode,2026-03-25T06:21:34Z,2026-03-25T06:34:33Z,0,False,JavaScript
+https://github.com/RequityGit/requity/pull/955,Update Requity chat logo image,2026-03-26T17:42:24Z,2026-03-26T17:44:35Z,0,False,TypeScript
+https://github.com/VilDeMil/handschelle/pull/145,feat: add KI-Analyse link to each straftat search bar,2026-03-26T06:03:53Z,2026-03-26T06:04:02Z,0,False,PHP
+https://github.com/RequityGit/requity/pull/966,Update Retell chat widget branding and add welcome message,2026-03-27T15:06:37Z,2026-03-27T15:06:49Z,0,False,TypeScript
+https://github.com/Aasum-coder/primeverse-access/pull/129,feat: add Telegram bot webhook for SYSTM8NotifyBot,2026-03-26T13:01:19Z,2026-03-26T13:14:28Z,0,False,TypeScript
+https://github.com/Unchainedmindprompts/Luxe-New-Website-/pull/81,Remove AI chat feature and @anthropic-ai/sdk dependency,2026-03-29T21:02:32Z,2026-03-29T21:02:39Z,0,False,TypeScript
+https://github.com/leboff/lisztomania/pull/51,Introduce repository/data-access layer to abstract Supabase queries (closes #35),2026-03-28T01:26:25Z,2026-03-28T01:27:10Z,0,False,TypeScript
+https://github.com/samaig-araviel/araviel-web/pull/218,feat: normalize tone options and sync between settings and chat dropdown,2026-03-23T21:42:57Z,2026-03-23T21:43:07Z,0,False,JavaScript
+https://github.com/doggychip/AlphaArena/pull/42,Add all missing tables to migrate.ts auto-creation,2026-03-25T14:24:37Z,2026-03-25T14:24:46Z,0,False,TypeScript
+https://github.com/benkbh03/CykelBoersen/pull/56,Flyt AI chat-knap til nederste højre hjørne,2026-03-23T22:00:36Z,2026-03-23T22:00:47Z,0,False,JavaScript
+https://github.com/RequityGit/requity/pull/977,Update Retell AI agent ID for chat widget,2026-03-27T23:30:07Z,2026-03-27T23:30:13Z,0,False,TypeScript
+https://github.com/dncdante911/messenger_v2/pull/402,"fix: avatar upload field name, auto-reply routing, and stats tracking",2026-03-28T10:00:24Z,2026-03-28T10:00:30Z,0,False,Kotlin
+https://github.com/VilDeMil/handschelle/pull/137,fix: route Ollama requests through PHP proxy to avoid CORS errors,2026-03-26T03:59:48Z,2026-03-26T03:59:56Z,0,False,PHP
+https://github.com/karltor/MunkenTipset/pull/53,"Chat: compact 2x2 match grid with click-to-expand popups, sticky inpu…",2026-03-28T19:45:59Z,2026-03-28T19:47:39Z,0,False,JavaScript
+https://github.com/badpad93/Lead-generator/pull/77,Update How It Works step to reflect lead purchase model,2026-03-28T23:56:38Z,2026-03-28T23:56:48Z,0,False,TypeScript
+https://github.com/dncdante911/messenger_v2/pull/400,feat: full business/personal chat thread separation,2026-03-28T09:25:23Z,2026-03-28T09:25:29Z,0,False,Kotlin
+https://github.com/TomasBalestrin/Bethel-CS/pull/40,fix: always use first connected WPP instance (not filtered by special…,2026-03-26T19:36:38Z,2026-03-26T19:36:47Z,0,False,TypeScript
+https://github.com/andrrrrey/vozvrat/pull/26,"Fix chat to show only public messages, not staff-only comments",2026-03-28T16:08:51Z,2026-03-28T16:09:00Z,0,False,HTML
+https://github.com/chazbrodie/evincarr-resume-site/pull/4,"Update resume: remove education expected date, update chat prompt",2026-03-29T01:44:59Z,2026-03-29T01:45:04Z,0,False,HTML
+https://github.com/octopusreview/octopus/pull/70,feat: add Chat button to repository detail page,2026-03-26T20:24:13Z,2026-03-26T20:48:41Z,13,False,TypeScript
+https://github.com/samoore1010/Concilium/pull/13,Fix TTS voice routing and enforce click-to-reveal for audience messages,2026-03-30T00:25:06Z,2026-03-30T00:25:14Z,0,False,TypeScript
+https://github.com/Aasum-coder/primeverse-access/pull/135,feat: send Telegram notification to IB when lead submits UID,2026-03-27T01:44:05Z,2026-03-27T01:44:12Z,0,False,TypeScript
+https://github.com/abnasim/TekAutomate/pull/23,Let AI handle 'build it' — keep conversation context,2026-03-29T07:19:04Z,2026-03-29T07:19:13Z,0,False,TypeScript
+https://github.com/StawWasTaken/Swiftaw/pull/53,Implement comprehensive chat management and tools features for Tithonia,2026-03-26T21:54:51Z,2026-03-26T21:55:02Z,0,False,JavaScript
+https://github.com/imjosephheras/sales/pull/418,Add internal employee chat module,2026-03-26T20:08:03Z,2026-03-26T20:08:09Z,0,False,PHP
+https://github.com/choiceoh/Deneb/pull/307,gateway-go: wire Telegram → chat handler for end-to-end replies,2026-03-25T15:21:19Z,2026-03-25T15:21:55Z,1,False,Go
+https://github.com/Schrottsocke/Projekt-Personal-Assistent/pull/53,fix(api): Rate-Limiting für REST API (#16),2026-03-27T20:45:22Z,2026-03-27T20:45:36Z,0,False,Python
+https://github.com/rixdennis9-create/Taschenrechner-1/pull/25,feat: Offline-KI integriert – kein API-Key nötig + Online/Offline Ums…,2026-03-28T02:30:25Z,2026-03-28T02:30:33Z,0,False,HTML
+https://github.com/takeshy/obsidian-gemini-helper/pull/78,feat: migrate chat to Gemini Interactions API with server-side conversation state,2026-03-27T22:01:40Z,2026-03-27T22:59:41Z,78,False,TypeScript
+https://github.com/FolahanWilliams/decision-intel/pull/307,"refactor: simplify founder chat — security, efficiency, and quality f…",2026-03-28T14:07:33Z,2026-03-28T14:07:42Z,1,False,TypeScript
+https://github.com/ProxyAyush/KGMU_AI_Chatbot/pull/12,Fix user chat bubble: right-align and white text on blue background,2026-03-26T19:36:52Z,2026-03-26T19:37:00Z,1,False,JavaScript
+https://github.com/cabgcu/vendoradmin/pull/73,Fix OpenRouter 404 by removing expired fallback key and updating model,2026-03-27T06:36:18Z,2026-03-27T06:36:25Z,0,False,HTML
+https://github.com/Lgarilhe/remix-of-event-template/pull/31,fix: action ID mismatches + missing actions in credit catalog,2026-03-29T21:47:43Z,2026-03-29T21:49:22Z,0,False,TypeScript
+https://github.com/largekite/kchime/pull/62,Unify KChime icon: speech bubble with sound waves across all surfaces,2026-03-27T19:37:00Z,2026-03-27T19:37:09Z,0,False,TypeScript
+https://github.com/shuna/weavelet-canvas/pull/311,Add comprehensive navigation history tracking for all node movements,2026-03-29T02:47:02Z,2026-03-29T02:47:06Z,0,True,TypeScript
+https://github.com/anthonymishriki1-ops/mcc-master/pull/18,Fix mobile chat scroll with dvh units + touch scroll,2026-03-24T20:51:40Z,2026-03-24T20:51:50Z,0,False,HTML
+https://github.com/yoyo-gitroi/Marketing360/pull/21,Enable web search in chat send and research routes,2026-03-26T06:04:36Z,2026-03-26T06:04:44Z,0,False,TypeScript
+https://github.com/micro/mu/pull/473,"Workspace: tabs, save as app, better layout",2026-03-29T13:20:36Z,2026-03-29T13:20:48Z,87,False,Go
+https://github.com/pawlict/AISTATEweb/pull/587,Add analyst panels to Chat LLM and Analysis LLM pages,2026-03-28T22:33:40Z,2026-03-28T22:33:47Z,0,False,Python
+https://github.com/mirexes/TimewiseV2/pull/67,Исправлено: сообщения отмечаются прочитанными при открытии чата,2026-03-29T06:26:02Z,2026-03-29T06:26:08Z,0,False,C#
+https://github.com/Vladosik02/TelegramFlaka/pull/2,fix: add set_my_commands + set_chat_menu_button to post_init,2026-03-29T13:16:45Z,2026-03-29T18:40:48Z,0,False,Python
+https://github.com/nicolapicasso/sinapsisdata/pull/71,feat(chat): add data source integration and file attachments to repor…,2026-03-27T06:54:06Z,2026-03-27T06:58:26Z,0,False,TypeScript
+https://github.com/419vive/kunjia-autos-ai-chatbot/pull/25,fix(ui): 真人聊按鈕改為「想和真人聊這台車」,2026-03-25T17:49:02Z,2026-03-25T17:49:25Z,0,False,Python
+https://github.com/PJ-stellar/STELLARUPGRADES/pull/21,Add AI chat widget with Claude integration for customer support,2026-03-30T03:52:37Z,2026-03-30T03:52:45Z,0,False,HTML
+https://github.com/alonbenitzhak-alt/MANAIO/pull/62,feat: internal chat system for contact inquiries + buyer messages tab,2026-03-29T20:57:18Z,2026-03-29T20:57:25Z,0,False,TypeScript
+https://github.com/andrrrrey/Tenot/pull/66,"fix: mobile layout improvements for favorites, listing, and chats pages",2026-03-25T19:21:27Z,2026-03-25T19:21:36Z,0,True,TypeScript
+https://github.com/riverwest-mike/riverwest-toolbox/pull/301,"Fix memory save error feedback, add property name to chat tabs, rende…",2026-03-24T18:56:36Z,2026-03-24T18:56:43Z,0,False,TypeScript
+https://github.com/derank-eu/cs2-observability/pull/1,feat: scaffold solution structure with full Core event model,2026-03-29T17:35:44Z,2026-03-29T18:54:14Z,0,False,C#
+https://github.com/Goifal/mindhome/pull/655,Fix Chat Card: use HA Ingress path instead of proxy for addon communi…,2026-03-28T17:36:45Z,2026-03-28T17:36:52Z,0,False,Python
+https://github.com/abnasim/TekAutomate/pull/29,Consolidate 5 prompts to 3 — unified browser-direct prompt,2026-03-29T08:32:41Z,2026-03-29T08:32:48Z,0,False,TypeScript
+https://github.com/riverwest-mike/riverwest-toolbox/pull/387,"Add focus mode, immediate save, duplicate check, truncation warning",2026-03-29T15:30:01Z,2026-03-29T15:30:07Z,0,False,TypeScript
+https://github.com/annie0tang/masterprompted/pull/25,Match Few Shot page chat body to Prompt Construction layout,2026-03-30T11:49:27Z,2026-03-30T11:50:00Z,0,False,TypeScript
+https://github.com/theaiexitstrategy-ab/iSlayStudios/pull/9,"Remove Vapi popup, add Claude-powered chat widget, add promo intercep…",2026-03-28T22:21:49Z,2026-03-28T22:21:55Z,0,False,HTML
+https://github.com/andrrrrey/Tenot/pull/74,"fix(mobile): use proven patterns — fresh-grid for fav, DOM manipulati…",2026-03-26T20:43:47Z,2026-03-26T20:45:35Z,0,True,TypeScript
+https://github.com/benjaminchait/bubbles/pull/1,Implement Phase 1: data access for iMessage and Mail.app,2026-03-27T06:17:31Z,2026-03-27T06:17:40Z,0,False,Python
+https://github.com/dncdante911/messenger_v2/pull/406,Fix business inbox: owner now sees incoming client chats in Business tab,2026-03-28T14:45:23Z,2026-03-28T14:45:29Z,0,False,Kotlin
+https://github.com/davidecampman/Cadence/pull/32,Add separate chats with sidebar chat list,2026-03-24T03:28:33Z,2026-03-24T03:31:02Z,0,False,Python
+https://github.com/boolafish/TravelMemory/pull/1,doc: add UI/UX design document,2026-03-29T09:04:18Z,2026-03-29T09:05:08Z,0,False,TypeScript
+https://github.com/jpgraviss/gm/pull/26,"Launch readiness: AI features, real metrics, Drive operations",2026-03-28T14:28:29Z,2026-03-28T14:32:06Z,0,False,TypeScript
+https://github.com/vlandeiro/vibes/pull/3,fix: use max_completion_tokens for OpenAI API,2026-03-29T23:11:50Z,2026-03-29T23:12:40Z,0,False,HTML
+https://github.com/RequityGit/requity/pull/972,Update Retell AI widget public key,2026-03-27T20:05:38Z,2026-03-27T20:05:43Z,0,False,TypeScript
+https://github.com/leboff/lisztomania/pull/52,Consolidate hard-coded constants into shared configuration modules (closes #36),2026-03-28T01:35:07Z,2026-03-28T01:35:43Z,0,False,TypeScript
+https://github.com/amirbiron/Social-publisher/pull/37,Support multiple Telegram chat IDs for notifications,2026-03-27T09:02:50Z,2026-03-27T09:16:53Z,0,False,Python
+https://github.com/Amanroxtar/ET-Financial-Buddy/pull/2,fix: add action:sendMessage to n8n Chat Trigger payload,2026-03-29T19:04:44Z,2026-03-29T19:04:52Z,0,False,TypeScript
+https://github.com/yuto2245/swell_child/pull/13,ComposerをClaude.ai風2段構造にリデザイン,2026-03-28T13:11:42Z,2026-03-28T13:19:11Z,0,False,CSS
+https://github.com/alonbenitzhak-alt/MANAIO/pull/68,"feat: multilingual country pages, AI chat limits, blog fixes, share b…",2026-03-29T22:34:24Z,2026-03-29T22:34:32Z,0,False,TypeScript
+https://github.com/dncdante911/messenger_v2/pull/407,fix: messages disappear on re-open + business/search chat open broken,2026-03-28T17:26:56Z,2026-03-28T17:27:02Z,0,False,Kotlin
+https://github.com/mwasambilijaphet-glitch/Laundry-Connect--frontend/pull/23,"Remove WhatsApp button, use website chat",2026-03-28T07:12:09Z,2026-03-28T07:12:14Z,0,False,JavaScript
+https://github.com/Goifal/mindhome/pull/659,Fix Chat Card: dynamische Addon-Slug-Discovery + bessere Fehlermeldungen,2026-03-28T18:26:25Z,2026-03-28T18:26:42Z,0,False,Python
+https://github.com/genemagg10/lafayette-pulse/pull/23,"Fix chat: add error handling, show errors in UI, use anon client for RAG",2026-03-26T23:30:36Z,2026-03-26T23:30:46Z,0,False,Python
+https://github.com/hysitech/openclaw/pull/3,Add ACP agent init script for Jarvis,2026-03-29T03:38:21Z,2026-03-29T03:38:53Z,0,True,Shell
+https://github.com/AlfanumrikOS/Alfanumrik/pull/115,Fix UpgradeModal not showing: parse server 429 CHAT_LIMIT response,2026-03-26T08:19:13Z,2026-03-26T08:19:44Z,1,False,TypeScript
+https://github.com/imjosephheras/sales/pull/422,Auto-provision chat module on bootstrap,2026-03-26T21:01:36Z,2026-03-26T21:01:42Z,0,False,PHP
+https://github.com/Unchained-leader/unchained-marketing-coach/pull/40,Replace client-facing URLs with unchained-leader.com,2026-03-28T18:48:37Z,2026-03-28T18:48:43Z,0,False,JavaScript
+https://github.com/mattdarbro/lucid-agent/pull/170,"Switch chat to Sonnet, add prompt caching, use Haiku for fact extraction",2026-03-26T21:09:00Z,2026-03-26T21:13:48Z,0,False,TypeScript
+https://github.com/quimibond/quimibond-intelligence/pull/8,Fix invalid anthropic-version header in chat API,2026-03-24T07:42:29Z,2026-03-24T07:43:30Z,0,False,TypeScript
+https://github.com/me-pankajmunde/rag-agent-mini-project/pull/5,Convert UI from Streamlit to Gradio,2026-03-29T07:27:39Z,2026-03-29T07:27:57Z,0,False,Python
+https://github.com/alex-mextner/ExpenseSyncBot/pull/21,refactor: extract requireGroup guard to eliminate boilerplate in command handlers,2026-03-30T05:37:46Z,2026-03-30T05:48:58Z,0,False,TypeScript
+https://github.com/lippei11/velocoach-ai-buddy/pull/48,feat: Phase 4 Task 3 — wire action chips to execute-chat-action,2026-03-28T02:52:29Z,2026-03-28T02:52:37Z,0,False,TypeScript
+https://github.com/amit5115/CodexVid/pull/4,"feat: fix video layout, clickable chapter timestamps, segment chat",2026-03-30T04:33:10Z,2026-03-30T04:33:37Z,0,False,Python
+https://github.com/hanyuriyu/lingonect/pull/47,Redesign chat page with retro CRT monitor frame and smaller layout,2026-03-24T19:46:07Z,2026-03-24T19:46:13Z,0,False,HTML
+https://github.com/ekby0104/claudyueee/pull/1,Add Python FastAPI backend with Claude AI integration,2026-03-20T19:51:55Z,2026-03-20T20:01:25Z,0,False,HTML
+https://github.com/KirillTrubitsyn/snab-chat/pull/98,feat: match admin panel logo to main chat logo (SpektrIcon + styled t…,2026-03-24T10:25:02Z,2026-03-24T11:11:18Z,0,False,TypeScript
+https://github.com/souten-yd/CodeAgentPersonal/pull/76,fix: emit llm_thinking events in chat mode to prevent stuck Working display,2026-03-24T23:01:16Z,2026-03-24T23:01:32Z,0,False,Python
+https://github.com/karltor/MunkenTipset/pull/52,"Mobile chat: full-screen chat, match cards pushed below fold",2026-03-28T19:29:35Z,2026-03-28T19:29:44Z,0,False,JavaScript
+https://github.com/bsides230/LYRN-AI/pull/122,Add debug_live.py: single-command live pipeline test with real model,2026-03-24T00:26:50Z,2026-03-24T00:26:57Z,1,False,Python
+https://github.com/AlfanumrikOS/Alfanumrik/pull/153,"Production hardening: quiz timer, chat typing indicator, usage limits",2026-03-27T10:44:07Z,2026-03-27T10:44:15Z,1,False,TypeScript
+https://github.com/choiceoh/Deneb/pull/315,"gateway-go: fix error handling, message validation, and event observability",2026-03-26T00:16:08Z,2026-03-26T00:17:08Z,1,False,Go
+https://github.com/leboff/lisztomania/pull/49,"Extract service layer for trips, checklist, generation, and chat (fixes #33)",2026-03-28T01:00:58Z,2026-03-28T01:03:10Z,0,False,TypeScript
+https://github.com/zzsykw8tf5-ai/LuckyStarApp/pull/1,Fix broken CSS variables causing invisible UI elements,2026-03-29T16:42:06Z,2026-03-29T16:42:16Z,0,False,HTML
+https://github.com/NextMonthLab/icemaker/pull/1997,Add mobile Canvas/Chat toggle for production layout,2026-03-26T14:22:11Z,2026-03-26T14:22:19Z,0,False,TypeScript
+https://github.com/imjosephheras/sales/pull/428,"Optimize profile images to WebP on upload, progressive avatar loading…",2026-03-27T15:44:00Z,2026-03-27T15:44:13Z,0,False,PHP
+https://github.com/bercly0b/rtg/pull/90,fix: dynamically update online status in chat header,2026-03-25T15:45:08Z,2026-03-26T05:12:01Z,0,False,Rust
+https://github.com/dadashhh/dadash-crm/pull/1052,Normalize Carlos API conversation objects with Supabase data,2026-03-29T22:01:47Z,2026-03-29T22:01:52Z,0,False,HTML
+https://github.com/psicologoai13-maker/my-mind-mirror-84/pull/69,Deprecate 3 legacy edge functions,2026-03-25T11:53:19Z,2026-03-25T11:57:04Z,0,False,TypeScript
+https://github.com/nodetool-ai/nodetool/pull/2316,Add agent mode selector dropdown to chat composer,2026-03-25T22:47:30Z,2026-03-28T12:06:46Z,298,False,TypeScript
+https://github.com/davidecampman/Cadence/pull/48,Auto-create chat when adding message to handle race conditions,2026-03-25T13:06:23Z,2026-03-25T13:06:29Z,0,False,Python
+https://github.com/dncdante911/messenger_v2/pull/408,fix: server 500 on loadmore/getMessages + 404 business-inbox + media-…,2026-03-28T17:50:50Z,2026-03-28T17:51:34Z,0,False,Kotlin
+https://github.com/deckerd451/innovation-engine/pull/133,"Mobile audit fixes: viewport, inputs, scroll lock, panel nav",2026-03-28T12:26:48Z,2026-03-28T12:26:57Z,0,False,JavaScript
+https://github.com/ruslan39kld/neurbiz/pull/2,Cache GigaChat token on server and update bot prompts,2026-03-26T05:12:16Z,2026-03-26T05:12:23Z,0,False,TypeScript
+https://github.com/theReuben/guess-chat-pokedoku/pull/8,Fix All Grids play mode not showing submission grids,2026-03-28T09:59:25Z,2026-03-28T09:59:35Z,0,False,TypeScript
+https://github.com/MMSoftwareDev/thepaybureau/pull/264,feat: rebrand AI assistant to Penny with guardrails and daily rate li…,2026-03-28T18:56:59Z,2026-03-28T18:57:07Z,0,False,TypeScript
+https://github.com/Rizu1304/zuriva-academy/pull/27,feat: WhatsApp-Style Forum + Live Dashboard Feed,2026-03-26T09:43:28Z,2026-03-26T09:43:37Z,0,False,TypeScript
+https://github.com/genemagg10/lafayette-pulse/pull/20,Add RAG-powered Love Lafayette AI chat bot,2026-03-26T23:02:00Z,2026-03-26T23:02:08Z,0,False,Python
+https://github.com/hisr2024/MindVibe/pull/1372,Remove redundant sections from Home and KIAAN Chat pages,2026-03-27T16:02:24Z,2026-03-27T16:02:46Z,1,False,Python
+https://github.com/Test-Plus-XD/Android-Assignment/pull/9,Add skeleton loading placeholders with Eclipse.gif overlay,2026-03-28T09:35:57Z,2026-03-28T09:36:09Z,0,False,Dart
+https://github.com/bernardladenthin/java-llama.cpp/pull/25,Upgrade llama.cpp from b8268 to b8495 with compatibility fixes,2026-03-29T15:15:48Z,2026-03-29T15:39:37Z,0,True,C++
+https://github.com/spunapp/spun/pull/115,"Fix flash on refresh: remove inline error boundary, fix spinner colou…",2026-03-26T15:47:33Z,2026-03-26T15:47:42Z,0,False,TypeScript
+https://github.com/abnasim/TekAutomate/pull/41,Remove auto-attachment of screenshots to AI chat messages,2026-03-30T10:10:11Z,2026-03-30T10:11:13Z,0,False,TypeScript
+https://github.com/Klebercdc/Treino-do-dia/pull/258,fix: multiselect para tipoTreino/patologia e URL absoluta no iOS,2026-03-29T11:09:14Z,2026-03-29T11:09:38Z,0,False,JavaScript
+https://github.com/alonbenitzhak-alt/MANAIO/pull/66,fix: leads from property page now appear in admin פניות tab + about p…,2026-03-29T22:03:53Z,2026-03-29T22:03:59Z,0,False,TypeScript
+https://github.com/ctenopoma/trace/pull/1,"feat: implement missing frontend lib files, traceability-based planning, and chat history",2026-03-29T13:39:07Z,2026-03-29T13:39:18Z,0,False,Python
+https://github.com/Nomarcus/svensk-laxhjalp/pull/23,Replace icon slideshow with screenshot slideshow on landing page,2026-03-27T18:52:57Z,2026-03-27T18:55:03Z,0,False,TypeScript
+https://github.com/Goifal/mindhome/pull/660,Fix Chat Card: Supervisor-Fallback wenn Integration nicht installiert,2026-03-28T18:34:22Z,2026-03-28T18:34:29Z,0,False,Python
+https://github.com/msmall2691-eng/maine-cleaning-co/pull/6,"Graceful degradation for AI chat, weather, and email",2026-03-27T18:23:31Z,2026-03-27T18:23:37Z,0,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/98,"feat: Chat V3 — slash commands, @mentions, keyboard shortcuts",2026-03-28T18:59:14Z,2026-03-28T18:59:16Z,0,False,TypeScript
+https://github.com/ClawCS/claude-code-remote/pull/1,KI-Assistent: Chat-Bubble Icon Redesign,2026-03-24T20:23:23Z,2026-03-24T20:30:19Z,1,False,TypeScript
+https://github.com/Goifal/mindhome/pull/650,Fix chat response missing + unwanted TTS on text chat,2026-03-28T16:42:10Z,2026-03-28T16:42:17Z,0,False,Python
+https://github.com/Wail17/chatbot-piscines/pull/43,Fix: Serve frontend at root URL,2026-03-26T12:22:05Z,2026-03-26T12:22:07Z,0,False,Python
+https://github.com/ganeshgowri-ASA/karaveda/pull/7,Fix broken dashboard navigation links,2026-03-25T14:50:42Z,2026-03-25T14:52:08Z,0,False,TypeScript
+https://github.com/andreas-t-hjertaker/suksess/pull/118,"fix(security): XSS-hardening, webhook-validering, race condition",2026-03-29T07:26:11Z,2026-03-29T07:26:19Z,0,False,TypeScript
+https://github.com/alexkroman/agent/pull/162,Optimize chat_delta text concatenation with buffer,2026-03-26T04:45:34Z,2026-03-26T04:46:06Z,1,False,TypeScript
+https://github.com/wimpex18/tallinn-bot/pull/52,Fix mistralai v2 streaming: stream_async() → stream(),2026-03-22T11:07:21Z,2026-03-22T11:07:32Z,0,False,Python
+https://github.com/tremo/PDFcensor/pull/78,Show input box with placeholder from the start instead of empty chat,2026-03-28T11:59:08Z,2026-03-28T11:59:17Z,0,False,TypeScript
+https://github.com/jacksongmatos/queroumacorapp/pull/59,fix: mostrar nome do sender em cada mensagem no 3-way,2026-03-24T23:53:06Z,2026-03-24T23:54:26Z,0,False,HTML
+https://github.com/kpcrmv4/stockmanager/pull/30,Fix chat notification badge not showing on non-chat pages,2026-03-25T17:22:32Z,2026-03-25T17:45:56Z,1,False,TypeScript
+https://github.com/kotvd76-ux/AILHUB/pull/133,"feat: add word-level syllable/phoneme scores, remove Prosody bar",2026-03-22T18:50:43Z,2026-03-22T18:50:51Z,0,False,HTML
+https://github.com/autobytaste-lab/auto-by-taste/pull/5,feat: add demo chat section below hero showcasing AI Agent capabilities,2026-03-29T02:25:34Z,2026-03-29T02:25:42Z,0,True,TypeScript
+https://github.com/dadashhh/dadash-crm/pull/1005,fix: belongsToActive matches conversation_id directly (Carlos messages),2026-03-26T03:51:50Z,2026-03-26T03:52:00Z,0,False,HTML
+https://github.com/andrewatchison2-afk/ccaistudio.ca/pull/9,Add long-term player memory to AI coach,2026-03-25T15:16:01Z,2026-03-25T15:16:12Z,0,False,HTML
+https://github.com/Senior3514/rentelx-080ee8e3/pull/174,Fix URL extraction: route AddListingModal through ai-chat + scan-yad2 v5,2026-03-30T09:51:33Z,2026-03-30T09:51:40Z,0,False,TypeScript
+https://github.com/Iammohithhh/CPD-Pilot/pull/21,feat: make image_path optional in extract_pfd_from_image,2026-03-27T21:48:29Z,2026-03-27T21:48:39Z,0,False,Python
+https://github.com/KirillTrubitsyn/snab-chat/pull/166,fix: pass auth token in all download URLs and viewer fetch calls,2026-03-29T12:08:10Z,2026-03-29T12:08:24Z,0,False,TypeScript
+https://github.com/andreas-t-hjertaker/suksess/pull/95,"fix(security): XSS, bearer-validering, API-nøkkel-utløp",2026-03-28T07:15:23Z,2026-03-28T07:15:29Z,0,False,TypeScript
+https://github.com/JDJ-Coding/Smart-Manual-monitoring-new/pull/15,feat: 사용자 질의 로그에 IP 및 UserAgent 기록 추가,2026-03-26T04:01:21Z,2026-03-26T04:01:33Z,0,False,TypeScript
+https://github.com/eBulldog-Ops/wire-team-bot/pull/1,test(e2e): enhance decision/action scenarios with structured-output and inverse tests,2026-03-26T07:54:13Z,2026-03-26T07:54:34Z,0,True,TypeScript
+https://github.com/minhazulislam/agol-mcp-proxy/pull/20,Remove suggestion chips from chat sidebar,2026-03-27T16:42:34Z,2026-03-27T16:42:44Z,0,False,Python
+https://github.com/annie0tang/masterprompted/pull/23,"Fix chat body height, style I/O pair, and sync scroll in interactive …",2026-03-27T10:37:29Z,2026-03-27T10:37:44Z,0,False,TypeScript
+https://github.com/davidecampman/Cadence/pull/36,Add persistent chat storage with SQLite backend,2026-03-24T16:03:06Z,2026-03-24T16:07:12Z,0,False,Python
+https://github.com/sandramon2412-png/PRODUCIAQUIZ/pull/5,"feat: Copy button, Lloyd standalone fix, model update",2026-03-29T04:02:43Z,2026-03-29T04:02:49Z,0,False,TypeScript
+https://github.com/kpcrmv4/stockmanager/pull/35,fix: reuse existing subscribed channel for broadcast delivery,2026-03-25T18:58:10Z,2026-03-25T18:58:21Z,1,False,TypeScript
+https://github.com/junryge/ASAS/pull/84,feat: 에이전트 간 LLM 랜덤 대화 시스템 추가,2026-03-30T04:59:44Z,2026-03-30T04:59:53Z,1,False,HTML
+https://github.com/oparra2097/georisk/pull/1,Add Parra Economist — AI-powered macro research chat assistant,2026-03-29T12:37:31Z,2026-03-29T12:55:37Z,0,False,Python
+https://github.com/kpcrmv4/stockmanager/pull/50,Reduce system message spacing with compact centered style,2026-03-26T17:35:46Z,2026-03-26T17:35:54Z,1,False,TypeScript
+https://github.com/lriofrio915/Liberty-Trading-pro/pull/5,feat: botón flotante de Vinces arrastrable,2026-03-30T06:06:16Z,2026-03-30T06:06:21Z,0,False,TypeScript
+https://github.com/harveyknaggs/josh-s-cool-as-page/pull/2,Add landscaping CRM with calendar and chat assistant,2026-03-27T06:33:47Z,2026-03-27T06:33:53Z,0,False,HTML
+https://github.com/Parth1705darji/Tek-Safe-AI/pull/21,feat(skills): Sprint 4 — Admin Skills manager + chat skill selector,2026-03-28T01:51:31Z,2026-03-28T01:51:40Z,0,False,TypeScript
+https://github.com/abnasim/TekAutomate/pull/45,Fix dark mode dropdown background in AI chat settings,2026-03-30T10:41:39Z,2026-03-30T10:41:45Z,0,False,TypeScript
+https://github.com/rarky1git/PalaceRoyale/pull/76,feat: Chat View overlay for Robot game (v0.7.0),2026-03-29T18:40:11Z,2026-03-29T23:22:05Z,0,False,TypeScript
+https://github.com/jacksongmatos/queroumacorapp/pull/3,"Fix structural bugs: add screen-feed wrapper, marketplace nav, chat n…",2026-03-23T08:37:30Z,2026-03-23T08:37:37Z,0,False,HTML
+https://github.com/Klebercdc/Treino-do-dia/pull/264,fix: KRONIA card teal no CSS + CTA 'Iniciar Chat' no KRONOS,2026-03-29T12:04:31Z,2026-03-29T12:04:44Z,0,False,JavaScript
+https://github.com/Tecknocity/Binee/pull/213,Remove duplicate chat sidebar from ChatPage,2026-03-25T02:37:00Z,2026-03-25T02:37:10Z,0,False,TypeScript
+https://github.com/rarky1git/PalaceRoyale/pull/75,CLOSED (see #76) feat: Chat View overlay for Robot game (v0.7.0),2026-03-29T18:12:21Z,2026-03-29T18:22:09Z,0,False,TypeScript
+https://github.com/linksort/linksort/pull/18,Add toggle functionality for chat sidepanel visibility,2026-03-28T12:52:26Z,2026-03-28T13:00:24Z,83,False,JavaScript
+https://github.com/Barrisenn/calculoIMC.github.io/pull/5,fix: tornar chat interativo visível e acessível após feedback da IA,2026-03-21T05:22:16Z,2026-03-21T05:22:30Z,0,False,JavaScript
+https://github.com/VilDeMil/handschelle/pull/146,feat: frontend Ollama URL config + model size in dropdown,2026-03-26T06:11:44Z,2026-03-26T06:11:52Z,0,False,PHP
+https://github.com/himprapatel-rgb/ai-skincare-intelligence-system/pull/83,fix: chat page completely unstyled — convert from CSS modules to regu…,2026-03-30T09:17:35Z,2026-03-30T09:17:42Z,0,False,Python
+https://github.com/matthewyonan/agent-clerk-plugin/pull/14,"Fix step-3 chat: remove duplicate JS, fix AJAX action in admin.js",2026-03-25T15:37:14Z,2026-03-25T15:37:24Z,0,False,PHP
+https://github.com/spunapp/spun/pull/103,Add in-chat platform connection flow,2026-03-24T23:02:45Z,2026-03-24T23:04:35Z,0,False,TypeScript
+https://github.com/ovis35/ai-sessions-salvager/pull/22,Add Anthropic Claude provider support alongside OpenAI,2026-03-27T01:28:58Z,2026-03-27T01:29:10Z,0,False,Python
+https://github.com/juliandeveloper05/julian-soto-portfolio-sys-2026/pull/16,fix: make chat modal full-screen on mobile to unblock send button,2026-03-22T21:49:50Z,2026-03-22T21:49:58Z,0,False,TypeScript
+https://github.com/chris-blvck/Testlaunch/pull/64,feat(lead-catcher): build Lead Catcher pitch page + chat API,2026-03-30T05:33:03Z,2026-03-30T05:33:09Z,0,False,TypeScript
+https://github.com/riverwest-mike/riverwest-toolbox/pull/302,"Add Chat & Memory sections to How Remi Works docs, clean up limitations",2026-03-24T18:59:39Z,2026-03-24T18:59:45Z,0,False,TypeScript
+https://github.com/gabrielvaldivia/portfolio/pull/3,Add hyperlinks for talks and interviews in chat messages,2026-03-28T02:09:58Z,2026-03-28T02:10:07Z,0,False,TypeScript
+https://github.com/jelliottdev/fillform/pull/13,Fix context overflow: JPEG/72dpi images + page batching,2026-03-25T22:11:22Z,2026-03-25T22:11:54Z,0,False,Python
+https://github.com/Goifal/mindhome/pull/652,Fix Chat Card proxy: discover addon URL via Supervisor API,2026-03-28T17:04:34Z,2026-03-28T17:04:56Z,0,False,Python
+https://github.com/fnstggl/compose4/pull/68,"Refine editor layout: restructure tabs, always-on timeline, base vide…",2026-03-28T22:52:50Z,2026-03-28T22:52:55Z,0,False,JavaScript
+https://github.com/gansomedina/cotizacloud/pull/360,fix: agregar CSRF token a todos los fetch POST del panel,2026-03-29T22:41:07Z,2026-03-29T22:41:16Z,0,False,PHP
+https://github.com/dncdante911/messenger_v2/pull/395,feat: clear history for both parties in private chat,2026-03-27T14:34:01Z,2026-03-27T14:34:08Z,0,False,Kotlin
+https://github.com/mwasambilijaphet-glitch/Laundry-Connect--frontend/pull/42,Add theme and language toggles to all customer pages,2026-03-29T09:55:20Z,2026-03-29T09:55:26Z,0,False,JavaScript
+https://github.com/aditiohri/horary/pull/74,"UI: pagination at top, search UX, scroll-to-bottom, sticky followups",2026-03-28T13:52:47Z,2026-03-28T13:53:52Z,0,False,TypeScript
+https://github.com/aloewright/zettl/pull/23,Fix AI: use compat endpoint for dynamic routes,2026-03-25T13:22:53Z,2026-03-25T13:23:14Z,0,False,TypeScript
+https://github.com/cubalive/la-tortuga-sabia/pull/6,fix: Quelina chat fully functional,2026-03-25T21:29:52Z,2026-03-25T21:30:19Z,0,False,TypeScript
+https://github.com/OmniQuestMediaInc/ChatNowZone--BUILD/pull/138,HZ: Create HeatScoreService — six-input advisory HSV (HZ-001 REISSUE),2026-03-29T16:21:53Z,2026-03-29T16:24:08Z,0,False,TypeScript
+https://github.com/tonyhani01/luma-landing/pull/1,Add interactive chat sandbox and ROI calculator components,2026-03-29T01:12:58Z,2026-03-29T01:13:36Z,0,False,HTML
+https://github.com/leokwon68/campus-quick/pull/65,관리자 채팅 관제 페이지 (/admin/chats),2026-03-30T04:06:15Z,2026-03-30T04:06:29Z,0,False,TypeScript
+https://github.com/StawWasTaken/Fortized/pull/261,Fix emoji picker positioning to match GIF panel (right-aligned with c…,2026-03-28T13:59:48Z,2026-03-28T13:59:56Z,0,False,JavaScript
+https://github.com/cubalive/la-tortuga-sabia/pull/5,fix: cursor + chat interactivity in susurro,2026-03-25T21:22:01Z,2026-03-25T21:22:32Z,0,False,TypeScript
+https://github.com/lippei11/velocoach-ai-buddy/pull/47,"feat: Phase 4 Tasks 1, 2, 4 — plan-aware chat context, execute-chat-a…",2026-03-28T02:49:54Z,2026-03-28T02:50:02Z,0,False,TypeScript
+https://github.com/kpcrmv4/stockmanager/pull/10,"feat: profile picture, nickname, and chat quote/reply",2026-03-24T20:58:59Z,2026-03-25T01:29:24Z,1,False,TypeScript
+https://github.com/dcharway/akwaabagigs_mobile_app/pull/38,"Separate chat: Back4App LiveQuery for people, AI Toolkit for support",2026-03-28T23:34:43Z,2026-03-28T23:34:50Z,0,False,Dart
+https://github.com/lqdflying/lobehub/pull/1,🔥 remove: drop broken Kimi Code (kimicodingplan) provider,2026-03-29T16:11:12Z,2026-03-30T08:08:07Z,0,True,TypeScript
+https://github.com/mirai-gpro/gourmet-sp3/pull/137,Fix: コンシェルジュcallbackをグルメモードと完全同一にする,2026-03-22T08:00:50Z,2026-03-22T08:02:54Z,0,False,Python
+https://github.com/Klebercdc/Treino-do-dia/pull/212,fix: quota guard fail-open e erro não exibido como mensagem de chat,2026-03-27T18:39:51Z,2026-03-27T18:46:53Z,0,False,JavaScript
+https://github.com/cabelleirareal/CAI-supabase-24/pull/5,feat: Liquid Glass 3D design system + RLS + chat persistence,2026-03-29T01:09:26Z,2026-03-29T01:09:34Z,0,False,TypeScript
+https://github.com/Froydinger/chatwitharc/pull/402,"Disable IDE/App Builder, hide Apps screen, add Maestro Builder publis…",2026-03-24T01:35:56Z,2026-03-24T01:36:04Z,0,False,TypeScript
+https://github.com/KirillTrubitsyn/snab-chat/pull/120,Fix Telegram reply button: remove selective from force_reply,2026-03-24T17:31:07Z,2026-03-24T17:31:23Z,0,False,TypeScript
+https://github.com/benkbh03/CykelBoersen/pull/27,Tilføj AI support-chat widget med Claude Haiku,2026-03-22T17:48:58Z,2026-03-22T17:49:06Z,0,False,JavaScript
+https://github.com/queroumacor-max/queroumacorapp/pull/3,"Fix structural bugs: add screen-feed wrapper, marketplace nav, chat n…",2026-03-23T07:54:12Z,2026-03-23T08:14:00Z,0,False,HTML
+https://github.com/kkrugley/trailx/pull/7,fix(bot): resolve all audit findings for group chat architecture,2026-03-28T07:53:07Z,2026-03-28T07:54:56Z,0,False,TypeScript
+https://github.com/AdaWorldAPI/ndarray/pull/46,feat(models): complete 1:1 OpenAI API surface + unified router,2026-03-29T21:33:57Z,2026-03-29T21:34:02Z,0,False,Rust
+https://github.com/lippei11/velocoach-ai-buddy/pull/53,feat: Phase 5 Task 2 — Today's Coaching Card on Dashboard,2026-03-28T11:27:44Z,2026-03-28T11:27:52Z,0,False,TypeScript
+https://github.com/tiagofur/kakoclaw/pull/49,feat: add native Android app (Kotlin + Jetpack Compose) with Material 3,2026-03-26T13:10:59Z,2026-03-26T13:11:09Z,0,False,Go
+https://github.com/abnasim/TekAutomate/pull/24,Add tools to AI Chat Anthropic path + build-it handoff fix,2026-03-29T07:38:15Z,2026-03-29T07:38:24Z,0,False,TypeScript
+https://github.com/las-swermers/LAS-Link-Board/pull/97,"Remove quick-add bar, keep inline inputs and Organize button",2026-03-30T08:47:44Z,2026-03-30T08:47:52Z,0,False,HTML
+https://github.com/Klebercdc/Treino-do-dia/pull/133,fix: remove faixa preta no orient-chat-bar,2026-03-23T02:11:17Z,2026-03-23T02:11:27Z,0,False,JavaScript
+https://github.com/Youghz/FlatBot/pull/6,Fix notifications not sent: mark listings seen only after successful notify,2026-03-28T23:14:20Z,2026-03-29T00:03:23Z,0,False,Python
+https://github.com/tseggai/balkinaAI/pull/222,feat: restore left-text/right-phones hero layout + add phone animations,2026-03-29T22:32:30Z,2026-03-29T22:32:38Z,0,False,TypeScript
+https://github.com/amit5115/CodexVid/pull/6,feat: auto-generate AI explanation on Ask about this click,2026-03-30T05:02:44Z,2026-03-30T05:02:55Z,0,False,Python
+https://github.com/benkbh03/CykelBoersen/pull/31,Fix chat widget blocking page clicks with pointer-events: none on con…,2026-03-22T20:08:44Z,2026-03-22T20:08:52Z,0,False,JavaScript
+https://github.com/andrrrrey/Tenot/pull/70,fix: negative margins for guaranteed full-width chat list on mobile,2026-03-26T16:27:10Z,2026-03-26T19:17:33Z,0,True,TypeScript
+https://github.com/Goifal/mindhome/pull/665,Fix WS schema validation (extra id key) and 401 in direct mode,2026-03-28T19:26:29Z,2026-03-28T19:26:36Z,0,False,Python
+https://github.com/creadorodrigo/leadflux/pull/1,feat: add Conversations screen with chat view and human escalation,2026-03-25T03:38:36Z,2026-03-25T03:39:07Z,0,False,JavaScript
+https://github.com/welinrj/vcap2-online-geodatabase/pull/107,Fix chat creation by removing composite index requirement from findDi…,2026-03-23T18:39:12Z,2026-03-23T18:41:14Z,0,False,TypeScript
+https://github.com/iamonly39/StyleMyShack/pull/9,Add CLAUDE.md project context for session handoff,2026-03-25T10:45:20Z,2026-03-25T10:45:38Z,0,False,JavaScript
+https://github.com/andrrrrey/crm_maket_decor/pull/2,docs: add detailed README and role-based user guides,2026-03-29T10:29:07Z,2026-03-29T10:29:17Z,0,False,TypeScript
+https://github.com/tseggai/balkinaAI/pull/223,"feat: revamp /app hero — full screen, bigger phones, synced animations",2026-03-30T05:54:43Z,2026-03-30T05:54:51Z,0,False,TypeScript
+https://github.com/abnasim/TekAutomate/pull/27,Prompt rewrites + Responses API + build-it insertion fix,2026-03-29T08:22:24Z,2026-03-29T08:22:37Z,0,False,TypeScript
+https://github.com/magikmark75/Journal-Guide---21-days-Return-to-Self/pull/1,Add /banana Claude Code plugin for AI image generation,2026-03-29T06:01:43Z,2026-03-29T06:02:06Z,0,False,HTML
+https://github.com/riverwest-mike/riverwest-toolbox/pull/385,Add section-based editor with lock/unlock and fix entity_type constraint,2026-03-29T14:46:10Z,2026-03-29T14:46:17Z,0,False,TypeScript
+https://github.com/tseggai/balkinaAI/pull/212,feat: continuous scrolling chat animation instead of separate screens,2026-03-29T00:48:12Z,2026-03-29T00:48:25Z,0,False,TypeScript
+https://github.com/beyondessential/workhorse/pull/19,"Fix thinking indicator, smooth streaming, chat alignment, collapsible specs panel",2026-03-29T21:19:49Z,2026-03-29T21:19:55Z,0,False,TypeScript
+https://github.com/Oskelias/VendexChat-front/pull/166,fix(chat): bot caído — migrar de Pollinations AI a edge function OpenAI,2026-03-24T18:02:25Z,2026-03-24T18:02:29Z,0,False,TypeScript
+https://github.com/dark-king99/ExecUI/pull/4,"Fix fetch errors, make HomeView cards navigable, add floating AI BotW…",2026-03-28T22:01:44Z,2026-03-28T22:04:10Z,0,False,JavaScript
+https://github.com/landonray/Command-center/pull/18,Add dynamic session naming with AI generation and editable titles,2026-03-30T06:26:09Z,2026-03-30T06:26:16Z,0,False,JavaScript
+https://github.com/tips-of-mine/LCDLLN-test/pull/315,"feat(M32.3): guild system — creation, roster, ranks, permissions, gui…",2026-03-28T09:46:16Z,2026-03-28T09:57:15Z,1,False,C++
+https://github.com/quimibond/quimibond-intelligence/pull/20,"perf: parallelize enrichment, cache chat context, add DB indexes",2026-03-27T22:46:12Z,2026-03-27T23:11:04Z,0,False,TypeScript
+https://github.com/gunterstruck/ORDO/pull/66,fix: robuste Initialisierung und Onboarding-Anzeige repariert,2026-03-28T15:41:05Z,2026-03-28T15:42:20Z,0,False,JavaScript
+https://github.com/qegj567-cloud/NOI2test/pull/422,debug: log full API response to diagnose Kimi truncation issue,2026-03-25T16:23:18Z,2026-03-25T16:23:25Z,0,False,TypeScript
+https://github.com/Senior3514/rentelx-080ee8e3/pull/142,Fix broken AI features and scanner hanging,2026-03-24T19:32:16Z,2026-03-24T19:32:25Z,0,False,TypeScript
+https://github.com/jahooli14/aperture/pull/263,fix(polymath): consolidate serverless functions to stay under 12 limit,2026-03-21T22:45:50Z,2026-03-21T22:45:57Z,1,False,TypeScript
+https://github.com/SRAS2024/arithmatic/pull/2,Redesign UI to chat-based interface with sidebar navigation,2026-03-27T19:12:54Z,2026-03-27T19:13:03Z,0,False,JavaScript
+https://github.com/launchpadsolutionsdev/lightspeed/pull/612,Apply analytical writing style rules to Heartbeat/Shopify Intelligenc…,2026-03-29T01:39:30Z,2026-03-29T01:40:23Z,0,False,JavaScript
+https://github.com/chrisrothwell/thinkarr/pull/168,feat: add chat request-start log and client-log loadMessages errors,2026-03-24T04:33:00Z,2026-03-24T04:37:22Z,0,False,TypeScript
+https://github.com/RequityGit/requity/pull/968,Add Retell AI chat widget component,2026-03-27T18:20:36Z,2026-03-27T18:20:41Z,0,False,TypeScript
+https://github.com/TomasBalestrin/Bethel-CS/pull/24,fix: deleteMentee clears referrals + all related tables,2026-03-25T19:53:25Z,2026-03-25T19:53:33Z,0,False,TypeScript
+https://github.com/nayeongmax/bestsns/pull/88,Add HappyTalk live chat widget to site,2026-03-20T04:10:02Z,2026-03-20T04:10:09Z,0,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/103,feat: Chat V8 — Memory context hints + Save Workflow,2026-03-28T20:34:04Z,2026-03-28T20:34:06Z,0,False,TypeScript
+https://github.com/Media-Stream-AI/MOTHER_AI/pull/35,Enable SSE streaming and reasoning display across all chat interfaces,2026-03-29T07:11:38Z,2026-03-29T07:11:48Z,0,False,TypeScript
+https://github.com/marugaul/COMPRATICA.COM/pull/319,Add floating support chatbot widget to all public pages,2026-03-25T02:13:01Z,2026-03-25T02:13:10Z,0,False,PHP
+https://github.com/joinraman/raman-ecomm-tool/pull/4,Add Meta Ads media buyer AI chat tool,2026-03-29T20:29:24Z,2026-03-29T20:29:53Z,0,False,HTML
+https://github.com/cmaldonado80/ultimatebrain/pull/102,feat: Chat V7 — Suggestion Bar (contextual next actions),2026-03-28T20:16:09Z,2026-03-28T20:16:11Z,0,False,TypeScript
+https://github.com/Goifal/mindhome/pull/662,Fix Chat Card: erreichbare Addon-URL finden + Fallback durch alle Met…,2026-03-28T18:52:48Z,2026-03-28T18:52:58Z,0,False,Python
+https://github.com/choiceoh/Deneb/pull/499,feat(chat): update default model to glm-5.1,2026-03-28T02:39:32Z,2026-03-28T02:39:46Z,1,False,Go
+https://github.com/furkanerdogann-prog/deep-analyzer/pull/92,Admin panel: full mobile responsive layout,2026-03-29T21:20:26Z,2026-03-29T21:21:12Z,0,False,JavaScript
+https://github.com/andrrrrey/Tenot/pull/71,fix(mobile): add negative margins to fav-grid for full viewport width,2026-03-26T19:30:51Z,2026-03-26T19:30:59Z,0,True,TypeScript
+https://github.com/Senior3514/rentelx-080ee8e3/pull/175,CRITICAL: Restore correct Supabase project (zatwwawpyjyqtdpatvla),2026-03-30T10:04:40Z,2026-03-30T10:04:47Z,0,False,TypeScript
+https://github.com/tha2kyanamtumharaalgorithms-javascript/Main-Offline-App/pull/95,Add last order tracking on customer header in main offline app,2026-03-28T04:03:01Z,2026-03-28T04:03:08Z,0,False,JavaScript
+https://github.com/ArtemFilin1990/bitrix24bot/pull/24,"fix: add @-mention detection, missing keywords, and remove dead code",2026-03-24T13:48:12Z,2026-03-24T13:49:12Z,0,False,JavaScript
+https://github.com/maryannbrody/hello-world/pull/27,Change Chat badge to location-based clearing (like unread messages),2026-03-22T23:48:42Z,2026-03-22T23:48:49Z,0,False,HTML
+https://github.com/andrrrrey/vozvrat/pull/24,Fix 1C export format and add staff comments block,2026-03-27T07:39:57Z,2026-03-27T07:40:04Z,0,False,HTML
+https://github.com/BoomerAng9/myclaw/pull/16,feat: register myclaw as Tier 1 infra satellite in AIMS ecosystem,2026-03-25T03:10:15Z,2026-03-25T04:03:54Z,0,False,TypeScript
+https://github.com/rahulzaware31/gharhakNew/pull/9,Add back button to all pages and mobile UI improvements,2026-03-25T04:55:54Z,2026-03-25T04:56:03Z,0,False,JavaScript
+https://github.com/andrejzelnik/dotfiles/pull/16,fix: add JetBrains Mono font and github.copilot extension,2026-03-26T17:44:22Z,2026-03-26T17:44:38Z,0,False,Shell
+https://github.com/HankHuang0516/EClaw/pull/357,fix: share-chat i18n + debug logging for cross-speak,2026-03-21T01:13:53Z,2026-03-21T01:14:24Z,3,False,JavaScript
+https://github.com/Csalvesss/verticalizados-PG/pull/167,"feat: chat estilo Instagram com reações, figurinhas, editar e cancela…",2026-03-25T18:26:17Z,2026-03-25T18:35:42Z,0,False,TypeScript
+https://github.com/clovenbradshaw-ctrl/EO-DB/pull/104,Fix Matrix room creation and improve join error handling,2026-03-30T01:19:31Z,2026-03-30T01:20:44Z,0,False,TypeScript
+https://github.com/RequityGit/requity/pull/946,Add auto-greeting script to Retell chat widget,2026-03-26T15:42:24Z,2026-03-26T15:42:42Z,0,False,TypeScript
+https://github.com/nigelwlee/bluff-casino-economics/pull/2,Improve feedback button UX and make AI chat concise,2026-03-27T03:05:35Z,2026-03-27T03:12:20Z,0,False,Python
+https://github.com/HankHuang0516/EClaw/pull/386,fix: save sender copy in pending flush and auto-collect contacts in owner mode,2026-03-21T14:52:47Z,2026-03-21T14:52:52Z,3,False,JavaScript
+https://github.com/Quobo-co/Quobo-III/pull/552,Add project entity task group chats at kickoff,2026-03-28T20:31:00Z,2026-03-29T02:15:20Z,0,False,TypeScript
+https://github.com/jigneshpandya86-lab/AnjaniNew/pull/7,security: remove eval() RCE vulnerability in AI chat handler,2026-03-28T14:55:27Z,2026-03-28T15:06:55Z,0,False,JavaScript
+https://github.com/michaeljwilt/kidsay-tool-demo/pull/5,Fix mobile scroll: contain auto-scroll within chat panel,2026-03-26T22:27:13Z,2026-03-26T22:29:48Z,0,False,JavaScript
+https://github.com/419vive/kunjia-autos-ai-chatbot/pull/65,fix: security audit — CRITICAL/HIGH/MEDIUM fixes,2026-03-27T23:18:32Z,2026-03-27T23:18:38Z,0,False,Python
+https://github.com/karltor/MunkenTipset/pull/50,"Mobile: compact navbar, move match cards below chat, fix sidebar order",2026-03-28T19:13:31Z,2026-03-28T19:13:38Z,0,False,JavaScript
+https://github.com/DarraghRogers/PokerGame/pull/3,"Add room chat with transparent overlay, unread badge, and toggle",2026-03-24T21:56:05Z,2026-03-24T21:56:17Z,0,False,JavaScript
+https://github.com/BrianHanrahan/knowl/pull/5,Add Escape key navigation and reorganize view tabs layout,2026-03-28T20:24:27Z,2026-03-28T20:24:35Z,0,False,Python
+https://github.com/TherranT11/nationhood/pull/1244,Limit IPO organisations to 5 concurrent open votes,2026-03-26T00:37:36Z,2026-03-26T00:37:55Z,0,False,HTML
+https://github.com/js3864-wq/calendar-assistant/pull/3,Add Playwright test suite for Calendar Assistant,2026-03-23T21:29:19Z,2026-03-23T21:29:26Z,0,False,JavaScript
+https://github.com/L3von36/hawassa/pull/45,ci: add NVIDIA_API_KEY and SUPABASE_SERVICE_ROLE_KEY to build workflow,2026-03-25T10:41:44Z,2026-03-25T10:42:08Z,0,False,TypeScript
+https://github.com/yoyo-gitroi/Marketing360/pull/23,Add hybrid Jamming/Brand Book view for brand book projects,2026-03-26T19:00:54Z,2026-03-26T19:09:53Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/408,feat: add 🔗 icon to cross-device message labels in chat,2026-03-22T10:42:55Z,2026-03-22T10:43:00Z,3,False,JavaScript
+https://github.com/yusufbe7/StudentAI/pull/4,"Add Flutter app, fix chat privacy, add chat delete",2026-03-25T12:14:44Z,2026-03-25T14:23:33Z,1,False,HTML
+https://github.com/Goifal/mindhome/pull/654,"Fix proxy fallback: always register proxy, fall back to assistant URL",2026-03-28T17:23:13Z,2026-03-28T17:23:20Z,0,False,Python
+https://github.com/Deiwels/element-crm/pull/12,feat: arrived status — green pulse + barbers chat notification,2026-03-26T23:33:14Z,2026-03-26T23:33:21Z,0,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/52,feat: modernize chat UI + fix development reprovisioning,2026-03-27T16:31:15Z,2026-03-27T16:34:50Z,0,False,TypeScript
+https://github.com/DreamScale123/dschatbot/pull/1,"Fix Vercel deployment: add app/ structure, lib modules, and API routes",2026-03-26T06:45:40Z,2026-03-26T06:45:55Z,0,False,TypeScript
+https://github.com/Rizu1304/zuriva-academy/pull/7,feat: Premium Design + ElevenLabs/HeyGen Voice Integration,2026-03-25T22:16:35Z,2026-03-25T22:16:41Z,0,False,TypeScript
+https://github.com/RequityGit/requity/pull/952,Update Retell chat widget configuration and branding,2026-03-26T16:23:38Z,2026-03-26T16:23:55Z,0,False,TypeScript
+https://github.com/eeya7ya/AdvancedGate/pull/43,Update Kimi model to k2-instruct-0905 version,2026-03-25T22:15:21Z,2026-03-25T22:15:30Z,0,False,TypeScript
+https://github.com/windoze95/cantinarr/pull/37,Make AI agent media result cards clickable,2026-03-25T22:30:59Z,2026-03-25T22:45:00Z,0,False,Dart
+https://github.com/dcharway/akwaabagigs_mobile_app/pull/39,Enhance person-to-person chat with full async history and real-time d…,2026-03-28T23:47:16Z,2026-03-28T23:47:26Z,0,False,Dart
+https://github.com/jnappier7/mathmatix-ai/pull/739,"Improve session UX: limit to 3 with see-more, rename to My Chats",2026-03-19T19:03:41Z,2026-03-19T19:03:49Z,1,False,JavaScript
+https://github.com/jmelloy/clue/pull/279,Add recent chat messages as context to LLM agent decisions,2026-03-25T04:01:11Z,2026-03-25T04:02:18Z,0,False,Python
+https://github.com/AlfanumrikOS/Alfanumrik/pull/155,"Polish learning flow: pull-to-refresh, rich text, mounted check",2026-03-27T10:56:55Z,2026-03-27T10:57:02Z,1,False,TypeScript
+https://github.com/OmniQuestMediaInc/ChatNowZone--BUILD/pull/129,GOV: Create GeoPricingService — geo-tier resolution and chat-tip disp…,2026-03-29T11:41:42Z,2026-03-29T11:43:47Z,0,False,TypeScript
+https://github.com/mellu98/ERICAPP/pull/1,Redesign UI: dark PWA professionale con Tailwind v4 + mobile-first,2026-03-23T17:52:31Z,2026-03-23T17:52:42Z,0,False,TypeScript
+https://github.com/vivekpanth/Alzheimer-s-dementia-ai-companion/pull/2,[scaffold] Phase 1 — complete project foundation structure,2026-03-26T00:09:19Z,2026-03-26T00:09:53Z,0,False,JavaScript
+https://github.com/choiceoh/Deneb/pull/245,remove openclaw legacy references,2026-03-25T03:01:50Z,2026-03-25T03:04:15Z,1,False,Go
+https://github.com/Klebercdc/Treino-do-dia/pull/242,"security: P1/P2 audit fixes — timing-safe comparisons, rate limits, CORS, health endpoint",2026-03-28T15:21:59Z,2026-03-28T15:23:07Z,0,False,JavaScript
+https://github.com/dtun/plant-app/pull/11,fix: wrap context menu in constrained View to fix chat bubble alignment,2026-03-28T18:10:35Z,2026-03-28T19:05:31Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/415,debug: add visible debug marker + telemetry for WebView AI widget detection,2026-03-22T11:55:28Z,2026-03-22T11:55:33Z,3,False,JavaScript
+https://github.com/wwwourstudio/leverage-ai-chat/pull/373,Sidebar chat cards: pure opacity fade-in with stagger on load,2026-03-29T23:49:48Z,2026-03-29T23:49:55Z,1,False,TypeScript
+https://github.com/Parth1705darji/Tek-Safe-AI/pull/24,Add file attachment support to chat,2026-03-28T02:45:10Z,2026-03-28T02:45:19Z,0,False,TypeScript
+https://github.com/MahajanMohit/Pockets-/pull/8,"fix: remove inbox LIMIT 5, add Chat AI tab with on-device LLM inference",2026-03-24T05:16:51Z,2026-03-24T05:28:28Z,0,False,Kotlin
+https://github.com/gunterstruck/ORDO/pull/13,feat(chat): Kamera-Button im Chat-Eingabefeld,2026-03-22T13:58:28Z,2026-03-22T13:58:34Z,0,False,JavaScript
+https://github.com/sercanatalik/gcf-frontviewer/pull/9,feat(ai): add Claude Desktop-style AI chat route with MCP and agent support,2026-03-28T13:06:39Z,2026-03-28T13:06:47Z,0,False,TypeScript
+https://github.com/avunculargroup/business-mono/pull/71,fix(web): comprehensive mobile responsive fixes across all components,2026-03-29T08:08:31Z,2026-03-29T08:08:42Z,0,False,TypeScript
+https://github.com/primordia-org/primordia/pull/82,feat: move evolve mode to its own /evolve page,2026-03-20T14:20:54Z,2026-03-20T14:41:13Z,0,False,TypeScript
+https://github.com/Owl-Listener/designpowers/pull/15,"Update install instructions: add desktop app method, simplify termina…",2026-03-25T18:50:41Z,2026-03-25T18:50:51Z,45,False,Shell
+https://github.com/Tecknocity/Binee/pull/255,fix: pass conversation context to classifier for follow-up messages,2026-03-27T02:41:34Z,2026-03-27T02:41:43Z,0,False,TypeScript
+https://github.com/holdenspitznagle/morph-memory/pull/44,"Fix group chat keyboard overlap, scroll glitchiness, and WOD repeat p…",2026-03-26T14:53:15Z,2026-03-26T14:53:26Z,0,False,JavaScript
+https://github.com/mwasambilijaphet-glitch/Laundry-Connect--frontend/pull/43,"Fix order status, add attachments, notifications & home button",2026-03-29T10:25:53Z,2026-03-29T10:26:22Z,0,False,JavaScript
+https://github.com/scwayman1/event-intelligence-hub/pull/53,Make Franck persistent across all event pages,2026-03-30T03:03:32Z,2026-03-30T03:08:38Z,0,False,TypeScript
+https://github.com/yusufbe7/StudentAI/pull/3,fix: VIP tekshiruv va chat xabar yetkazish muammolari tuzatildi,2026-03-21T19:07:31Z,2026-03-21T19:07:41Z,1,False,HTML
+https://github.com/tseggai/balkinaAI/pull/211,feat: rewrite customer phone animation to match actual app booking flow,2026-03-29T00:29:18Z,2026-03-29T00:29:25Z,0,False,TypeScript
+https://github.com/JGSimi/Project-Hat/pull/43,"feat: redesign app layout with sidebar, dual window, and modern chat UI",2026-03-27T17:35:00Z,2026-03-27T17:35:13Z,1,False,Swift
+https://github.com/Oskelias/RIWEB.APP/pull/27,fix: hero full viewport + chat scroll dentro del container,2026-03-26T23:14:04Z,2026-03-27T03:01:33Z,0,False,TypeScript
+https://github.com/leboff/lisztomania/pull/48,Centralize _check_trip_access into shared check_trip_access in dependencies.py,2026-03-28T00:51:47Z,2026-03-28T00:53:29Z,0,False,TypeScript
+https://github.com/KirillTrubitsyn/snab-chat/pull/126,Use DB pending state for admin replies instead of force_reply,2026-03-24T18:11:33Z,2026-03-24T18:11:49Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/399,feat(enterprise): add interactive AI demo chat section,2026-03-22T03:43:24Z,2026-03-22T03:43:38Z,3,False,JavaScript
+https://github.com/HankHuang0516/EClaw/pull/410,fix: hide AI chat widget in Android WebView to prevent duplicate AI service,2026-03-22T10:55:18Z,2026-03-22T10:55:24Z,3,False,JavaScript
+https://github.com/cmaldonado80/ultimatebrain/pull/26,fix: DbErrorBanner on detail pages + agent name in chat,2026-03-25T16:11:32Z,2026-03-25T16:11:44Z,0,False,TypeScript
+https://github.com/Parth1705darji/Tek-Safe-AI/pull/1,Replace useChat and ChatPage with fixed versions,2026-03-25T01:51:49Z,2026-03-25T01:52:51Z,0,False,TypeScript
+https://github.com/mohadayo/rag-sales-copilot/pull/1,feat: implement Sales RAG Copilot MVP,2026-03-30T03:14:22Z,2026-03-30T03:15:16Z,0,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/104,feat: Chat V9 — Autonomy Level Toggle + Auto-Retry,2026-03-28T20:41:06Z,2026-03-28T20:41:08Z,0,False,TypeScript
+https://github.com/nayeongmax/bestsns/pull/102,feat: 채팅 알림 뱃지/딩동 알림음 추가 + 중복 유저 deduplication,2026-03-23T06:27:42Z,2026-03-23T06:28:07Z,0,False,TypeScript
+https://github.com/Rizu1304/zuriva-academy/pull/28,feat: WhatsApp-style Forum + Live Forum Feed on Dashboard,2026-03-26T09:56:17Z,2026-03-26T09:56:27Z,0,False,TypeScript
+https://github.com/bsides230/LYRN-AI/pull/121,"Add comprehensive debug logging, 5 new edge-case tests, and chat flow…",2026-03-24T00:22:49Z,2026-03-24T00:22:59Z,1,False,Python
+https://github.com/AlfanumrikOS/Alfanumrik/pull/139,CRITICAL FIX: Usage double-counting — remove client-side recordUsage,2026-03-26T14:49:10Z,2026-03-26T14:49:34Z,1,False,TypeScript
+https://github.com/svalls26/MLMI16/pull/23,Simplify chat tour step; clarify submit saves last chat message,2026-03-17T20:38:31Z,2026-03-17T20:38:38Z,0,False,TypeScript
+https://github.com/keremtoker468-dotcom/scent-wise/pull/72,Fix chat auto-scroll when AI responds,2026-03-27T14:17:47Z,2026-03-27T14:17:55Z,0,False,HTML
+https://github.com/jannar18/secret-garden/pull/13,Mobile friendly feature,2026-03-28T13:14:44Z,2026-03-28T13:21:47Z,0,False,JavaScript
+https://github.com/choiceoh/Deneb/pull/567,refactor(polaris): AI 에이전트 실용성 개선,2026-03-28T11:23:43Z,2026-03-28T11:41:45Z,1,False,Go
+https://github.com/adriancoronaa-prog/ansead-leasing/pull/132,fix: persist AI chat messages in localStorage,2026-03-25T23:11:05Z,2026-03-25T23:11:13Z,0,False,TypeScript
+https://github.com/kgb204/Ragebot/pull/7,Add package.json to enable ES module support,2026-03-25T20:31:36Z,2026-03-25T20:31:44Z,0,False,HTML
+https://github.com/shubhodeep1/coding-workflows/pull/44,"fix: update Codex wire_api from ""chat"" to ""responses""",2026-03-24T03:58:36Z,2026-03-24T03:59:30Z,0,False,Python
+https://github.com/gbfans/discourse-component/pull/21,fix: stop fighting Discourse's mobile header layout,2026-03-29T23:52:05Z,2026-03-29T23:52:09Z,0,False,SCSS
+https://github.com/dinoderek/Mystery2/pull/44,Add subscription-friendly image generation workflow,2026-03-30T11:42:07Z,2026-03-30T11:50:59Z,1,False,TypeScript
+https://github.com/minhazulislam/agol-mcp-proxy/pull/15,Switch to gemini-3.1-flash-live-preview,2026-03-27T04:12:20Z,2026-03-27T04:12:35Z,0,False,Python
+https://github.com/grooviiee/telegram_bot/pull/3,feat: 워렌 버핏 투자 철학 기반 챗봇 및 리포트 기능 추가,2026-03-23T22:00:52Z,2026-03-23T22:01:00Z,0,False,Python
+https://github.com/charleslow/code-stories/pull/14,Simplify ChatPanel UI by removing header and empty state,2026-03-23T02:02:11Z,2026-03-23T02:02:17Z,0,False,JavaScript
+https://github.com/davidecampman/Cadence/pull/50,Fix browser caching showing stale conversations,2026-03-25T13:23:19Z,2026-03-25T13:25:03Z,0,False,Python
+https://github.com/FolahanWilliams/decision-intel/pull/346,"feat: add enterprise case studies, update founder hub, fix TypeScript…",2026-03-29T19:14:05Z,2026-03-29T19:14:11Z,1,False,TypeScript
+https://github.com/mhowelltx/SatChit/pull/11,"feat: multi-player zone interaction — presence, echo, and direct chat",2026-03-26T02:21:17Z,2026-03-26T02:21:26Z,0,False,TypeScript
+https://github.com/jnappier7/mathmatix-ai/pull/740,Fix chat state resetting when switching mobile tabs,2026-03-19T19:16:06Z,2026-03-19T19:16:17Z,1,False,JavaScript
+https://github.com/svengraziani/vibe-and-conquer/pull/295,docs: update README and CLAUDE.md with comprehensive feature inventory,2026-03-27T14:39:30Z,2026-03-27T14:39:39Z,9,False,TypeScript
+https://github.com/beyondessential/workhorse/pull/26,"Remove focus mode, unify spec/mockup artifact model",2026-03-30T07:52:05Z,2026-03-30T08:23:27Z,0,False,TypeScript
+https://github.com/jonathan-mcewan/liminal/pull/14,Fix iOS auto-zoom when focusing chat input,2026-03-29T20:59:56Z,2026-03-29T21:00:07Z,0,False,JavaScript
+https://github.com/HankHuang0516/EClaw/pull/389,feat: replace Android native chat with WebView,2026-03-22T01:51:18Z,2026-03-22T01:51:30Z,3,False,JavaScript
+https://github.com/tgsovereign/core/pull/7,Move login redirect to Next.js middleware to avoid flicker,2026-03-26T14:02:19Z,2026-03-26T15:02:58Z,0,False,TypeScript
+https://github.com/crisippolite/Bucks-AI/pull/213,feat: redirect chart visualizations from Guide to Primary zone in ada…,2026-03-30T00:40:29Z,2026-03-30T00:40:35Z,0,False,TypeScript
+https://github.com/FooBarbarian-dev/literate-train/pull/17,Fix: replace removed ai_assistant_tool import with method_tool,2026-03-25T01:32:58Z,2026-03-25T15:10:37Z,0,False,Python
+https://github.com/lambo77/Flatris-LAB/pull/1,Add MorningBriefing Azure Function,2026-03-29T16:04:13Z,2026-03-29T16:04:35Z,0,True,JavaScript
+https://github.com/quimibond/quimibond-intelligence/pull/9,Fix invalid model ID in enrich endpoints,2026-03-24T07:46:47Z,2026-03-24T07:47:10Z,0,False,TypeScript
+https://github.com/gityoni/rebsam.github.io/pull/179,fix(widget): supprimer override #e8edf8 sur chat-input-area (REDESIGN…,2026-03-24T13:08:57Z,2026-03-24T13:09:14Z,0,False,HTML
+https://github.com/hanyuriyu/lingonect/pull/48,"Revert monitor image frame, just make chat screen smaller",2026-03-24T19:48:38Z,2026-03-24T19:48:45Z,0,False,HTML
+https://github.com/Schrottsocke/Projekt-Personal-Assistent/pull/54,fix(api): add rate limiting to REST API endpoints (#16),2026-03-27T20:46:44Z,2026-03-27T20:46:51Z,0,False,Python
+https://github.com/ViolaLaboratory/Viola-Frontend/pull/31,Add Dashboard page with four-squares icon in sidebar,2026-03-30T07:30:34Z,2026-03-30T07:30:41Z,0,False,TypeScript
+https://github.com/loki217089-jpg/capyworlds/pull/115,fix(chat-room): 修正同瀏覽器雙分頁無法配對的問題,2026-03-25T06:49:51Z,2026-03-25T06:49:59Z,0,False,HTML
+https://github.com/heyyykk3/acode/pull/3,feat: add Athena Browser — Electron-based Chromium browser with agent sidebar,2026-03-29T02:04:06Z,2026-03-29T02:04:20Z,0,True,TypeScript
+https://github.com/gabrielvaldivia/portfolio/pull/4,Fix email notifications not sending when visitors message,2026-03-28T15:42:37Z,2026-03-28T15:42:46Z,0,False,TypeScript
+https://github.com/MattBasson/Agentic-Chat/pull/1,Implement agentic chat POC — full vertical slice,2026-03-28T11:11:15Z,2026-03-28T11:11:39Z,0,False,Python
+https://github.com/VilDeMil/handschelle/pull/160,feat: add OpenAI / ChatGPT support to [handschelle-chat],2026-03-26T11:51:59Z,2026-03-26T11:52:10Z,0,False,PHP
+https://github.com/dlddu/pocket-aide/pull/70,Enable previously skipped chat UI tests,2026-03-29T09:39:06Z,2026-03-29T20:02:33Z,0,False,Go
+https://github.com/tiagofur/kakoclaw/pull/42,fix: always propagate session key to specialist agents,2026-03-26T02:50:12Z,2026-03-26T02:50:25Z,0,False,Go
+https://github.com/BohdanGlowacki/Deregulacja/pull/2,Integrate internal LLM API endpoint for chat,2026-03-26T14:41:11Z,2026-03-26T14:41:40Z,0,False,HTML
+https://github.com/UnstableLlama/ezexl3/pull/144,"Zero-arg chat: launch UI without model, add in-browser model loading",2026-03-27T17:01:10Z,2026-03-27T17:01:26Z,6,False,Python
+https://github.com/cmaldonado80/ultimatebrain/pull/35,feat: multi-agent chat rooms + live execution viewer,2026-03-25T19:35:01Z,2026-03-25T19:35:12Z,0,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/34,feat: memory recall in chat + cost & performance dashboard,2026-03-25T19:22:42Z,2026-03-25T19:22:52Z,0,False,TypeScript
+https://github.com/gityoni/rebsam.github.io/pull/177,fix(widget): supprimer override navy qui écrasait le dégradé header,2026-03-24T12:57:04Z,2026-03-24T12:57:59Z,0,False,HTML
+https://github.com/wsmbsbbz/tts-ijc/pull/5,feat: register bot slash commands with Telegram on startup,2026-03-23T17:26:25Z,2026-03-23T17:26:32Z,0,False,Go
+https://github.com/andrrrrey/Tenot/pull/68,fix: eliminate inline-style conflicts for chat and favorites mobile l…,2026-03-25T20:12:00Z,2026-03-25T20:12:11Z,0,True,TypeScript
+https://github.com/charleslow/code-stories/pull/24,Fix chat panel not appearing in desktop mode,2026-03-24T02:28:42Z,2026-03-24T03:40:43Z,0,False,JavaScript
+https://github.com/mnastrojarna-hub/Vel-n/pull/679,feat: SOS notifikace + oprávnění oznámení + realtime zprávy v app,2026-03-30T08:47:43Z,2026-03-30T08:47:50Z,0,False,JavaScript
+https://github.com/jakebrenner/Ryvite/pull/67,Fix photo upload disappearing during Step 1 chat flow,2026-03-23T20:01:25Z,2026-03-24T00:33:40Z,0,False,HTML
+https://github.com/Tigran96/Galstyan/pull/5,Add complete Vercel deployment configuration,2026-03-25T07:26:08Z,2026-03-25T07:26:24Z,0,False,JavaScript
+https://github.com/talllabs/Meaningful-Marketing/pull/11,Mobile logo overlay on hero + nav/content polish,2026-03-27T05:53:55Z,2026-03-27T06:17:56Z,0,False,CSS
+https://github.com/talllabs/Meaningful-Marketing/pull/12,"Mobile logo overlay, nav polish, CS01 YouTube, content updates",2026-03-29T00:36:17Z,2026-03-29T00:37:41Z,0,False,CSS
+https://github.com/andreapausler-byte/manutech-app/pull/38,v5.8: Sprint 4.0 - Chat interna diretta 1-a-1,2026-03-24T11:25:44Z,2026-03-24T11:25:54Z,0,False,JavaScript
+https://github.com/eeya7ya/AdvancedGate/pull/47,"feat: complete workflow restructure — Dashboard AI guide, Analysis page, course selection, admin security",2026-03-27T19:31:50Z,2026-03-27T20:05:54Z,0,False,TypeScript
+https://github.com/vietlq-datapot/deer-flow/pull/2,feat: Switch POC model from Anthropic to DeepSeek V3.2,2026-03-26T00:51:34Z,2026-03-26T00:52:11Z,0,True,Python
+https://github.com/vovadanilkovichvovafava/Bot/pull/96,feat: auto-save AI chat predictions to predictions table,2026-03-20T14:49:03Z,2026-03-20T14:49:13Z,0,False,JavaScript
+https://github.com/HankHuang0516/EClaw/pull/355,feat: shareable chat link with QR code for Card Holder,2026-03-21T00:45:37Z,2026-03-21T00:46:28Z,3,False,JavaScript
+https://github.com/inernoro/prd_agent/pull/357,Clean up 15 unused AppCallerCode registrations,2026-03-29T15:18:54Z,2026-03-29T15:55:00Z,2,False,TypeScript
+https://github.com/ssraminder/cethos-web-redesign/pull/128,Remove public site navbar and footer from admin routes,2026-03-25T16:20:02Z,2026-03-25T16:20:09Z,0,False,TypeScript
+https://github.com/hexgeta/agorax2/pull/36,Add Telegram notification system for limit order fills,2026-03-23T21:28:53Z,2026-03-23T21:29:28Z,0,False,TypeScript
+https://github.com/stephen99-dot/aiqs-portal/pull/50,"Add SSE streaming, key normalizer, and real-time pipeline progress",2026-03-26T13:54:22Z,2026-03-26T13:54:30Z,0,False,JavaScript
+https://github.com/kpcrmv4/stockmanager/pull/32,Fix context menu triggering on empty space clicks,2026-03-25T18:10:18Z,2026-03-25T18:10:26Z,1,False,TypeScript
+https://github.com/ajidlovett/arcane-angler/pull/931,fix: resolve PM2 worker-0 CPU spike and close several exploits,2026-03-27T12:52:39Z,2026-03-27T12:52:52Z,0,False,JavaScript
+https://github.com/pimholthof/VAT100NEW/pull/59,feat: AI CFO kan nu echte data opzoeken via Claude tool-use,2026-03-26T06:51:13Z,2026-03-26T14:51:40Z,0,False,TypeScript
+https://github.com/eeya7ya/AdvancedGate/pull/45,Add current date context and switch to Llama 3.3 model,2026-03-26T20:07:50Z,2026-03-26T20:08:01Z,0,False,TypeScript
+https://github.com/FurryFrags/meow/pull/40,"Embed browser inside chat area instead of popup, widen chatbox",2026-03-21T08:14:13Z,2026-03-21T08:14:20Z,0,False,JavaScript
+https://github.com/karltor/MunkenTipset/pull/48,"Fix chat mobile responsiveness: horizontal scrolling match cards, com…",2026-03-28T19:01:08Z,2026-03-28T19:01:19Z,0,False,JavaScript
+https://github.com/HankHuang0516/EClaw/pull/411,fix: add User-Agent fallback for WebView AI widget detection,2026-03-22T11:10:24Z,2026-03-22T11:10:44Z,3,False,JavaScript
+https://github.com/andreas-t-hjertaker/suksess/pull/85,"feat(a11y): WCAG 2.2 AA-forbedringer for chat, input og samtykke",2026-03-25T07:20:47Z,2026-03-26T07:06:23Z,0,False,TypeScript
+https://github.com/annie0tang/masterprompted/pull/24,Shorten chat body output with fixed max-h and scroll sync,2026-03-27T12:04:46Z,2026-03-27T12:05:07Z,0,False,TypeScript
+https://github.com/misty-step/scry/pull/300,"Tighten mobile review view: compact cards, fix input/chip alignment, add due count",2026-03-26T17:51:36Z,2026-03-26T17:57:17Z,1,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/79,feat: Mission Control dashboard + Workshop + Intelligence Hub,2026-03-28T10:58:17Z,2026-03-28T10:58:25Z,0,False,TypeScript
+https://github.com/chrisrothwell/thinkarr/pull/257,dev → beta: v1.1.5-beta.1,2026-03-30T00:16:50Z,2026-03-30T00:23:56Z,0,False,TypeScript
+https://github.com/eazybailey/chatbot-demo/pull/8,Rebuild as single-page PWA focused entirely on The Conversation Coach,2026-03-24T22:27:47Z,2026-03-24T22:27:57Z,0,False,HTML
+https://github.com/amirbiron/Gmail-Bot/pull/6,Add project-based filtering for Telegram chat notifications,2026-03-21T23:39:57Z,2026-03-21T23:47:55Z,0,False,Python
+https://github.com/Station-Sage/RunPulse/pull/49,feat: 429 fallback + AI 캐시 나이 + 서비스 탭 lazy load,2026-03-26T23:04:22Z,2026-03-26T23:06:38Z,0,False,Python
+https://github.com/HankHuang0516/EClaw/pull/384,"fix: resolve chat duplicate messages, missing labels, and entity selection issues",2026-03-21T14:37:52Z,2026-03-21T14:37:57Z,3,False,JavaScript
+https://github.com/cmaldonado80/ultimatebrain/pull/101,feat: Chat V6 — Operator Controls + Inspector Pro,2026-03-28T19:37:01Z,2026-03-28T19:37:03Z,0,False,TypeScript
+https://github.com/mwasambilijaphet-glitch/Laundry-Connect--frontend/pull/25,Add TZS pricing improvements and price negotiation,2026-03-28T08:16:20Z,2026-03-28T08:52:54Z,0,False,JavaScript
+https://github.com/HankHuang0516/EClaw/pull/423,test: add AI chat WebView guard regression test (#419),2026-03-22T14:11:51Z,2026-03-22T14:12:00Z,3,False,JavaScript
+https://github.com/SystemVirtue/obie-march-26/pull/18,feat: switch radio to paid DeepSeek/Gemini models,2026-03-26T22:50:20Z,2026-03-26T22:51:12Z,0,False,TypeScript
+https://github.com/lmthing/lmthing/pull/40,Standardize lmthing brand display with CozyThingText,2026-03-24T06:43:59Z,2026-03-24T06:45:49Z,3,False,TypeScript
+https://github.com/imonroe/movie-club-app/pull/205,Fix chat refocus and mobile touch targets (#175),2026-03-25T03:22:27Z,2026-03-25T03:59:34Z,0,False,PHP
+https://github.com/gunterstruck/ORDO/pull/105,"fix: align REST API with Gemini spec (camelCase, toolConfig, temperat…",2026-03-29T11:51:34Z,2026-03-29T11:51:40Z,0,False,JavaScript
+https://github.com/leboff/lisztomania/pull/54,Unify LLM configuration into a single resolve_llm_config function (#39),2026-03-28T01:50:51Z,2026-03-28T01:54:02Z,0,False,TypeScript
+https://github.com/hanyuriyu/lingonect/pull/53,"Require username to access chat, show message if missing",2026-03-24T21:58:16Z,2026-03-24T21:58:23Z,0,False,HTML
+https://github.com/chaejimmy/pixel/pull/290,Implement mark-as-read functionality for chats and inbox threads,2026-03-30T02:10:37Z,2026-03-30T02:10:41Z,0,False,Kotlin
+https://github.com/SupraAgent/SupraTeam/pull/37,feat: fork SupraLoop drag-and-drop builder into CRM as /loop tab,2026-03-28T07:08:21Z,2026-03-28T07:08:35Z,0,False,TypeScript
+https://github.com/choiceoh/Deneb/pull/229,gateway-go: port chat handler to native Go execution,2026-03-25T01:22:03Z,2026-03-25T01:32:27Z,1,False,Go
+https://github.com/Quobo-co/Quobo-III/pull/470,Add visibility check for OBO invoke button in mobile chat,2026-03-23T01:24:58Z,2026-03-23T01:25:21Z,0,False,TypeScript
+https://github.com/intelogroup/ugent/pull/2,feat: add Playwright e2e tests for chat feature,2026-03-26T02:53:50Z,2026-03-26T14:07:18Z,0,False,TypeScript
+https://github.com/quimibond/quimibond-intelligence/pull/5,fix: add missing RLS policies + migration 005 for product intelligence,2026-03-24T07:03:00Z,2026-03-24T07:03:09Z,0,False,TypeScript
+https://github.com/ShanBirch/plant-based-balance/pull/1052,Add photo attachment support to DM and group chats,2026-03-19T21:38:11Z,2026-03-19T21:38:17Z,0,False,JavaScript
+https://github.com/yuto2245/swell_child/pull/12,モデルセレクタをアイコン付きカスタムドロップダウンに変更,2026-03-28T12:59:05Z,2026-03-28T13:01:38Z,0,False,CSS
+https://github.com/michaelwu1407-droid/Assistantbot/pull/104,Rewrite Tracey handbook in Settings → Help with comprehensive detail,2026-03-30T09:35:47Z,2026-03-30T09:35:58Z,0,False,TypeScript
+https://github.com/writeitgreat-llc/proposal-evaluation/pull/65,Add admin Delete Author Account button on coaching detail page,2026-03-24T12:48:40Z,2026-03-24T12:48:48Z,0,False,HTML
+https://github.com/Station-Sage/RunPulse/pull/28,v0.3: 성능 최적화 + AI 채팅 + Training Plan,2026-03-26T01:56:51Z,2026-03-26T01:58:11Z,0,False,Python
+https://github.com/chrisrothwell/thinkarr/pull/254,"Fix realtime VAD sensitivity, chat naming, and form accessibility (#242, #252, #236)",2026-03-29T14:59:10Z,2026-03-29T15:10:38Z,0,False,TypeScript
+https://github.com/Klebercdc/Treino-do-dia/pull/137,feat: adiciona Edge Function telegram-bot para controle via Telegram,2026-03-23T11:00:43Z,2026-03-23T11:01:00Z,0,False,JavaScript
+https://github.com/csestrada2005/NSS-Project/pull/136,Add design pattern retrieval and improve context budgeting,2026-03-30T06:17:43Z,2026-03-30T06:17:49Z,0,False,TypeScript
+https://github.com/marcosaccioly/brain-mahalilah/pull/1,feat: add Denise Mascarenhas AI chatbot (API + Telegram bot + PWA),2026-03-27T23:33:39Z,2026-03-27T23:40:10Z,0,False,HTML
+https://github.com/Ryxeuf/amethyste-idle/pull/59,"feat: systeme de chat en jeu (global, carte, MP) + moderation admin",2026-03-20T06:34:17Z,2026-03-20T07:11:04Z,1,False,PHP
+https://github.com/newtvn/goalfusion/pull/31,Add Kienyeji Hub WhatsApp (0116909515) and update all contacts on tha…,2026-03-26T12:45:59Z,2026-03-26T12:46:09Z,0,False,HTML
+https://github.com/Ryxeuf/amethyste-idle/pull/245,feat(guild): titres de prestige & tags guilde dans le chat (GCC-12),2026-03-28T08:14:59Z,2026-03-28T08:19:32Z,1,False,PHP
+https://github.com/Zhelair/Victoria/pull/12,"fix: pro=max access, clear chats button, unlock character label",2026-03-24T23:38:22Z,2026-03-24T23:38:28Z,0,False,TypeScript
+https://github.com/alejomartinez8/cashflowai/pull/9,Update TODO: Mark tasks 1-8 and 10-13 as complete,2026-03-22T20:02:29Z,2026-03-22T20:06:54Z,1,False,TypeScript
+https://github.com/zyra-project/interactive-sphere/pull/9,Surface vision model errors in chat,2026-03-26T05:28:14Z,2026-03-26T05:29:14Z,0,False,TypeScript
+https://github.com/Benjamin608608/SolaQuinque/pull/28,feat: restore vector store RAG search with citations,2026-03-24T03:31:49Z,2026-03-24T03:31:52Z,0,False,HTML
+https://github.com/StawWasTaken/Swiftaw/pull/45,Modularize Tithonia scripts into ES modules,2026-03-24T20:47:13Z,2026-03-24T20:47:37Z,0,False,JavaScript
+https://github.com/arthurmayor/enem-al-m/pull/58,"feat: redesign AiTutor, Exams, and Ranking pages with design system",2026-03-27T01:47:21Z,2026-03-27T01:48:07Z,0,False,TypeScript
+https://github.com/yusufbe7/StudentAI/pull/1,"Fix WebApp chat, image sending, test pass/fail, and VIP check",2026-03-21T15:38:33Z,2026-03-21T15:38:56Z,1,False,HTML
+https://github.com/roziyevbehroz-tech/Multilevel/pull/18,fix: return text as string property instead of function to prevent Da…,2026-03-27T10:37:02Z,2026-03-27T10:37:13Z,0,False,TypeScript
+https://github.com/Zhelair/Baczi/pull/37,fix: make RAG failures graceful — chat never returns 500 due to knowl…,2026-03-21T23:34:34Z,2026-03-21T23:34:41Z,0,False,TypeScript
+https://github.com/samaig-araviel/araviel-api/pull/70,fix: replace blanket guest block with server-side 3-message limit,2026-03-26T17:37:41Z,2026-03-26T17:37:57Z,0,False,TypeScript
+https://github.com/dcharway/akwaabagigs_mobile_app/pull/30,Rebuild chat using Flutter AI Toolkit with bid-gated activation,2026-03-28T01:16:31Z,2026-03-28T01:16:37Z,0,False,Dart
+https://github.com/riverwest-mike/riverwest-toolbox/pull/304,"Add Remi tool-level roles (Admin, Property Lead, Property Manager)",2026-03-24T19:48:31Z,2026-03-24T19:48:38Z,0,False,TypeScript
+https://github.com/kamide007-ship-it/vetdict/pull/167,Improve chat consultation accuracy and rich result display,2026-03-25T06:37:28Z,2026-03-25T06:37:37Z,0,False,Python
+https://github.com/Deiwels/element-crm/pull/60,fix: arrived notification always sends to barbers chat,2026-03-28T14:17:28Z,2026-03-28T14:17:35Z,0,False,TypeScript
+https://github.com/hanyuriyu/lingonect/pull/52,"Update chat design: remove dots, dark grey bg, brighter title",2026-03-24T21:49:22Z,2026-03-24T21:49:28Z,0,False,HTML
+https://github.com/Quobo-co/Quobo-III/pull/563,"Improve chat message deduplication, sorting, and mention handling",2026-03-29T01:55:13Z,2026-03-29T01:55:46Z,0,False,TypeScript
+https://github.com/ShadowUser2022/bulgarlearn/pull/6,Replace drizzle-kit startup with fast SQL schema migration,2026-03-28T16:15:33Z,2026-03-28T16:17:56Z,0,False,TypeScript
+https://github.com/dncdante911/messenger_v2/pull/413,fix: persist reply_to_text/reply_to_name in DB so recipient sees repl…,2026-03-28T18:44:20Z,2026-03-28T18:44:42Z,0,False,Kotlin
+https://github.com/Froydinger/chatwitharc/pull/432,"Fix image count flash, add icon+button to all stat tiles",2026-03-25T01:27:52Z,2026-03-25T01:28:23Z,0,False,TypeScript
+https://github.com/VilDeMil/handschelle/pull/143,feat: frontend session config + per-message stats,2026-03-26T05:46:11Z,2026-03-26T05:46:20Z,0,False,PHP
+https://github.com/Ryxeuf/amethyste-idle/pull/234,feat(db): index composites sur tables critiques (tâche 102),2026-03-27T23:10:47Z,2026-03-27T23:13:18Z,1,False,PHP
+https://github.com/NextMonthLab/icemaker/pull/1957,Fix: Strategy builder chat panel overflow for long URLs,2026-03-25T06:42:12Z,2026-03-25T06:44:23Z,0,False,TypeScript
+https://github.com/absurdfounder/crabshq_landing/pull/21,"Add missing features to pricing: unlimited agents/chats/devices, all …",2026-03-27T03:49:04Z,2026-03-27T03:49:15Z,0,False,TypeScript
+https://github.com/jeremycollins-cpu/heywren-app/pull/37,Fix new user experience + UX improvements,2026-03-27T20:16:14Z,2026-03-27T20:18:25Z,0,False,TypeScript
+https://github.com/TomasBalestrin/Bethel-CS/pull/14,feat: Phase 9 — Chat via Stream Chat,2026-03-25T11:47:20Z,2026-03-25T11:47:45Z,0,False,TypeScript
+https://github.com/lillianwang112/alphamove/pull/2,"Add light mode, responsive layout, desktop sidebar, and bug fixes",2026-03-29T20:47:08Z,2026-03-29T20:47:14Z,0,False,TypeScript
+https://github.com/mikaelra/wom-mid/pull/42,Implement lobby chat function,2026-03-17T16:15:15Z,2026-03-17T16:56:50Z,0,False,TypeScript
+https://github.com/quimibond/quimibond-intelligence/pull/6,fix: convert chat API to streaming to prevent 499 timeout,2026-03-24T07:14:19Z,2026-03-24T07:14:26Z,0,False,TypeScript
+https://github.com/Ha-kunamatata/cashflow/pull/28,"feat: AI UI 전면 개편 — 마크다운 렌더링, 스켈레톤, 풀시트",2026-03-30T08:33:00Z,2026-03-30T08:34:04Z,0,False,JavaScript
+https://github.com/himprapatel-rgb/ai-skincare-intelligence-system/pull/46,feat: rebrand AI Chat to Skin Expert consultation,2026-03-27T12:14:49Z,2026-03-27T12:14:55Z,0,False,Python
+https://github.com/likelivb-mong/my-app-vibe-s3l7/pull/37,Fix duplicate message display in chat,2026-03-22T06:44:36Z,2026-03-22T06:44:44Z,0,False,TypeScript
+https://github.com/jxburros/Astra-log/pull/48,Make layout controls always visible and fix Ollama URL handling,2026-03-26T21:42:14Z,2026-03-26T21:42:21Z,0,False,TypeScript
+https://github.com/himprapatel-rgb/ai-skincare-intelligence-system/pull/74,"fix: chat page broken layout — remove negative margins, fix flex chain",2026-03-29T14:48:30Z,2026-03-29T14:48:37Z,0,False,Python
+https://github.com/GitSteveLozano/PatrickOS/pull/1,Scaffold Patrick app — AI operating platform,2026-03-25T05:39:23Z,2026-03-25T05:40:07Z,0,False,JavaScript
+https://github.com/ilasmax1/Recipes_29052024/pull/3,"Revert to simple structure, replace OpenAI with DeepSeek",2026-03-23T12:10:55Z,2026-03-23T12:11:03Z,0,False,Python
+https://github.com/launchpadsolutionsdev/lightspeed/pull/579,Redesign Hero section with animated feature showcase carousel,2026-03-27T21:56:26Z,2026-03-27T21:56:31Z,0,False,JavaScript
+https://github.com/gityoni/rebsam.github.io/pull/151,"ux: chat suggestions, send spinner, trust badge, Hebrew i18n fixes",2026-03-23T11:45:27Z,2026-03-23T11:45:42Z,0,False,HTML
+https://github.com/Goifal/mindhome/pull/657,Fix Chat Card: use non-streaming POST for Ingress mode,2026-03-28T17:57:38Z,2026-03-28T17:57:45Z,0,False,Python
+https://github.com/bsides230/LYRN-AI/pull/129,"Fix duplicate messages, phase 2 marker bleed, and watcher safety net",2026-03-24T15:07:37Z,2026-03-24T15:09:59Z,1,False,Python
+https://github.com/himprapatel-rgb/ai-skincare-intelligence-system/pull/47,feat: add Skin Expert section to homepage,2026-03-27T12:31:58Z,2026-03-27T12:32:04Z,0,False,Python
+https://github.com/barakplasma/flash-moe/pull/1,Add GitHub Actions workflow to build on Apple M4 Mac,2026-03-24T17:57:51Z,2026-03-25T09:44:04Z,0,True,Objective-C
+https://github.com/gityoni/rebsam.github.io/pull/184,"fix: Hebrew greeting ?, avatar רס, hero-point RTL dimensions",2026-03-24T16:48:47Z,2026-03-24T16:49:06Z,0,False,HTML
+https://github.com/wKich/papai/pull/76,Add path-scoped agent-agnostic instruction files,2026-03-29T04:47:08Z,2026-03-29T08:18:05Z,1,False,TypeScript
+https://github.com/ynitto/sandbox/pull/158,feat(vscode): モデル選択UIを追加,2026-03-29T07:51:32Z,2026-03-29T10:54:58Z,1,False,Python
+https://github.com/anthonymishriki1-ops/mcc-master/pull/23,OSCE scorecard as popup modal,2026-03-25T07:50:50Z,2026-03-25T07:50:58Z,0,False,HTML
+https://github.com/sgolestane/llm-monkey-/pull/4,feat: add MockProvider and comprehensive e2e test suite,2026-03-30T02:59:38Z,2026-03-30T03:01:28Z,0,False,Java
+https://github.com/davidecampman/Cadence/pull/28,Add dynamic OpenRouter model discovery for all tiers,2026-03-24T02:57:20Z,2026-03-24T02:59:05Z,0,False,Python
+https://github.com/dtun/plant-app/pull/4,fix(ai): convert local file URIs to base64 data URLs for AI SDK,2026-03-25T22:24:10Z,2026-03-25T22:26:18Z,0,False,TypeScript
+https://github.com/gbfans/discourse-component/pull/12,"fix: hide top bar at ≤767px, fix Discourse icon position",2026-03-29T06:00:13Z,2026-03-29T06:00:18Z,0,False,SCSS
+https://github.com/alirezavafisani/MenuElf/pull/17,Brick 14: Minimalist light theme + 4-tab restructure + bug fixes,2026-03-22T04:09:08Z,2026-03-22T04:09:16Z,0,False,Python
+https://github.com/HankHuang0516/EClaw/pull/420,fix: block duplicate AI chat widget in Android WebView (#419),2026-03-22T13:27:27Z,2026-03-22T13:28:06Z,3,False,JavaScript
+https://github.com/claria-ai/claria-ai.github.io/pull/2,Add video demos page,2026-03-24T00:34:05Z,2026-03-24T00:34:48Z,0,False,HTML
+https://github.com/kalicki-ctrl/Pretor-ai-test/pull/7,test: add ChatMode component tests,2026-03-26T01:03:17Z,2026-03-29T04:13:04Z,0,False,TypeScript
+https://github.com/wsaadi/Quiz-competences-IA/pull/32,fix: SQLite WAL mode + busy timeout to prevent database locked errors,2026-03-24T09:31:39Z,2026-03-24T09:31:46Z,0,False,TypeScript
+https://github.com/PetrAnto/moltworker/pull/431,docs(brainstorming): model management review + 4 AI prompts,2026-03-26T12:59:47Z,2026-03-26T12:59:55Z,0,True,TypeScript
+https://github.com/nayeongmax/bestsns/pull/104,fix: 채팅 뱃지 미표시·알림음 미작동·중복 프로필 3가지 버그 수정,2026-03-23T07:35:45Z,2026-03-23T07:36:07Z,0,False,TypeScript
+https://github.com/park-sungil/pave-agent/pull/25,fix: 응답없음 3가지 root cause 수정,2026-03-30T11:03:33Z,2026-03-30T11:03:44Z,0,False,Python
+https://github.com/crisippolite/Bucks-AI/pull/148,fix: use configured player in mid-chat model loading,2026-03-23T04:25:41Z,2026-03-23T04:26:39Z,0,False,TypeScript
+https://github.com/kpcrmv4/stockmanager/pull/62,feat: เพิ่มเสียง + สั่นมือถือ สำหรับแจ้งเตือนงาน (action card),2026-03-26T21:40:05Z,2026-03-26T21:40:12Z,1,False,TypeScript
+https://github.com/will-lp1/saru/pull/114,"Update Groq models: non-reasoning small/large, GPT-OSS reasoning",2026-03-26T17:49:25Z,2026-03-26T17:52:14Z,292,False,TypeScript
+https://github.com/4NTON228/love-app/pull/26,Полный редизайн стилей Love App: исправление багов и обновление дизай…,2026-03-26T18:26:05Z,2026-03-26T23:11:08Z,1,False,JavaScript
+https://github.com/kgb204/Ragebot/pull/6,Restore RAGE BOT chat UI and Vercel routing config,2026-03-25T20:24:32Z,2026-03-25T20:25:08Z,0,False,HTML
+https://github.com/wwwourstudio/leverage-ai-chat/pull/334,feat: remove auto-fetched cards from welcome screen,2026-03-25T07:15:33Z,2026-03-25T07:15:40Z,1,False,TypeScript
+https://github.com/StawWasTaken/Swiftaw/pull/35,Fix model selector dropdown being clipped by chatbar,2026-03-23T21:37:57Z,2026-03-23T21:38:05Z,0,False,JavaScript
+https://github.com/teenytinyai/teenytinyai/pull/10,Add Plausible goal tracking to homepage,2026-03-23T20:23:46Z,2026-03-23T20:43:01Z,3,False,TypeScript
+https://github.com/jacksongmatos/queroumacorapp/pull/39,Sync products and chats between portal and app,2026-03-24T03:34:14Z,2026-03-24T03:34:19Z,0,False,HTML
+https://github.com/jacquesramphal/jacquesramphal.github.io/pull/193,fix: restore dark-mode --color-highlight so chat inputs/prompts don't inherit accent color,2026-03-30T00:46:36Z,2026-03-30T00:46:45Z,1,False,Vue
+https://github.com/DAVEVERA/AskAI/pull/1,Add Next.js AskAI application for Vercel deployment,2026-03-27T10:55:38Z,2026-03-27T10:55:48Z,0,False,TypeScript
+https://github.com/srodecker/jurisdraft/pull/18,Add docket upload tracking with timestamps so AI can list all uploade…,2026-03-23T21:52:27Z,2026-03-23T21:52:35Z,0,False,HTML
+https://github.com/cmaldonado80/ultimatebrain/pull/24,"feat: agent soul, detail page, chat integration, execution fix",2026-03-25T15:42:10Z,2026-03-25T15:42:30Z,0,False,TypeScript
+https://github.com/aloewright/claw/pull/12,Enable /mcp and /plugins commands in OpenClaw,2026-03-29T07:28:27Z,2026-03-29T07:28:33Z,0,False,TypeScript
+https://github.com/Temode/guin-e-immobilier-connect/pull/19,"feat: add Mes Locataires page, Excel payment view, and document signi…",2026-03-22T11:43:44Z,2026-03-22T11:43:55Z,0,False,TypeScript
+https://github.com/marcelolara-glitch/Setup_Atirador/pull/19,fix(analisar): escapar HTML nas descrições dos pilares,2026-03-27T03:27:24Z,2026-03-27T03:27:30Z,0,False,Python
+https://github.com/eazybailey/chatbot-demo/pull/6,Remove assessment survey and update CTAs to point to Conversation Coach,2026-03-24T21:03:45Z,2026-03-24T21:03:58Z,0,False,HTML
+https://github.com/wisemanmax/Builder/pull/31,Add conversation history and thought engine visibility,2026-03-17T20:09:27Z,2026-03-17T20:09:39Z,0,False,JavaScript
+https://github.com/Wail17/chatbot-piscines/pull/34,🎨 Nouvelle interface chatbot moderne avec bulles de chat,2026-03-26T04:35:40Z,2026-03-26T04:35:47Z,0,False,Python
+https://github.com/ganeshgowri-ASA/karaveda/pull/3,feat: chat UI with streaming & conversation history,2026-03-25T07:18:07Z,2026-03-25T07:19:17Z,0,False,TypeScript
+https://github.com/HouseofBrandt/Clearedwebapp/pull/46,"Add ""Ask Cleared"" research assistant chat panel",2026-03-20T16:28:45Z,2026-03-20T16:29:57Z,0,False,TypeScript
+https://github.com/andrrrrey/vozvrat/pull/23,Add real-time chat polling every 3s for instant message display,2026-03-23T21:29:33Z,2026-03-23T21:29:42Z,0,False,HTML
+https://github.com/dcharway/akwaabagigs_mobile_app/pull/23,Replace chat with bright green async real-time LiveQuery chat,2026-03-26T13:53:43Z,2026-03-26T13:54:08Z,0,False,Dart
+https://github.com/konko-ai/chatwoot/pull/22,fix(i18n): use singular form for Spanish status tags,2026-03-24T20:47:09Z,2026-03-25T13:37:34Z,0,True,Ruby
+https://github.com/eazybailey/chatbot-demo/pull/15,"Improve logo, fix iPhone safe-area overlap, reset to home on Start Over",2026-03-26T21:37:06Z,2026-03-26T21:37:14Z,0,False,HTML
+https://github.com/Csalvesss/verticalizados-PG/pull/162,feat: sistema de mensagens privadas (DM),2026-03-25T13:59:10Z,2026-03-25T13:59:16Z,0,False,TypeScript
+https://github.com/TomasBalestrin/Bethel-CS/pull/22,"fix: TabChat looks up mentee's specialist instance, not logged-in user",2026-03-25T18:56:35Z,2026-03-25T18:57:01Z,0,False,TypeScript
+https://github.com/Tecknocity/Binee/pull/227,Add missing RLS DELETE policy for conversations and messages,2026-03-25T23:03:49Z,2026-03-25T23:03:55Z,0,False,TypeScript
+https://github.com/Deiwels/element-crm/pull/13,fix: arrived status works without backend enum + chat message,2026-03-26T23:44:15Z,2026-03-26T23:44:22Z,0,False,TypeScript
+https://github.com/werdnum/family-assistant/pull/729,Implement list-detail navigation pattern for mobile chat,2026-03-30T00:20:45Z,2026-03-30T07:01:46Z,2,False,Python
+https://github.com/beyondessential/workhorse/pull/17,Implement artifact pattern card workspace layout,2026-03-29T19:47:07Z,2026-03-29T20:59:49Z,0,False,TypeScript
+https://github.com/chris-blvck/JungleKabal2026/pull/154,feat: add Communication Hub page with multi-panel live Telegram chat …,2026-03-19T16:58:29Z,2026-03-19T16:58:37Z,1,False,HTML
+https://github.com/daler91/Hyrox-Companion/pull/524,Remove inline re-embed from chat path to fix repeated failures,2026-03-21T21:20:48Z,2026-03-21T21:22:40Z,0,False,TypeScript
+https://github.com/StawWasTaken/Swiftaw/pull/58,Redesign sidebar with professional folder management UI,2026-03-26T22:35:20Z,2026-03-26T22:35:26Z,0,False,JavaScript
+https://github.com/oteri/co-scienza-/pull/2,"feat: scaffold monorepo — backend, mobile, docker",2026-03-26T08:26:19Z,2026-03-26T08:27:51Z,0,False,Python
+https://github.com/Schrottsocke/Projekt-Personal-Assistent/pull/277,fix(api): API Security Batch B,2026-03-29T23:11:06Z,2026-03-29T23:11:24Z,0,False,Python
+https://github.com/quimibond/quimibond-intelligence/pull/12,fix: align Claude model ID and singleton Supabase server client,2026-03-25T18:55:53Z,2026-03-25T18:55:59Z,0,False,TypeScript
+https://github.com/windoze95/cantinarr/pull/38,Fix focus loss when search bar transitions to AI chat mode,2026-03-25T22:51:28Z,2026-03-25T23:08:41Z,0,False,Dart
+https://github.com/choiceoh/Deneb/pull/783,revert: PR #782 Zen architecture rollback,2026-03-29T14:29:52Z,2026-03-29T14:30:18Z,1,False,Go
+https://github.com/Tecknocity/Binee/pull/252,"fix: resolve tab sync, data loss, and cascading re-render issues",2026-03-27T01:51:20Z,2026-03-27T01:56:44Z,0,False,TypeScript
+https://github.com/StawWasTaken/Swiftaw/pull/42,Update research sections to reflect Swiftaw's focus on better AI and …,2026-03-24T16:40:43Z,2026-03-24T16:41:06Z,0,False,JavaScript
+https://github.com/BoomerAng9/Agent-ACHEEVY-009/pull/2,feat: register Agent-ACHEEVY-009 as Tier 2 agent runtime in AIMS ecosystem,2026-03-25T03:10:53Z,2026-03-25T06:32:40Z,1,False,TypeScript
+https://github.com/AFielen/nis2-manager/pull/13,fix: Tenant-Datenisolation für Henry Agent absichern (Defense-in-Depth),2026-03-26T13:38:09Z,2026-03-26T13:38:19Z,0,False,TypeScript
+https://github.com/nayeongmax/bestsns/pull/121,fix: improve mobile UI readability and layout,2026-03-25T03:59:43Z,2026-03-25T04:00:09Z,0,False,TypeScript
+https://github.com/Keksiczek/ai-home-hub/pull/74,feat: streaming keep-alive + async chat pipeline (job_id + WS push),2026-03-24T18:08:21Z,2026-03-25T06:06:47Z,0,False,Python
+https://github.com/andrrrrey/Tenot/pull/63,"feat: mobile UI improvements — bottom nav, chat fixes, listing mobile…",2026-03-25T15:35:55Z,2026-03-25T15:36:06Z,0,True,TypeScript
+https://github.com/KirillTrubitsyn/snab-chat/pull/93,feat: make logo clickable to reset chat to start screen,2026-03-24T08:02:36Z,2026-03-24T08:02:44Z,0,False,TypeScript
+https://github.com/samoore1010/Concilium/pull/8,"Move self-view into sidebar, redesign mobile with bottom sheet",2026-03-29T20:30:31Z,2026-03-29T20:30:38Z,0,False,TypeScript
+https://github.com/RequityGit/requity/pull/948,Remove auto-greeting script from Retell chat widget,2026-03-26T15:48:57Z,2026-03-26T15:49:11Z,0,False,TypeScript
+https://github.com/rickardcollander-ops/sama-agent/pull/19,fix: Move broadcast route before dynamic {agent_name} to fix route ma…,2026-03-17T18:20:42Z,2026-03-17T18:20:50Z,0,False,Python
+https://github.com/zlnsk/MatrixClient/pull/6,Improve mobile layout: larger fonts and full-width chats,2026-03-24T16:46:05Z,2026-03-24T17:14:52Z,0,False,TypeScript
+https://github.com/mattdarbro/FixionMail/pull/193,"Add quality retry loop, adaptive beat selection, and interactive stor…",2026-03-26T21:37:18Z,2026-03-26T21:37:28Z,0,False,Python
+https://github.com/VilDeMil/handschelle/pull/173,"handschelle-chat-dropdown: remove repost option, send all fragen on n…",2026-03-28T22:56:38Z,2026-03-28T22:56:45Z,0,False,PHP
+https://github.com/pawlict/AISTATEweb/pull/569,"Complete i18n: add 37 missing Korean keys, translate 40+ Polish keys",2026-03-28T04:41:17Z,2026-03-28T04:41:34Z,0,False,Python
+https://github.com/maceip/llm-sidebar-infinite-context/pull/7,Add provider-agnostic ILLMService abstraction with multi-model support,2026-03-24T04:38:46Z,2026-03-24T04:38:54Z,0,True,TypeScript
+https://github.com/AkshatSharma03/super-dash/pull/24,fix: inject news context into /api/chat endpoint,2026-03-17T18:34:52Z,2026-03-17T18:38:44Z,1,False,TypeScript
+https://github.com/Da-Coder-Jr/KlimCode/pull/36,Fix create_pr file commit SHA bug and harden repo selector visibility,2026-03-29T01:38:51Z,2026-03-29T02:38:17Z,2,False,Svelte
+https://github.com/yuto2245/swell_child/pull/14,ヘッダー余白修正 + プラスメニュー追加,2026-03-28T13:30:41Z,2026-03-28T22:15:36Z,0,False,CSS
+https://github.com/dcharway/akwaabagigs_mobile_app/pull/22,Add bidding system with 50/100 GHS increments and poster approval flow,2026-03-26T13:09:37Z,2026-03-26T13:09:50Z,0,False,Dart
+https://github.com/choiceoh/Deneb/pull/311,fix(gateway-go): fix Telegram chat handler implementation bugs,2026-03-25T15:49:16Z,2026-03-25T15:50:09Z,1,False,Go
+https://github.com/samaig-araviel/araviel-api/pull/66,feat: add Stripe subscription paywall with daily credit system,2026-03-26T00:37:13Z,2026-03-26T00:37:21Z,0,False,TypeScript
+https://github.com/wwwourstudio/leverage-ai-chat/pull/359,Add blinking cursor during Grok streaming responses,2026-03-28T04:46:44Z,2026-03-28T04:49:30Z,1,False,TypeScript
+https://github.com/gunterstruck/ORDO/pull/37,refactor: Monolith app.js in 8 ES-Module aufgeteilt,2026-03-25T09:56:12Z,2026-03-25T10:23:22Z,0,False,JavaScript
+https://github.com/alexrutz/Atlas/pull/33,fix: remove --chat-template chatml to let Qwen3 use native jinja temp…,2026-03-17T14:07:33Z,2026-03-17T14:07:44Z,0,False,Python
+https://github.com/Fernvaleriano/meal-planner-saas-/pull/2065,"Fix sidebar toggle: double-chevron icon, restore state on all pages",2026-03-27T09:44:16Z,2026-03-27T09:44:51Z,0,False,JavaScript
+https://github.com/PigeonCoo1/Claude-1/pull/2,Add Roblox AI Bot that plays Roblox using Claude Vision API,2026-03-26T00:29:20Z,2026-03-26T00:31:09Z,0,False,Python
+https://github.com/cmaldonado80/ultimatebrain/pull/30,feat: workspace lifecycle buttons + OpenClaw chatStream — 100%,2026-03-25T17:17:15Z,2026-03-25T17:17:21Z,0,False,TypeScript
+https://github.com/InnAI-bio/datasets/pull/1,Add minimalistic flour company chatbot,2026-03-24T19:52:29Z,2026-03-24T19:52:43Z,0,True,Python
+https://github.com/jnappier7/mathmatix-ai/pull/767,Fix trial chat not passing user message to LLM pipeline,2026-03-24T04:35:08Z,2026-03-24T04:37:03Z,1,False,JavaScript
+https://github.com/sputniklaika28-coder/Ai-/pull/1,fix: suppress thinking on retry when content is empty,2026-03-26T11:52:32Z,2026-03-26T12:13:05Z,0,False,Python
+https://github.com/rickardcollander-ops/sama-dashboard/pull/26,feat: Add Agent Chat page and update reports with cool names + UX sug…,2026-03-17T18:10:26Z,2026-03-17T18:10:31Z,0,False,TypeScript
+https://github.com/ynitto/sandbox/pull/157,vscode-extension: ファイル・行参照をCLIに渡す機能を追加,2026-03-26T22:11:48Z,2026-03-26T22:11:55Z,1,False,Python
+https://github.com/anthonymishriki1-ops/mcc-master/pull/20,Remove mic/TTS buttons from text chat UI,2026-03-25T02:42:53Z,2026-03-25T02:43:01Z,0,False,HTML
+https://github.com/holdenspitznagle/morph-memory/pull/57,Fix chat screen scroll when keyboard opens,2026-03-26T17:04:31Z,2026-03-26T17:07:25Z,0,False,JavaScript
+https://github.com/toddbenanzer/ai_researcher/pull/8,"Add comprehensive README with full documentation of all modes, commands, and standards",2026-03-26T19:16:05Z,2026-03-26T19:16:14Z,0,False,
+https://github.com/kirill-dev-pro/tss-fullstack-template/pull/1,feat: highlight Telegram integration on landing page,2026-03-26T12:24:15Z,2026-03-26T18:40:27Z,0,False,TypeScript
+https://github.com/andreapausler-byte/manutech-app/pull/40,"v5.8: Premium chat UI redesign — bubble layout, glassmorphism, animaz…",2026-03-24T14:13:58Z,2026-03-24T14:14:08Z,0,False,JavaScript
+https://github.com/Oskelias/VendexChat-admin/pull/73,Fix CRM IA page scrolling to chat instead of showing top on load,2026-03-15T21:24:21Z,2026-03-15T21:24:33Z,0,False,TypeScript
+https://github.com/Chris-Obeng/ai-agent-chatbot/pull/1,"Lumina: Claude-like AI App with RAG, MCP, and Clerk Auth",2026-03-27T17:11:12Z,2026-03-27T18:03:30Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/235,fix: chat input text invisible (white on light gray),2026-03-16T12:23:46Z,2026-03-16T12:23:55Z,3,False,JavaScript
+https://github.com/TensorLink-AI/bt_miner_skills/pull/7,Fix Chutes base URL for chat completions,2026-03-25T02:46:46Z,2026-03-25T02:48:17Z,0,False,Python
+https://github.com/himprapatel-rgb/ai-skincare-intelligence-system/pull/26,"feat: add AI Chat, Clinical, Search to main navigation",2026-03-26T23:03:23Z,2026-03-26T23:03:40Z,0,False,Python
+https://github.com/rickardcollander-ops/sama-agent/pull/22,"fix: Report save logging, Goals 500, chat history persistence",2026-03-17T19:03:05Z,2026-03-17T19:03:14Z,0,False,Python
+https://github.com/tzu-chen/navigate/pull/96,Replace back-to-library with context-aware back button,2026-03-23T22:55:12Z,2026-03-23T22:55:50Z,0,False,TypeScript
+https://github.com/papuzinH/finanzas-lh/pull/4,fix(chat): eliminar auto-focus del input tras enviar mensaje,2026-03-22T04:42:39Z,2026-03-22T04:42:49Z,0,False,TypeScript
+https://github.com/hanyuriyu/lingonect/pull/50,Fix null check for chatEmpty in selectUser,2026-03-24T21:35:18Z,2026-03-24T21:35:26Z,0,False,HTML
+https://github.com/codervisor/telegramable/pull/22,Add Telegram typing indicators during AI response generation,2026-03-29T16:45:11Z,2026-03-29T20:24:38Z,1,False,TypeScript
+https://github.com/zlnsk/MatrixClient/pull/21,Apply lost status bar + align UI to Android Messages Web,2026-03-27T19:59:19Z,2026-03-27T20:09:54Z,0,False,TypeScript
+https://github.com/charleslow/code-stories/pull/23,Fix mobile chat bubble overflow with code blocks,2026-03-24T01:40:33Z,2026-03-24T02:10:27Z,0,False,JavaScript
+https://github.com/mdinorscia/Inspiration/pull/2,Add context-aware AI chat component with Cloudflare Worker proxy,2026-03-16T21:06:45Z,2026-03-16T21:06:53Z,0,False,JavaScript
+https://github.com/LashSesh/graphity/pull/63,feat: implement ISLS v3.2 full pipeline wiring,2026-03-25T21:26:04Z,2026-03-25T21:31:45Z,1,False,Rust
+https://github.com/andrrrrey/avito-crm/pull/73,fix: enforce chat ownership check on all per-chat API endpoints,2026-03-18T20:21:37Z,2026-03-18T20:21:45Z,0,True,TypeScript
+https://github.com/NafanJ/CubeWorld2.0/pull/7,Add DM-style conversation structure to chat panel,2026-03-19T13:21:26Z,2026-03-19T13:21:37Z,0,False,TypeScript
+https://github.com/vitorpamplona/amethyst/pull/1926,feat: scroll to replied message when clicking reply preview in chat,2026-03-24T14:53:19Z,2026-03-24T21:16:17Z,1493,False,Kotlin
+https://github.com/JinY0ung-Shin/claude-code-gateway/pull/70,feat: add env vars for subagent streaming visibility control,2026-03-27T09:45:23Z,2026-03-27T09:45:39Z,1,False,Python
+https://github.com/gityoni/rebsam.github.io/pull/148,"UX: fix menu icons, simplify hero, WhatsApp FAB prominent",2026-03-23T09:42:58Z,2026-03-23T09:43:14Z,0,False,HTML
+https://github.com/Tecknocity/Binee/pull/239,Show actual API error in chat bubble instead of generic message,2026-03-26T20:52:49Z,2026-03-26T20:52:54Z,0,False,TypeScript
+https://github.com/Senior3514/rentelx-080ee8e3/pull/170,"Full E2E upgrade: Gemini-powered scanner, auto-load AI pages, better map",2026-03-30T07:46:45Z,2026-03-30T07:46:50Z,0,False,TypeScript
+https://github.com/spunapp/spun/pull/105,Add image upload button to chat input,2026-03-24T23:18:38Z,2026-03-24T23:18:48Z,0,False,TypeScript
+https://github.com/statho7/ProcrastiNope/pull/10,Reorder chat input and action buttons in StepChatPhase,2026-03-21T15:19:37Z,2026-03-21T15:19:46Z,0,False,TypeScript
+https://github.com/ofonn/atmos/pull/3,"fix: resolve AI model bug, improve icons/charts/air quality/chat UX",2026-03-27T07:11:04Z,2026-03-27T07:11:17Z,0,False,TypeScript
+https://github.com/Tecknocity/Binee/pull/199,feat: auto-create welcome conversation after onboarding (B-083),2026-03-24T22:18:37Z,2026-03-24T22:28:49Z,0,False,TypeScript
+https://github.com/maryannbrody/hello-world/pull/18,Keep tab bar and AI bar visible on benefit detail pages,2026-03-22T19:16:25Z,2026-03-22T19:16:33Z,0,False,HTML
+https://github.com/JGSimi/Project-Hat/pull/45,Redesign layout + menu bar chat popover + build fixes,2026-03-27T19:40:06Z,2026-03-27T19:42:28Z,1,False,Swift
+https://github.com/likelivb-mong/my-app-vibe-s3l7/pull/3,feat: 실시간 채팅 기능 추가,2026-03-19T08:56:24Z,2026-03-19T08:56:33Z,0,False,TypeScript
+https://github.com/StawWasTaken/Swiftaw/pull/27,Fix chat sending bug and enhance chat bar with file attachments,2026-03-23T16:38:14Z,2026-03-23T16:38:22Z,0,False,JavaScript
+https://github.com/Quobo-co/Quobo-III/pull/533,Remove unused components and hooks from web app,2026-03-27T04:25:59Z,2026-03-27T04:26:08Z,0,False,TypeScript
+https://github.com/wisemanmax/Builder/pull/36,Persist builder progress and chat history across crashes,2026-03-18T01:37:02Z,2026-03-18T01:37:11Z,0,False,JavaScript
+https://github.com/launchpadsolutionsdev/lightspeed/pull/563,Add nested-card class to Insights Engine Ask Lightspeed panel,2026-03-24T19:04:22Z,2026-03-24T19:12:23Z,0,False,JavaScript
+https://github.com/HankHuang0516/EClaw/pull/358,docs: update CLAUDE.md with latest codebase state,2026-03-21T01:23:06Z,2026-03-21T01:23:10Z,3,False,JavaScript
+https://github.com/gityoni/rebsam.github.io/pull/175,"style(widget): header orangé, fond chaud, chips vivantes, suppression…",2026-03-24T12:47:59Z,2026-03-24T12:48:15Z,0,False,HTML
+https://github.com/JoelColeman/10-springs/pull/25,Extract chat bar and API key modal to _prototypes/chatbar.html,2026-03-21T04:11:29Z,2026-03-21T04:11:37Z,0,False,HTML
+https://github.com/delaitros/CRM-BAHIA-BLANCA/pull/3,Integrate Chatwoot into admin messages page,2026-03-25T00:57:47Z,2026-03-25T00:59:46Z,0,False,HTML
+https://github.com/microplasticsenjoyer/zuckxmpp/pull/1,Configure domain to moist.fans,2026-03-21T01:41:12Z,2026-03-21T01:41:23Z,1,False,Shell
+https://github.com/NextMonthLab/icemaker/pull/2052,Refactor knowledge base endpoints to use new knowledge bank schema,2026-03-28T16:28:56Z,2026-03-28T16:41:52Z,0,False,TypeScript
+https://github.com/tadaskrivickas1/noyellapp/pull/52,"Fix AI page layout to match ADHDKIDDO — remove 100vh, add bordered ch…",2026-03-26T08:55:58Z,2026-03-26T08:56:04Z,0,False,TypeScript
+https://github.com/ynitto/sandbox/pull/153,fix(agent-cli-proxy): kiro-cliのサブコマンドを正しい使い方に修正,2026-03-25T12:35:53Z,2026-03-25T12:36:05Z,1,False,Python
+https://github.com/wsaadi/Quiz-competences-IA/pull/39,Fix moderation SSE format to match frontend expectations,2026-03-24T10:17:26Z,2026-03-24T10:17:34Z,0,False,TypeScript
+https://github.com/andrrrrey/Tenot/pull/78,"fix: single-line chat input, 3-column fav grid, restore mobile centering",2026-03-27T09:44:39Z,2026-03-27T09:44:47Z,0,True,TypeScript
+https://github.com/tseggai/balkinaAI/pull/213,feat: messages appear at bottom and push older ones up like real texting,2026-03-29T00:59:09Z,2026-03-29T00:59:15Z,0,False,TypeScript
+https://github.com/natanaelsantos478/ZIA-NOVO/pull/67,"feat(ia): full IA tab — IASidebar, views, migrations, model strings",2026-03-18T13:40:26Z,2026-03-18T13:59:27Z,0,False,TypeScript
+https://github.com/crisippolite/Bucks-AI/pull/123,docs: comprehensive platform update plan — 7 workstreams,2026-03-22T18:44:15Z,2026-03-22T18:44:25Z,0,False,TypeScript
+https://github.com/choiceoh/Deneb/pull/460,feat(aurora): Aurora 데스크톱 RPC 채널 핸들러,2026-03-27T12:13:46Z,2026-03-27T12:14:03Z,1,False,Go
+https://github.com/HankHuang0516/EClaw/pull/368,"fix(cross-speak): channel auto-route, /c/:code redirect, avatar rendering",2026-03-21T07:14:18Z,2026-03-21T07:14:23Z,3,False,JavaScript
+https://github.com/chris-blvck/JungleKabal2026/pull/147,"feat: upgrade Office to immersive Jungle Office with zones, particles…",2026-03-19T15:19:51Z,2026-03-19T15:20:00Z,1,False,HTML
+https://github.com/NoisimRo/APP-AI/pull/112,fix: add auto-refresh token to authFetchStream,2026-03-18T13:04:01Z,2026-03-18T13:44:14Z,0,False,Python
+https://github.com/jeremycollins-cpu/heywren-app/pull/42,Fix stale cache: prevent users from seeing old app versions after deploys,2026-03-28T17:34:18Z,2026-03-28T17:36:36Z,0,False,TypeScript
+https://github.com/landonray/Command-center/pull/1,Implement complete Mission Control application per spec,2026-03-29T21:26:37Z,2026-03-29T21:26:47Z,0,False,JavaScript
+https://github.com/Froydinger/chatwitharc/pull/416,"Use count_user_images RPC for image count, remove allImages memo",2026-03-24T16:58:35Z,2026-03-24T16:58:43Z,0,False,TypeScript
+https://github.com/charliebeckstrand/midgard/pull/34,"add chat app with auth, sidebar, and chat page",2026-03-14T22:27:52Z,2026-03-14T22:27:59Z,0,False,TypeScript
+https://github.com/hassanmzia/AI-GovCon-System/pull/78,"feat: add multi-LLM provider support (Anthropic, OpenAI, Ollama)",2026-03-29T05:17:47Z,2026-03-29T05:17:55Z,0,False,Python
+https://github.com/therealj94/express-js-on-vercel/pull/1,Add creative skills API with named AI agents,2026-03-25T01:57:49Z,2026-03-25T02:41:04Z,0,False,TypeScript
+https://github.com/kaitlyn-barker/edtechnavigator/pull/22,Add AI teacher chatbot advisor to teachers page,2026-03-28T04:15:11Z,2026-03-28T04:15:19Z,0,False,HTML
+https://github.com/VilDeMil/handschelle/pull/144,feat: auto-send message from URL parameter,2026-03-26T05:56:19Z,2026-03-26T05:56:27Z,0,False,PHP
+https://github.com/charliebeckstrand/midgard/pull/110,"Remove docs app, reassign chat to port 3001",2026-03-25T02:28:04Z,2026-03-25T02:28:18Z,0,False,TypeScript
+https://github.com/sjpupro-lab/SJ-CANVAOS/pull/29,"feat: repo review, pipe stdin, AI training data, build fixes",2026-03-28T01:50:41Z,2026-03-28T01:50:49Z,2,False,C
+https://github.com/choiceoh/Deneb/pull/709,fix(telegram): restore only main sessions on startup heartbeat,2026-03-29T03:35:24Z,2026-03-29T03:35:33Z,1,False,Go
+https://github.com/Brian2169fdsa/friday/pull/13,"Add project detail drilldown sections: automation, deliverables, AI c…",2026-03-22T02:57:41Z,2026-03-22T02:57:48Z,0,False,HTML
+https://github.com/cmaldonado80/ultimatebrain/pull/21,fix: skip pull for Ollama Cloud models,2026-03-25T14:26:53Z,2026-03-25T14:27:14Z,0,False,TypeScript
+https://github.com/alex-mextner/ExpenseSyncBot/pull/24,feat: add /feedback command with shared utility,2026-03-30T10:45:00Z,2026-03-30T10:56:51Z,0,False,TypeScript
+https://github.com/jonathan-mcewan/liminal/pull/26,Add ancient-tech artifact background to AI chat panel,2026-03-30T04:57:18Z,2026-03-30T05:00:00Z,0,False,JavaScript
+https://github.com/crisippolite/Bucks-AI/pull/118,fix: chat scrolling + update placeholder responses to real model catalog,2026-03-22T16:58:42Z,2026-03-22T17:01:21Z,0,False,TypeScript
+https://github.com/Marcus-Rise/review-ai/pull/1,feat: implement AI Review Service MVP,2026-03-29T14:26:07Z,2026-03-29T17:45:22Z,0,False,TypeScript
+https://github.com/gaganrrm-ops/Openrouter-API-Key-Testing-Webapp/pull/1,Add OpenRouter chat webapp,2026-03-24T19:39:26Z,2026-03-24T19:40:05Z,0,False,HTML
+https://github.com/jnappier7/mathmatix-ai/pull/799,Fix calculator re-opening after every problem for IEP students,2026-03-26T10:29:11Z,2026-03-26T10:29:22Z,1,False,JavaScript
+https://github.com/HankHuang0516/EClaw/pull/353,feat: add shareable chat link with QR code for Card Holder entities,2026-03-20T16:48:46Z,2026-03-20T16:48:56Z,3,False,JavaScript
+https://github.com/riverwest-mike/riverwest-toolbox/pull/298,"Add Remi Chat: conversational follow-ups, memory, and admin chat logs",2026-03-24T17:25:03Z,2026-03-24T17:29:14Z,0,False,TypeScript
+https://github.com/andrrrrey/crm_maket_decor/pull/1,feat: implement full CRM system Maket Decor,2026-03-28T17:27:21Z,2026-03-28T17:27:29Z,0,False,TypeScript
+https://github.com/AlfanumrikOS/Alfanumrik/pull/206,Fix Foxy Voice: edge function now uses voice system prompt,2026-03-29T07:08:56Z,2026-03-29T07:09:05Z,1,False,TypeScript
+https://github.com/qualiaMachine/KohakuRAG_UI/pull/232,"Add metric comparisons, consistent citations, and settings footer to …",2026-03-27T15:54:59Z,2026-03-27T15:55:10Z,0,True,Python
+https://github.com/KirillTrubitsyn/snab-chat/pull/53,feat: add invite code auth system and admin panel,2026-03-22T13:25:29Z,2026-03-22T13:30:15Z,0,False,TypeScript
+https://github.com/FacundoSu1986/Sky_Claw/pull/39,"feat: chat UX — session sidebar, downloads panel, multi-chat (Opción C)",2026-03-25T10:30:09Z,2026-03-25T10:34:07Z,0,False,Python
+https://github.com/choiceoh/Deneb/pull/314,telegram: add missing update type handlers and narrow allowed-updates,2026-03-26T00:14:29Z,2026-03-26T00:16:10Z,1,False,Go
+https://github.com/jefferyocran/oboafo/pull/1,Add Ghana Constitutional Rights App (PWA + FastAPI),2026-03-28T10:56:39Z,2026-03-28T10:56:59Z,0,False,TypeScript
+https://github.com/helloworldhelloworld/runner/pull/57,feat: add global tools-enabled config to disable function calling,2026-03-18T16:13:40Z,2026-03-18T16:19:09Z,0,False,Java
+https://github.com/ajidlovett/arcane-angler/pull/938,"Fix multiple fishing page, chat, inventory, and gears bugs",2026-03-29T00:47:42Z,2026-03-29T00:47:50Z,0,False,JavaScript
+https://github.com/alirezavafisani/MenuElf/pull/8,Add null fallbacks for chat reply data to prevent runtime crashes,2026-03-15T04:03:30Z,2026-03-15T04:03:48Z,0,False,Python
+https://github.com/dadashhh/dadash-crm/pull/991,Add UUID-to-chatId mapping for realtime message matching,2026-03-23T23:38:16Z,2026-03-23T23:38:23Z,0,False,HTML
+https://github.com/hazpotts/cragcast/pull/50,Add conversational AI chat with tool-use orchestrator,2026-03-20T08:55:03Z,2026-03-20T09:27:37Z,0,False,TypeScript
+https://github.com/GaryLuton/fluffy-octo-funicular-fe/pull/7,Enhance BeYou mindfulness page with warmer Flovee and better recommen…,2026-03-29T10:09:45Z,2026-03-29T10:09:57Z,0,False,HTML
+https://github.com/airaamane/claude-code-workshop/pull/3,Add Auto Mode and Channels sections to guide,2026-03-28T23:46:21Z,2026-03-29T00:16:16Z,0,False,HTML
+https://github.com/geoffberman/oneanddone/pull/77,"Add Research panel (chat/link), fix playoff sort via linescores",2026-03-12T11:18:21Z,2026-03-12T11:18:33Z,0,False,TypeScript
+https://github.com/chris-blvck/pokestoned/pull/4,"feat: add all pages, fix Vercel config, add .env.example",2026-03-22T10:44:56Z,2026-03-22T10:45:55Z,0,False,TypeScript
+https://github.com/yinquan529/yinquan529-VideoAutoCut_PydanticAIAgent/pull/24,Add Typer CLI with generate and chat commands,2026-03-27T14:09:25Z,2026-03-27T14:09:38Z,0,False,Python
+https://github.com/chrisrogers37/storyline-ai/pull/117,"Refactor /status command to read all config from DB, not env vars",2026-03-29T21:33:04Z,2026-03-29T21:40:47Z,0,False,Python
+https://github.com/NextMonthLab/icemaker/pull/1822,Add bottom padding to main content to prevent chat bubble overlap,2026-03-20T23:42:04Z,2026-03-20T23:42:12Z,0,False,TypeScript
+https://github.com/Fernvaleriano/meal-planner-saas-/pull/2007,Fix message input bar floating up during chat loading,2026-03-25T08:06:40Z,2026-03-25T08:06:49Z,0,False,JavaScript
+https://github.com/Schrottsocke/Projekt-Personal-Assistent/pull/130,fix(api): Integration-Tests aufbauen + Response-Bugs beheben (#94),2026-03-28T17:50:36Z,2026-03-28T17:50:44Z,0,False,Python
+https://github.com/andreapausler-byte/manutech-app/pull/36,feat: mostra preview ultimo messaggio chat nelle card segnalazioni,2026-03-24T10:26:45Z,2026-03-24T10:26:57Z,0,False,JavaScript
+https://github.com/Cheesedozer/Pawtrait-API-Endpoint-fix/pull/1,Fix LinkAPI routing for non-Gemini image models (e.g. nai-diffusion),2026-03-18T19:10:29Z,2026-03-18T19:10:39Z,0,True,JavaScript
+https://github.com/cmaldonado80/ultimatebrain/pull/108,"refactor: chat page 736→569 lines — hooks wired, memoized",2026-03-29T02:34:48Z,2026-03-29T02:34:57Z,0,False,TypeScript
+https://github.com/MedouneSGB/flash-transfer/pull/21,docs: mise à jour complète du README v1.3.2,2026-03-23T11:44:25Z,2026-03-23T11:44:38Z,2,False,JavaScript
+https://github.com/omertai224/omer-taicher-site/pull/182,Remove clients-calls folder - use chat-based transcript processing,2026-03-21T04:12:19Z,2026-03-21T04:12:26Z,1,False,HTML
+https://github.com/tseggai/balkinaAI/pull/201,feat: redesign marketing landing page with tabbed hero and dual audience,2026-03-28T16:37:54Z,2026-03-28T16:38:12Z,0,False,TypeScript
+https://github.com/Brian2169fdsa/leadbooster/pull/102,"Fix Rebecka: kill browser TTS, pure AudioContext, wire chat to lb-reb…",2026-03-19T04:52:13Z,2026-03-19T04:52:21Z,0,False,HTML
+https://github.com/matthewyonan/agent-clerk-plugin/pull/12,Fix fatal error: add singleton pattern to AgentClerk_Admin,2026-03-25T14:34:32Z,2026-03-25T15:01:17Z,0,False,PHP
+https://github.com/andrrrrey/Tenot/pull/67,"fix: correct mobile layout for chats, favorites, and listing pages",2026-03-25T19:44:01Z,2026-03-25T19:44:09Z,0,True,TypeScript
+https://github.com/OmniQuestMediaInc/ChatNowZone--BUILD/pull/139,"NATS: scaffold NATS fabric layer — topic registry, service, and globa…",2026-03-29T16:34:04Z,2026-03-29T16:34:46Z,0,False,TypeScript
+https://github.com/BrainsyETH/Eddy/pull/529,"Fix gauge report embed: hide Ask Eddy, larger chart, responsive SVG",2026-03-25T00:12:23Z,2026-03-25T00:12:33Z,0,False,TypeScript
+https://github.com/wavcheb/telegram-sport-event-bots/pull/13,"Fix MAX bot: user names, legioneer display, event copy datetime",2026-03-23T21:42:18Z,2026-03-23T21:42:25Z,1,True,Python
+https://github.com/idosebban-cmd/duel/pull/64,feat: auto-navigate to chat 4s after multiplayer game ends,2026-03-21T10:06:41Z,2026-03-21T10:06:54Z,0,False,TypeScript
+https://github.com/barnes-ngb/first-principles-engine/pull/538,fix: add missing Firestore indexes causing CF crashes,2026-03-25T16:11:00Z,2026-03-25T16:35:58Z,0,False,TypeScript
+https://github.com/KirillTrubitsyn/snab-chat/pull/17,feat: add author credit to footer and new chat button to header,2026-03-21T12:30:49Z,2026-03-21T12:31:02Z,0,False,TypeScript
+https://github.com/deckerd451/innovation-engine/pull/137,Fix state-dependent composer layout bug on mobile,2026-03-28T14:10:22Z,2026-03-28T14:10:30Z,0,False,JavaScript
+https://github.com/KirillTrubitsyn/snab-chat/pull/71,"feat: лимиты чат/инфографика, новая вкладка активности, очистка стары…",2026-03-23T05:44:40Z,2026-03-23T05:44:49Z,0,False,TypeScript
+https://github.com/maryannbrody/hello-world/pull/19,Accessible text sizing + full-page chat replacement,2026-03-22T19:30:14Z,2026-03-22T19:30:21Z,0,False,HTML
+https://github.com/sean1588/minicode/pull/53,Clear graph nodes on each new user message,2026-03-29T03:15:17Z,2026-03-29T03:16:25Z,0,False,TypeScript
+https://github.com/mwasambilijaphet-glitch/Laundry-Connect--frontend/pull/9,feat: demo mode fallback for all customer pages,2026-03-26T08:24:57Z,2026-03-26T08:25:03Z,0,False,JavaScript
+https://github.com/andrrrrey/Tenot/pull/73,fix(mobile): inject mobile CSS via <style> tags in components,2026-03-26T20:28:33Z,2026-03-26T20:28:43Z,0,True,TypeScript
+https://github.com/ming780922/Hello-Claude/pull/5,feat: 新增 /591 Telegram 指令觸發 591 租屋爬蟲,2026-03-19T06:43:51Z,2026-03-19T06:44:00Z,0,False,Python
+https://github.com/aditiohri/horary/pull/73,Add suggested follow-up questions at the end of each reading,2026-03-27T02:30:51Z,2026-03-27T02:31:50Z,0,False,TypeScript
+https://github.com/zlnsk/MatrixClient/pull/2,"Fix avatars, decryption display, leave confirmation, send queue",2026-03-24T12:38:35Z,2026-03-24T12:43:17Z,0,False,TypeScript
+https://github.com/chrisrothwell/thinkarr/pull/244,chore: dev → beta (1.1.4),2026-03-29T08:37:16Z,2026-03-29T09:05:06Z,0,False,TypeScript
+https://github.com/crosssawyer/opinionated-t3code/pull/2,Redesign chat composer for cleaner interface,2026-03-25T17:56:31Z,2026-03-26T16:48:41Z,0,True,TypeScript
+https://github.com/icovada/gesti-pc/pull/16,Add weekly Monday 9 AM summary of scheduled tasks to main topic,2026-03-22T13:53:30Z,2026-03-22T13:56:41Z,0,False,Python
+https://github.com/yahyaobeid/travelAgent/pull/9,Replace Anthropic/Claude with OpenAI in car rental agent,2026-03-23T00:42:05Z,2026-03-23T00:42:20Z,0,False,CSS
+https://github.com/fighthealthinsurance/fighthealthinsurance/pull/690,Fix chat type backfill for non-patient users,2026-03-21T02:19:15Z,2026-03-21T17:42:30Z,142,False,Python
+https://github.com/JW-Flo/local-devops-ai/pull/10,feat: restore Docker fallback for Qdrant auto-restart,2026-03-24T10:44:26Z,2026-03-24T10:44:38Z,0,False,TypeScript
+https://github.com/PatrykPodworski/landing-page/pull/31,Add blur transition effect to greeting and chat placeholder on language change,2026-03-26T16:38:55Z,2026-03-27T05:30:23Z,0,False,TypeScript
+https://github.com/minhazulislam/agol-mcp-proxy/pull/10,Reduce token usage to stay within rate limit,2026-03-27T02:37:02Z,2026-03-27T02:37:20Z,0,False,Python
+https://github.com/juliengonde-5G/solidata.online/pull/24,feat: système de suivi des logs admin complet,2026-03-30T10:37:04Z,2026-03-30T10:37:10Z,0,False,JavaScript
+https://github.com/dkylepeppers-alt/command-x/pull/1,"Improve NPC/character tracking with status, last-seen, and clear button",2026-03-20T02:05:45Z,2026-03-20T02:06:37Z,1,False,JavaScript
+https://github.com/dcharway/akwaabagigs_mobile_app/pull/42,Rebuild Chat tab with unique chats and add default alert notifications,2026-03-29T00:30:06Z,2026-03-29T00:30:13Z,0,False,Dart
+https://github.com/Oskelias/VendexChat-admin/pull/125,fix: limpiar módulo VIP Asistente IA (BotConfigPage),2026-03-24T19:37:21Z,2026-03-24T19:37:26Z,0,False,TypeScript
+https://github.com/aousabdo/scivizhub/pull/56,Wire up REACT_APP_CHAT_PROXY_URL env var in deploy workflow,2026-03-21T21:27:15Z,2026-03-21T21:27:23Z,0,False,JavaScript
+https://github.com/Rochman78/front-claude-app/pull/2,"feat: integrate Claude API, FrontApp API, and Render deployment config",2026-03-18T16:59:07Z,2026-03-18T16:59:14Z,0,False,TypeScript
+https://github.com/qegj567-cloud/NOI2test/pull/411,fix: DB version 40→43 + Topic Loom uses emotionConfig.api light model,2026-03-25T09:09:27Z,2026-03-25T09:09:41Z,0,False,TypeScript
+https://github.com/Gpanazio/BrickAI/pull/66,Switch primary AI model from DeepSeek R1T2 to Gemini 2.5 Flash,2026-03-23T19:10:10Z,2026-03-23T19:18:15Z,0,False,TypeScript
+https://github.com/rixdennis9-create/Taschenrechner-1/pull/27,"feat: PDF-Generator vollständig lokal – kein API-Key, kein Rate-Limit",2026-03-28T13:00:58Z,2026-03-28T13:01:08Z,0,False,HTML
+https://github.com/markwatabe/pagu-admin/pull/3,"Make header mobile-friendly with hamburger menu, chat icon, and avatar dropdown",2026-03-25T21:03:03Z,2026-03-26T00:20:53Z,0,False,TypeScript
+https://github.com/kotvd76-ux/AILHUB/pull/129,fix: move pronunciation screen before unconditional chat return,2026-03-22T16:43:07Z,2026-03-22T16:43:19Z,0,False,HTML
+https://github.com/Tecknocity/Binee/pull/225,"Fix duplicate chat windows, persist history, add auto-titles",2026-03-25T22:51:35Z,2026-03-25T22:53:46Z,0,False,TypeScript
+https://github.com/hallmikaela-afk/FQ_CC_v2/pull/16,Add web search to all chat surfaces,2026-03-28T15:49:46Z,2026-03-28T15:49:55Z,0,False,TypeScript
+https://github.com/WPaczula/ttrpg-rules/pull/17,Refactor chat routes and components to extract shared utilities,2026-03-15T10:05:29Z,2026-03-15T10:07:11Z,0,False,TypeScript
+https://github.com/retirementprotectors/toMachina/pull/94,fix: MDJ1 URL → Tailscale Funnel for production connectivity,2026-03-24T03:04:17Z,2026-03-24T03:14:11Z,1,False,TypeScript
+https://github.com/avunculargroup/business-mono/pull/28,Refactor agent_conversations schema and add realtime support,2026-03-25T08:38:41Z,2026-03-25T08:42:41Z,0,False,TypeScript
+https://github.com/GaryLuton/fluffy-octo-funicular-fe/pull/21,"Make scrapbook cuter with sparkles, hearts, bubbles, and wobble",2026-03-29T13:48:27Z,2026-03-29T13:48:46Z,0,False,HTML
+https://github.com/jmelloy/clue/pull/257,"Improve UI layout: move player legend to sidebar, compact chat section",2026-03-14T22:59:30Z,2026-03-14T23:13:27Z,0,False,Python
+https://github.com/andrrrrey/avito-crm/pull/69,Add analytics page for all users,2026-03-18T11:46:44Z,2026-03-18T11:46:53Z,0,True,TypeScript
+https://github.com/charliebeckstrand/midgard/pull/62,Add chat history sheet to user details page,2026-03-16T15:24:25Z,2026-03-16T15:24:38Z,0,False,TypeScript
+https://github.com/Nomarcus/svensk-laxhjalp/pull/17,"Add dark mode, show rate limits on subscription page, increase limits",2026-03-27T01:26:26Z,2026-03-27T01:26:33Z,0,False,TypeScript
+https://github.com/eazybailey/chatbot-demo/pull/13,Fix slow TTS with Edge Runtime and aggressive chunking,2026-03-26T17:53:38Z,2026-03-26T17:53:45Z,0,False,HTML
+https://github.com/bercly0b/rtg/pull/93,"feat: add call metadata (direction, duration, missed/declined)",2026-03-27T14:05:52Z,2026-03-28T07:30:01Z,0,False,Rust
+https://github.com/gobizhelp/reiproject/pull/19,Add Pro Buyer badge for paid Pro tier buyers,2026-03-26T20:41:41Z,2026-03-26T20:41:49Z,0,False,TypeScript
+https://github.com/Zhelair/Baczi/pull/44,"feat: guide mode banners, tab tips, FengShui how-to, Куа→Гуа fixes",2026-03-25T22:04:29Z,2026-03-25T22:04:42Z,0,False,TypeScript
+https://github.com/kumarkartik9582-cpu/THE-NCA-HUB/pull/39,"feat: add streaming responses, follow-up suggestions, and chat analytics",2026-03-23T10:21:29Z,2026-03-23T10:21:41Z,0,False,HTML
+https://github.com/Zhelair/Baczi/pull/45,feat: Studio mode (editor tier) + improved RAG for all users,2026-03-26T17:20:41Z,2026-03-26T17:22:40Z,0,False,TypeScript
+https://github.com/choiceoh/Deneb/pull/279,gateway: native session execution & agent orchestration (Phase 4),2026-03-25T08:49:09Z,2026-03-25T09:24:46Z,1,False,Go
+https://github.com/KirillTrubitsyn/snab-chat/pull/122,"Fix: remove force_reply, use plain message with REF instead",2026-03-24T17:40:42Z,2026-03-24T17:40:56Z,0,False,TypeScript
+https://github.com/dadashhh/dadash-crm/pull/1061,fix(messagerie): multi-model conv dedup + stale poll guard,2026-03-30T00:35:07Z,2026-03-30T00:35:38Z,0,False,HTML
+https://github.com/dragonbot0506/PIngo/pull/15,"fix: lobby join, player board tap, transfer host, chat UX, per-party …",2026-03-20T20:53:42Z,2026-03-20T20:53:49Z,0,False,HTML
+https://github.com/vraw10/dr-probe/pull/1,Remove unused getMedicalChat and FloatingChat component,2026-03-15T08:23:29Z,2026-03-15T08:23:46Z,0,False,TypeScript
+https://github.com/imchrm/NMservices/pull/72,fix: replace deeplink with window.close() on checkout page,2026-03-24T16:38:10Z,2026-03-24T16:38:21Z,0,False,Python
+https://github.com/Barrisenn/calculoIMC.github.io/pull/4,feat: chat interativo com o Coach IA após feedback inicial,2026-03-21T04:42:00Z,2026-03-21T04:42:14Z,0,False,JavaScript
+https://github.com/talllabs/Meaningful-Marketing/pull/10,"Nav, mobile polish, content & AI section updates",2026-03-27T05:45:25Z,2026-03-27T05:49:46Z,0,False,CSS
+https://github.com/gunterstruck/ORDO/pull/98,"fix: resolve 404 on pro model, surface Live mode errors in UI",2026-03-29T11:10:07Z,2026-03-29T11:10:14Z,0,False,JavaScript
+https://github.com/1Onemoretime/stock-agent/pull/1,Add bidirectional Telegram bot listener with Claude routing,2026-03-27T04:15:33Z,2026-03-27T04:16:22Z,0,False,Python
+https://github.com/will-lp1/saru/pull/113,Update Groq models: replace deprecated Kimi K2,2026-03-26T17:34:55Z,2026-03-26T17:35:20Z,292,False,TypeScript
+https://github.com/willhutson/erp_staging_lmtd/pull/358,Fix MC sidebar scroll + add Clear All chats button,2026-03-17T21:33:51Z,2026-03-17T21:33:57Z,0,False,TypeScript
+https://github.com/reminiscent-io/wanderluxe/pull/163,Tighten AI chatbot mobile UX: consolidate layout and reduce whitespace,2026-03-26T20:34:56Z,2026-03-26T20:35:06Z,1,False,TypeScript
+https://github.com/juliandeveloper05/julian-soto-portfolio-sys-2026/pull/14,feat: add Gemini AI chatbot floating widget,2026-03-22T21:24:07Z,2026-03-22T21:24:19Z,0,False,TypeScript
+https://github.com/adepeza1/limelii-app/pull/64,"Fix bottom whitespace, remove discover dash, improve create page",2026-03-26T17:47:30Z,2026-03-26T17:47:38Z,0,False,TypeScript
+https://github.com/dachhack/stathead/pull/4,Refresh model docs and fix training pipeline,2026-03-29T20:23:19Z,2026-03-29T20:23:24Z,0,False,TypeScript
+https://github.com/hanushh/splitpay/pull/64,feat(ai): add 5 new chat commands for navigation,2026-03-22T12:46:10Z,2026-03-22T19:25:44Z,0,False,TypeScript
+https://github.com/imonroe/movie-club-app/pull/194,Fix CSRF token mismatch for regular users in live chat,2026-03-24T18:28:55Z,2026-03-24T18:43:30Z,0,False,PHP
+https://github.com/dncdante911/messenger_v2/pull/404,fix: читабельні мітки медіа в цитаті + компактний ReplyIndicator,2026-03-28T10:43:30Z,2026-03-28T10:43:36Z,0,False,Kotlin
+https://github.com/OgSmiley1/Fatoorah-legacy-/pull/15,feat: Remove Gemini AI dependency — app runs without any API keys,2026-03-23T09:23:11Z,2026-03-23T09:23:19Z,0,False,TypeScript
+https://github.com/DileepJexpert/school-project-ui/pull/47,"fix: chat contacts, staff count refresh, salary details",2026-03-26T16:34:45Z,2026-03-26T16:41:52Z,0,False,Dart
+https://github.com/KirillTrubitsyn/snab-chat/pull/92,feat: make topic optional for infographic when document context is pr…,2026-03-24T07:55:23Z,2026-03-24T07:55:30Z,0,False,TypeScript
+https://github.com/PhilippeLaval/ClaudeGames/pull/1,Add Gemini Chat Document Editor prototype,2026-03-15T09:43:33Z,2026-03-15T09:48:56Z,0,False,JavaScript
+https://github.com/chrisrothwell/thinkarr/pull/189,fix(e2e): use aria-label selector for send button test,2026-03-25T11:17:20Z,2026-03-25T11:21:08Z,0,False,TypeScript
+https://github.com/AlfanumrikOS/Alfanumrik/pull/138,"Fix XP system: persist Foxy chat XP, add level names, create rules en…",2026-03-26T14:43:25Z,2026-03-26T14:43:36Z,1,False,TypeScript
+https://github.com/NafanJ/CubeWorld2.0/pull/9,"UI polish pass: transitions, feedback, interactions",2026-03-21T15:17:48Z,2026-03-21T15:17:59Z,0,False,TypeScript
+https://github.com/easingthemes/dx-aem-flow/pull/77,"feat: shift messaging to enterprise, multi-platform, and AEM full-flow",2026-03-27T11:32:59Z,2026-03-27T12:06:29Z,3,False,MDX
+https://github.com/kpcrmv4/stockmanager/pull/41,feat: organize transaction records with Task Board + grouped cards,2026-03-25T21:50:52Z,2026-03-26T00:39:20Z,1,False,TypeScript
+https://github.com/hanyuriyu/lingonect/pull/55,Add Jais as 13th translation engine via Hugging Face Inference API,2026-03-24T22:15:09Z,2026-03-24T22:15:15Z,0,False,HTML
+https://github.com/choiceoh/Deneb/pull/312,gateway-go: OpenAI-compatible LLM client + config-based provider resolution,2026-03-25T15:51:49Z,2026-03-25T15:53:40Z,1,False,Go
+https://github.com/andrrrrey/Tenot/pull/75,Redesign favorites and chat pages layout,2026-03-26T20:59:10Z,2026-03-26T20:59:16Z,0,True,TypeScript
+https://github.com/Ryxeuf/amethyste-idle/pull/152,feat(73): Chat de guilde via Mercure SSE,2026-03-24T15:21:09Z,2026-03-24T15:59:08Z,1,False,PHP
+https://github.com/eeya7ya/AdvancedGate/pull/39,Migrate AI provider from Anthropic to Groq + Tavily,2026-03-25T21:14:18Z,2026-03-25T21:14:47Z,0,False,TypeScript
+https://github.com/mqwebstera11y/elena/pull/1,Scaffold Character Studio — full Vite/React app,2026-03-24T02:08:14Z,2026-03-24T02:08:22Z,0,False,JavaScript
+https://github.com/patriotnewsactivism/ChatScream/pull/48,feat: implement live streaming critical features,2026-03-27T08:43:18Z,2026-03-27T08:43:48Z,1,False,TypeScript
+https://github.com/RyanLin0122/MOF/pull/137,Implement message box manager and chat print UI components,2026-03-29T13:59:10Z,2026-03-29T14:00:02Z,0,False,C
+https://github.com/Sevrin420/Last-Chad/pull/310,"Fix test chips button, crop table, opaque dice, fix Agora voice chat",2026-03-19T02:08:42Z,2026-03-19T02:08:49Z,0,False,HTML
+https://github.com/hassanmzia/AI-GovCon-System/pull/92,fix: Ollama connectivity from Docker containers,2026-03-29T16:38:24Z,2026-03-29T16:38:32Z,0,False,Python
+https://github.com/cjkootch/VTC-website/pull/59,Modernize UI with rounded corners across all pages,2026-03-20T02:39:04Z,2026-03-20T02:40:16Z,0,False,HTML
+https://github.com/jahooli14/aperture/pull/268,fix(polymath): resolve unexpected end of JSON input in project chat,2026-03-23T11:35:45Z,2026-03-23T11:35:59Z,1,False,TypeScript
+https://github.com/gunterstruck/ORDO/pull/71,Fix circular import crash: lazy-resolve ROOM_TYPES in organizer.js,2026-03-28T16:14:17Z,2026-03-28T16:14:24Z,0,False,JavaScript
+https://github.com/kernoeb/squads-app/pull/1,"Fix message sending UX bugs, add lazy image loading",2026-03-24T17:04:50Z,2026-03-24T18:54:02Z,0,False,Kotlin
+https://github.com/igarridot/pentaract-cli/pull/21,Add Telegram notifications for upload failures,2026-03-23T11:05:34Z,2026-03-23T11:14:49Z,0,False,Go
+https://github.com/abnasim/TekAutomate/pull/20,Upgrade Anthropic chat to SDK with native tool calling,2026-03-29T06:07:15Z,2026-03-29T06:07:23Z,0,False,TypeScript
+https://github.com/mnastrojarna-hub/Vel-n/pull/366,"redesign: Messages page with channel tabs (SMS, Email, WhatsApp, Chat)",2026-03-20T10:46:45Z,2026-03-20T10:46:52Z,0,False,JavaScript
+https://github.com/alonsix6/San_Fernando_Bot-Reset/pull/4,feat: allow any user in the authorized group to use the bot,2026-03-17T23:11:05Z,2026-03-17T23:11:14Z,0,False,TypeScript
+https://github.com/NextMonthLab/icemaker/pull/1888,"Fix strategy mode label from ""personal"" to ""jobseeker""",2026-03-23T13:27:03Z,2026-03-23T13:27:10Z,0,False,TypeScript
+https://github.com/Fernvaleriano/meal-planner-saas-/pull/2009,Fix message input textbox cut off by bottom nav on mobile,2026-03-25T08:40:46Z,2026-03-25T08:41:42Z,0,False,JavaScript
+https://github.com/paulkayc/tarp-space-Phase-1/pull/16,Add Mandate Agent UI and update home page navigation,2026-03-27T05:29:18Z,2026-03-27T05:29:26Z,0,False,Python
+https://github.com/kamide007-ship-it/vetdict/pull/200,Redesign chat as interactive consultation with progressive symptom Q&A,2026-03-26T21:57:49Z,2026-03-26T22:00:04Z,0,False,Python
+https://github.com/HankHuang0516/EClaw/pull/421,fix: silent debug + no-store cache for Android WebView (#419),2026-03-22T14:02:00Z,2026-03-22T14:02:09Z,3,False,JavaScript
+https://github.com/zerobob623-bit/OSONE2/pull/30,Optimize system instruction for faster AI responses,2026-03-28T21:23:26Z,2026-03-28T21:37:59Z,0,False,TypeScript
+https://github.com/Oskelias/VendexChat-front/pull/138,Use official logo PNG across all components,2026-03-16T05:22:41Z,2026-03-16T05:22:49Z,0,False,TypeScript
+https://github.com/pvenableh/company/pull/44,Add automated Directus permissions setup script for AI collections,2026-03-10T15:43:56Z,2026-03-10T15:44:04Z,0,False,Vue
+https://github.com/anthonymishriki1-ops/mcc-master/pull/30,"NAC-OSCE: clinical workstation UI, OpenAI TTS, uncensored",2026-03-25T21:20:00Z,2026-03-25T21:20:09Z,0,False,HTML
+https://github.com/ynitto/sandbox/pull/159,Add chat history persistence and improve model caching,2026-03-29T13:27:31Z,2026-03-29T13:27:50Z,1,False,Python
+https://github.com/cmaldonado80/ultimatebrain/pull/47,feat: agent tool use + report generation + astrology workspace + automation,2026-03-26T12:33:33Z,2026-03-26T12:33:51Z,0,False,TypeScript
+https://github.com/crisippolite/Bucks-AI/pull/83,Fix GuideChat: replace broken API call with local knowledge base,2026-03-21T21:54:22Z,2026-03-21T21:54:28Z,0,False,TypeScript
+https://github.com/landoCommandoz/aurigen-directory/pull/48,"Add Chunk 3: Tools tab, Advisor tab, Account tab, boot animation",2026-03-19T17:17:36Z,2026-03-19T17:17:46Z,0,False,JavaScript
+https://github.com/dncdante911/messenger_v2/pull/394,feat: add Business Directory entry point in drawer menu,2026-03-27T13:31:35Z,2026-03-27T13:31:42Z,0,False,Kotlin
+https://github.com/jahooli14/aperture/pull/261,feat(polymath): promote project chat to primary AI touchpoint,2026-03-21T20:22:34Z,2026-03-21T20:22:41Z,1,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/379,fix: stay on share-chat page after registration instead of redirecting to login,2026-03-21T13:24:48Z,2026-03-21T13:24:54Z,3,False,JavaScript
+https://github.com/launchpadsolutionsdev/lightspeed/pull/350,Fix usage_logs column name: tokens_used → total_tokens,2026-03-16T16:58:03Z,2026-03-16T16:58:10Z,0,False,JavaScript
+https://github.com/Rochman78/front-claude-app/pull/8,"Fix contrast, file dedup, redesign draft view like Claude Projects",2026-03-18T18:59:01Z,2026-03-18T18:59:10Z,0,False,TypeScript
+https://github.com/cmaldonado80/ultimatebrain/pull/13,feat: streaming chat + Ollama cloud + more UI,2026-03-24T14:43:22Z,2026-03-24T14:43:29Z,0,False,TypeScript
+https://github.com/bharath-shanmugasundaram/7Sync/pull/14,Add mobile responsiveness across all components,2026-03-22T09:30:09Z,2026-03-22T09:30:17Z,0,False,TypeScript
+https://github.com/KirillTrubitsyn/snab-chat/pull/18,fix: raise header z-index so new chat button is visible above sidebars,2026-03-21T12:46:10Z,2026-03-21T12:46:20Z,0,False,TypeScript
+https://github.com/HouseofBrandt/Clearedwebapp/pull/58,Add in-app messaging system and app knowledge to chat assistant,2026-03-20T22:22:46Z,2026-03-20T22:22:53Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/364,feat(share-chat): add reply visibility and delivery status,2026-03-21T03:11:35Z,2026-03-21T03:11:41Z,3,False,JavaScript
+https://github.com/unnamed00bas/JaggerAI/pull/13,"Move AI trainer to chat, add markdown rendering and persistent history",2026-03-18T15:55:33Z,2026-03-18T15:55:49Z,0,False,TypeScript
+https://github.com/dncdante911/messenger_v2/pull/210,fix: resolve LazyColumn duplicate key crash on chat list open,2026-03-14T05:10:23Z,2026-03-14T05:10:30Z,0,False,Kotlin
+https://github.com/jmelloy/clue/pull/264,Skip trash-talk chat when a player suggests themselves,2026-03-15T09:13:26Z,2026-03-15T09:22:40Z,0,False,Python
+https://github.com/Goifal/mindhome/pull/656,Fix Chat Card Ingress: discover addon slug dynamically + list-addons …,2026-03-28T17:44:35Z,2026-03-28T17:44:45Z,0,False,Python
+https://github.com/sergio-dn/particula/pull/52,fix: chat models and sessions not loading due to response shape mismatch,2026-03-23T11:14:43Z,2026-03-23T11:14:50Z,0,False,TypeScript
+https://github.com/jakefleming/conan/pull/1,"Update README with chat, export, multimodal summaries, and new API endpoints",2026-03-17T06:39:53Z,2026-03-17T06:40:15Z,0,False,TypeScript
+https://github.com/venkybobby/saro-platform/pull/7,feat(v9.1): merge policy nav into single Policy Intelligence page,2026-03-18T17:36:46Z,2026-03-18T17:36:56Z,0,False,Python
+https://github.com/smonkyy/aitoolsreview/pull/7,fix: prevent chatbot from scrolling the page on option select,2026-03-20T09:00:03Z,2026-03-20T09:00:13Z,0,False,TypeScript
+https://github.com/gilheumpark-bit/eh-universe-web/pull/2,feat: 문체 개발 스튜디오 페이지 추가 (/tools/style-studio),2026-03-22T05:10:06Z,2026-03-22T06:43:21Z,0,False,TypeScript
+https://github.com/MetaCode2023/Xovion-Labs/pull/36,Fix CF Pages deployment: switch to Pages Functions for chat API,2026-03-18T21:19:29Z,2026-03-18T21:20:55Z,0,False,Astro
+https://github.com/goodwinka/openwebui-claude-code/pull/9,test: add 51 tests for pipe_function.py,2026-03-22T11:07:22Z,2026-03-22T11:07:28Z,0,False,Python
+https://github.com/forreggy/claude-code-playground/pull/8,feat: добавить белый список администраторов (ADMIN_IDS),2026-03-21T20:17:55Z,2026-03-21T20:18:07Z,0,False,Python
+https://github.com/pawlict/AISTATEweb/pull/571,"Expand user manual: Crypto analysis, ARIA HUD, audio player, search, …",2026-03-28T06:08:36Z,2026-03-28T06:08:43Z,0,False,Python
+https://github.com/choiceoh/Deneb/pull/275,gateway-go: fix critical bugs found in code review,2026-03-25T08:30:49Z,2026-03-25T08:45:30Z,1,False,Go
+https://github.com/NextMonthLab/icemaker/pull/2095,Add conversation thread separation for Norman/Nora chat contexts,2026-03-29T16:49:26Z,2026-03-29T16:49:32Z,0,False,TypeScript
+https://github.com/clashcontrol-io/clash-control/pull/97,"Add quick start guide, interactive tour, and UI improvements",2026-03-25T08:18:37Z,2026-03-25T08:19:47Z,0,False,HTML
+https://github.com/prashanthgedde/PersonalAssist/pull/8,Mount persistent volume for memory storage,2026-03-30T07:39:47Z,2026-03-30T07:41:34Z,0,False,Python
+https://github.com/kazgamada/LINE-AI/pull/11,"feat: add SaaS essential features - friends, messages, billing, admin",2026-03-27T15:22:46Z,2026-03-27T15:22:58Z,0,False,TypeScript
+https://github.com/ZaiMohSalla52/Adultbadies/pull/112,Redesign /chat page to competitor style + fix mobile composer,2026-03-20T12:19:28Z,2026-03-20T12:20:09Z,0,False,TypeScript
+https://github.com/Brettmmmmm/aihead/pull/1,feat: add Grok AI chat panel with export functionality,2026-03-19T20:30:41Z,2026-03-19T20:54:40Z,0,False,TypeScript
+https://github.com/andrrrrey/Tenot/pull/72,fix(mobile): inject CSS via &lt;style&gt; tags — same pattern as search page,2026-03-26T19:39:33Z,2026-03-26T19:41:07Z,0,True,TypeScript
+https://github.com/Whitney-Bateson-Digital-Strategy/DFY-Funnel/pull/10,"Update next steps messaging, chat blurbs, emails, and team references",2026-03-27T01:42:46Z,2026-03-27T01:42:52Z,0,False,HTML
+https://github.com/ljac98/Poliglota-hambriento/pull/104,Hide add-friend button for existing friends and add lobby chat,2026-03-17T13:36:58Z,2026-03-17T13:37:15Z,0,False,JavaScript
+https://github.com/mhsnook/sunlo/pull/420,Fix grainy avatars with size-appropriate image transforms,2026-03-25T12:52:33Z,2026-03-25T21:38:07Z,5,False,TypeScript
+https://github.com/gityoni/rebsam.github.io/pull/178,"style(widget): 4 finitions UI — fond plus clair, chips contraste, ava…",2026-03-24T13:04:27Z,2026-03-24T13:05:04Z,0,False,HTML
+https://github.com/gkg-aerchain/aerchain-salesos/pull/64,"Add pricing engine, logic config, and editor component",2026-03-25T02:30:13Z,2026-03-25T02:30:21Z,0,False,HTML
+https://github.com/manishjain-py/my-story-buddy-backend/pull/1,Upgrade OpenAI models to latest: gpt-4.1 and gpt-image-1.5,2026-03-24T18:31:27Z,2026-03-24T18:46:21Z,0,False,Python
+https://github.com/daler91/Hyrox-Companion/pull/520,Fix AI coach errors: use stable Gemini model and non-destructive re-e…,2026-03-21T20:47:29Z,2026-03-21T20:48:42Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/380,fix: save pending messages to DB and poll for email verification on share-chat,2026-03-21T13:44:32Z,2026-03-21T13:44:53Z,3,False,JavaScript
+https://github.com/luketridentco/trident-ops/pull/1,Research: Global Skill Architecture for Multi-Environment Claude Setup,2026-03-30T02:22:07Z,2026-03-30T02:46:01Z,0,False,
+https://github.com/Oskelias/VendexChat-admin/pull/128,fix: store-ai-chat usa bot_config del admin en lugar de valores hardcodeados,2026-03-24T20:45:31Z,2026-03-24T20:47:41Z,0,False,TypeScript
+https://github.com/YosuaChrialMartono/gkj-eh-web/pull/1,feat: implement AI-first Next.js repository structure,2026-03-21T04:35:01Z,2026-03-21T05:04:11Z,0,False,TypeScript
+https://github.com/TomasBalestrin/Bethel-CS/pull/38,fix: singleton call object — survives component remounts,2026-03-26T18:46:15Z,2026-03-26T18:46:21Z,0,False,TypeScript
+https://github.com/StawWasTaken/Swiftaw/pull/1,Copy Fortized repository contents into Swiftaw (excluding app directory),2026-03-20T21:22:58Z,2026-03-20T21:23:07Z,0,False,JavaScript
+https://github.com/oraziosdev/dealandlead/pull/1,Add AI personal assistant tab for social media & admin support,2026-03-29T20:15:21Z,2026-03-29T20:16:36Z,0,False,Python
+https://github.com/acmeproducts/joy/pull/169,Reduce presence note spam and fix reconnection logging,2026-03-25T07:18:22Z,2026-03-25T07:20:48Z,0,False,HTML
+https://github.com/minhazulislam/agol-mcp-proxy/pull/12,Replace map components with embedded ArcGIS Online dashboard iframe,2026-03-27T03:43:51Z,2026-03-27T03:44:15Z,0,False,Python
+https://github.com/minhazulislam/agol-mcp-proxy/pull/12,Replace map components with embedded ArcGIS Online dashboard iframe,2026-03-27T03:43:51Z,2026-03-27T03:44:15Z,0,False,Python
+https://github.com/shanimosco47-pixel/hey-usa/pull/47,feat: Moti parses pasted booking confirmation emails,2026-03-29T20:09:27Z,2026-03-29T20:09:45Z,0,False,TypeScript
+https://github.com/shanimosco47-pixel/hey-usa/pull/46,feat: add document upload to Moti chat with auto-classification,2026-03-29T20:06:31Z,2026-03-29T20:06:35Z,0,False,TypeScript
+https://github.com/greyizilein/zoewrites/pull/1,"Fix writing engine bugs: brief intake fields, DB error handling, chat tool matching",2026-03-22T21:08:45Z,2026-03-22T21:09:28Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/261,fix: scheduled messages not showing in Android app chat,2026-03-17T10:36:04Z,2026-03-17T10:36:09Z,3,False,JavaScript
+https://github.com/iagomussel/huntermussel/pull/40,Add Site Assistant chatbot (Phase 1 MVP),2026-03-21T19:55:22Z,2026-03-22T16:09:45Z,1,False,TypeScript
+https://github.com/tseggai/balkinaAI/pull/177,feat: AI Memory/Nudge Engine + Chat Screen refactor,2026-03-25T21:48:07Z,2026-03-25T21:48:19Z,0,False,TypeScript
+https://github.com/Quobo-co/Quobo-III/pull/457,Refactor message visibility filtering and add associations to chat creation,2026-03-22T17:47:53Z,2026-03-22T17:47:57Z,0,False,TypeScript
+https://github.com/Tecknocity/Binee/pull/185,feat(B-078): Build setup complete screen,2026-03-24T20:11:03Z,2026-03-24T20:12:35Z,0,False,TypeScript
+https://github.com/ndrwbv/bus-schedule/pull/37,feat: broadcast Telegram alerts + show last checked date,2026-03-29T18:32:30Z,2026-03-30T06:58:55Z,6,False,TypeScript
+https://github.com/ambitieuseaventure/liguedesambitieuses/pull/71,"Messagerie mobile : input toujours visible, messages scrollables",2026-03-18T07:17:53Z,2026-03-18T07:18:02Z,0,False,HTML
+https://github.com/desi-delights/Maa-Ka-Khana/pull/1,Add WhatsApp/Call contact icons and clean up HOW TO ORDER box,2026-03-23T17:26:56Z,2026-03-23T17:27:08Z,0,False,HTML
+https://github.com/9-p9/lua9p/pull/1,Add FRAMEWORK.md: 9cog framework integration (lightweight 9P scriptin…,2026-03-27T17:56:51Z,2026-03-27T17:57:05Z,0,True,Lua
+https://github.com/rask-lang/rask/pull/134,"GDL: add events, media streams, nested spaces, reference frames, unbounded worlds, full-JS panels",2026-03-25T20:30:15Z,2026-03-25T20:30:25Z,0,False,Rust
+https://github.com/zeroheroafk/onchainterm/pull/16,"Visual polish: zebra tables, tab glow, refined inputs, live dot, toas…",2026-03-28T19:42:53Z,2026-03-28T19:43:04Z,0,False,TypeScript
+https://github.com/HankHuang0516/EClaw/pull/306,fix: render image avatars in chat bubble labels,2026-03-18T14:55:49Z,2026-03-18T14:55:56Z,3,False,JavaScript
+https://github.com/anbucur/pulse/pull/2,feat: implement all 30 Pulse features across 3 phases,2026-03-27T23:37:00Z,2026-03-27T23:37:10Z,0,False,TypeScript
+https://github.com/crisippolite/Bucks-AI/pull/87,"Update User Guide, Getting Started, and GuideChat for current platfor…",2026-03-21T22:44:29Z,2026-03-21T22:44:38Z,0,False,TypeScript
+https://github.com/esltenya-eng/classpin-folder-based-classroom-board/pull/266,"fix: resolve 4 reported issues (student names, chat font, PDF Korean,…",2026-03-25T03:06:23Z,2026-03-25T03:06:32Z,1,False,TypeScript
+https://github.com/ZTech-Inc/SuperPower_Board/pull/1,feat: add agent chat feature with real-time messaging,2026-03-15T11:11:13Z,2026-03-15T11:11:31Z,0,True,TypeScript
+https://github.com/dcharway/akwaabagigs_mobile_app/pull/40,Rewrite chat with optimistic send: sender always sees own messages,2026-03-28T23:56:01Z,2026-03-28T23:56:09Z,0,False,Dart
+https://github.com/andrrrrey/avito-crm/pull/74,fix: remove env.AVITO_ACCOUNT_ID fallback from user chat filtering,2026-03-18T20:34:05Z,2026-03-18T20:34:13Z,0,True,TypeScript
+https://github.com/ashwinjyoti-ship-it/personal-ai-assistant/pull/29,fix: add position:relative to .chat-area base rule for mobile compat,2026-03-18T16:30:16Z,2026-03-18T16:30:25Z,0,False,TypeScript
+https://github.com/chrisrothwell/thinkarr/pull/165,feat: improve chat and client-side logging visibility,2026-03-24T04:00:07Z,2026-03-24T04:24:30Z,0,False,TypeScript
+https://github.com/qegj567-cloud/NOI2test/pull/371,fix: move proactive trigger handler to OSContext for global backgroun…,2026-03-18T05:19:30Z,2026-03-18T05:19:37Z,0,False,TypeScript
+https://github.com/VilDeMil/handschelle/pull/156,feat: KI-Analyse link on each person name (personal data query),2026-03-26T10:06:29Z,2026-03-26T10:16:40Z,0,False,PHP
+https://github.com/minhazulislam/agol-mcp-proxy/pull/5,Switch to Claude API backend with custom chat UI on Render,2026-03-27T01:37:11Z,2026-03-27T01:37:54Z,0,False,Python
+https://github.com/cmaldonado80/ultimatebrain/pull/20,fix: OLLAMA_API_KEY env var takes priority over vault,2026-03-25T13:54:45Z,2026-03-25T13:55:15Z,0,False,TypeScript
+https://github.com/TomAndrewsRecGroup/RecXchange/pull/23,Remove Groq AI entirely — replace with direct Telegram live chat,2026-03-20T12:06:35Z,2026-03-20T12:06:43Z,0,False,TypeScript
+https://github.com/pedroqvd/crypto-ai-trading/pull/1,"Code review: atualizar modelo Claude, adicionar MACD/EMA e melhorias",2026-03-24T16:54:29Z,2026-03-24T17:43:15Z,0,False,TypeScript
+https://github.com/kulmaganbetov/ar_physics/pull/2,Add /api/auth.js and /api/chat.js serverless functions,2026-03-26T15:10:14Z,2026-03-26T15:10:26Z,0,False,HTML
+https://github.com/crisippolite/Bucks-AI/pull/67,feat: unify player data source with usePlayers hook and shared Player…,2026-03-21T20:14:35Z,2026-03-21T20:25:36Z,0,False,TypeScript
+https://github.com/redcatsix/char_chat/pull/14,fix: resolve chat composer hidden behind bottom nav with pure flexbox…,2026-03-15T11:18:12Z,2026-03-15T11:18:19Z,0,False,JavaScript
+https://github.com/FolahanWilliams/decision-intel/pull/198,fix: comprehensive codebase audit - fix critical bugs and improve res…,2026-03-21T01:31:15Z,2026-03-21T01:31:25Z,1,False,TypeScript
+https://github.com/Zhelair/Victoria/pull/7,"Fix onboarding UI, translations, chat messages, hydration, and voice",2026-03-24T19:26:25Z,2026-03-24T19:26:33Z,0,False,TypeScript
+https://github.com/omrynskyi/Lintic/pull/5,"US-010: Frontend shell with React, Vite, Tailwind, and split-pane layout",2026-03-30T03:07:03Z,2026-03-30T03:07:13Z,0,False,TypeScript
+https://github.com/priscillazaehringer/sitein8/pull/9,Replace Step 3 forms with Claude-powered chat interview,2026-03-21T02:34:56Z,2026-03-21T02:35:06Z,0,False,HTML
+https://github.com/ajidlovett/arcane-angler/pull/914,Fix Party chat tab not appearing after boat creation,2026-03-23T02:38:21Z,2026-03-23T02:38:30Z,0,False,JavaScript
+https://github.com/mikaelra/wom-mid/pull/52,Add Socket.IO migration guide for frontend polling replacement,2026-03-27T20:16:29Z,2026-03-27T20:23:50Z,0,False,TypeScript
+https://github.com/naveenpnkirupanidhi/naveen/pull/2,Add Portfolio Sentinel (YoC) widget to HTML page,2026-03-25T08:37:42Z,2026-03-25T08:37:54Z,0,False,Python
+https://github.com/charleslow/code-stories/pull/21,Style chat messages with distinct visual treatment for user and assistant,2026-03-23T05:35:33Z,2026-03-23T05:35:39Z,0,False,JavaScript
+https://github.com/alonbenitzhak-alt/MANAIO/pull/37,Route all contact via admin: remove agent-buyer chat and agent follow…,2026-03-25T19:46:42Z,2026-03-25T19:46:49Z,0,False,TypeScript
+https://github.com/Temp1258/ReadMe/pull/155,Rewrite README.md to reflect current product: audio transcription + A…,2026-03-22T02:20:25Z,2026-03-22T02:20:37Z,1,False,TypeScript
+https://github.com/dncdante911/messenger_v2/pull/381,fix: remove all numeric literal separators incompatible with Node.js …,2026-03-26T21:34:12Z,2026-03-26T21:34:19Z,0,False,Kotlin
+https://github.com/netxms/netxms/pull/3155,Add SYSTEM_ACCESS_USE_AI_ASSISTANT access right,2026-03-29T07:10:00Z,2026-03-29T07:53:22Z,331,False,C++
+https://github.com/krishanraja/mindmaker-for-leaders/pull/16,Add LLM strategy review with multi-provider routing recommendations,2026-03-21T23:34:25Z,2026-03-22T00:24:24Z,0,False,TypeScript
+https://github.com/pataforista/projectmanagement/pull/52,"Modernize core features: @mentions, chat delete, hierarchy visuals, sync widget",2026-03-18T12:07:25Z,2026-03-18T12:07:32Z,0,False,JavaScript
+https://github.com/LibreChat-AI/librechat.ai/pull/536,docs: add Claude as a conversation import option,2026-03-21T14:46:25Z,2026-03-21T14:52:38Z,459,False,MDX
+https://github.com/Ryxeuf/amethyste-idle/pull/117,Synchroniser ROADMAP_TODO et ROADMAP_DONE,2026-03-23T07:53:48Z,2026-03-23T07:59:57Z,1,False,PHP
+https://github.com/RyanLin0122/MOF/pull/139,Fix uninitialized padding and GetAbsPos call order,2026-03-29T16:13:28Z,2026-03-29T16:13:34Z,0,False,C
+https://github.com/Klebercdc/Treino-do-dia/pull/255,"feat: dieta personalizada com anamnese completa, calculadora basal e dados do Supabase",2026-03-29T10:55:20Z,2026-03-29T10:55:24Z,0,False,JavaScript
+https://github.com/Tecknocity/Binee/pull/157,feat(B-059): Onboarding welcome message after first ClickUp sync,2026-03-23T23:52:14Z,2026-03-24T00:12:18Z,0,False,TypeScript
+https://github.com/malvibecodes/marinate/pull/3,"feat: Steps 4-6 — tags, mode detection, opening screen",2026-03-21T14:21:53Z,2026-03-21T15:14:43Z,0,False,JavaScript
+https://github.com/redcatsix/char_chat/pull/10,Redesign chat page: KakaoTalk-style chat list + room views,2026-03-15T10:37:54Z,2026-03-15T10:38:02Z,0,False,JavaScript
+https://github.com/drewmully/EOS/pull/3,"Fix chat errors, separate pipelines, improve padding and styling",2026-03-18T15:10:09Z,2026-03-18T15:10:19Z,0,False,TypeScript
+https://github.com/KirillTrubitsyn/snab-chat/pull/103,"feat: add off-topic detection, support system, error logging with Tel…",2026-03-24T11:05:41Z,2026-03-24T11:05:51Z,0,False,TypeScript
+https://github.com/4NTON228/love-app/pull/22,"feat: Aurora Love redesign — Stories viewer, reaction burst, nav boun…",2026-03-26T07:56:53Z,2026-03-26T07:57:05Z,1,False,JavaScript
+https://github.com/wsaadi/RFP-Assistant/pull/301,feat: implement true full context mode for Excel fill,2026-03-28T00:48:32Z,2026-03-28T00:48:38Z,0,False,Python
+https://github.com/LashSesh/graphity/pull/47,feat(phase12-agent-upgrade): workspace-aware C30 Agent with chat endp…,2026-03-19T23:54:53Z,2026-03-19T23:55:01Z,1,False,Rust
+https://github.com/soheib77130/Serviko-beta/pull/40,feat: full freelancer-client matching platform,2026-03-26T20:21:42Z,2026-03-26T20:21:54Z,0,False,HTML
+https://github.com/himprapatel-rgb/ai-skincare-intelligence-system/pull/55,fix: chat page layout + widget + suggestion styling,2026-03-27T15:57:03Z,2026-03-27T16:19:55Z,0,False,Python
+https://github.com/HankHuang0516/EClaw/pull/347,fix: remove message_count check and auto GitHub issue creation,2026-03-20T08:59:41Z,2026-03-20T08:59:47Z,3,False,JavaScript
+https://github.com/greyizilein/zoewrites/pull/17,"Fix Zoe: auto-open on desktop, visible input, ZOE badge, upload errors",2026-03-28T13:36:27Z,2026-03-28T13:36:52Z,0,False,TypeScript
+https://github.com/soheib77130/ServikoV2/pull/8,"Refonte dashboards: matching temps réel, chat, paiement, notation",2026-03-28T20:57:55Z,2026-03-28T20:58:19Z,0,False,HTML
+https://github.com/nayeongmax/bestsns/pull/107,fix: 채팅 알림 뱃지 실시간 업데이트 및 알림음 수정,2026-03-23T09:33:56Z,2026-03-23T09:34:21Z,0,False,TypeScript
+https://github.com/mikaelra/wom-mid/pull/43,Update ALPHA_UI_PLAN.md to reflect current implementation state,2026-03-17T17:42:21Z,2026-03-17T17:42:29Z,0,False,TypeScript
+https://github.com/YigitKa/ikas-ai-seo-agent/pull/54,feat: Add API cost tracking and display for all AI providers,2026-03-23T17:57:57Z,2026-03-23T17:58:05Z,2,False,Python
+https://github.com/zeroheroafk/onchainterm/pull/34,"Bloomberg Terminal UI: features, hardening & audit fixes",2026-03-29T21:55:08Z,2026-03-29T21:55:45Z,0,False,TypeScript
+https://github.com/lagusfaxx/6/pull/423,SEO: fix duplicate content causing Google to merge pages as canonical,2026-03-23T22:54:33Z,2026-03-23T22:54:40Z,1,False,TypeScript
+https://github.com/MastruPipa/giuno-bot/pull/12,Tool cataloga_preventivi per Claude + migliorie cataloga,2026-03-26T12:32:30Z,2026-03-26T12:48:49Z,0,False,JavaScript
+https://github.com/TherranT11/nationhood/pull/1301,Fix IPO president-decides admission creating a normal vote,2026-03-27T23:25:09Z,2026-03-27T23:25:15Z,0,False,HTML
+https://github.com/brettungashick/outsail-blueprint/pull/1,"feat: Phase 1 foundation — Next.js 14, Drizzle schema, auth, layout",2026-03-29T17:59:16Z,2026-03-29T17:59:22Z,0,False,TypeScript
+https://github.com/forwardimpact/monorepo/pull/48,"fix(guide,librc): improve CLI DX for env errors, rc-stop exit code, and quickstart summary",2026-03-25T06:20:23Z,2026-03-25T06:24:02Z,1,False,JavaScript
+https://github.com/kpcrmv4/stockmanager/pull/40,feat: dedicated transfer & HQ warehouse chat integration,2026-03-25T21:14:05Z,2026-03-25T21:38:39Z,1,False,TypeScript
+https://github.com/milleisole/flussu_open/pull/20,Add Mistral AI as LLM provider,2026-03-24T02:44:16Z,2026-03-24T02:46:51Z,1,False,PHP
+https://github.com/davidecampman/Cadence/pull/33,Remove unused sessionId and updateActiveChat variables,2026-03-24T03:51:09Z,2026-03-24T03:52:47Z,0,False,Python
+https://github.com/Parachord/parachord-android/pull/77,"Only push user-created playlists to Spotify, not imports/weekly/DJ",2026-03-23T23:19:36Z,2026-03-23T23:19:50Z,0,False,Kotlin
+https://github.com/reusady2001-2026/ANOMALY_ANALYZER/pull/9,fix: save raw DATA metrics in session + auto-save chat responses,2026-03-24T12:50:55Z,2026-03-24T12:51:02Z,0,False,JavaScript
+https://github.com/kmillslagle/pm/pull/4,"Add localStorage persistence, AI chat command engine, and project cre…",2026-03-22T00:39:31Z,2026-03-22T00:44:54Z,0,False,TypeScript
+https://github.com/aditiohri/horary/pull/70,Hide astrological details by default with expand toggle,2026-03-27T01:39:59Z,2026-03-27T01:41:05Z,0,False,TypeScript
+https://github.com/Whitney-Bateson-Digital-Strategy/DFY-Funnel/pull/4,"Add Other text inputs, rename Claude to Sam, fix chat-more button, up…",2026-03-26T20:19:59Z,2026-03-26T20:20:07Z,0,False,HTML
+https://github.com/wpgaurav/acf-blocks-plugin/pull/79,Add Chat Block and improve security/code quality,2026-03-28T14:02:07Z,2026-03-28T14:02:17Z,1,False,PHP
+https://github.com/mz00m/ai-labor-predictions/pull/310,Add peeking robot buddy as chatbot personality,2026-03-17T23:34:28Z,2026-03-17T23:34:34Z,0,False,TypeScript
+https://github.com/jfloyd10/wsp_temp/pull/33,Add Customer Contact Center page,2026-03-25T12:32:58Z,2026-03-25T12:33:03Z,0,False,HTML
+https://github.com/las-swermers/LAS-Link-Board/pull/102,Add slash command support and group space transport queries,2026-03-30T10:21:18Z,2026-03-30T10:26:55Z,0,False,HTML
+https://github.com/dncdante911/messenger_v2/pull/409,fix: Unknown column 'type' in buildMessage + 'avatar' in business-chats,2026-03-28T17:59:19Z,2026-03-28T17:59:27Z,0,False,Kotlin
+https://github.com/aranyoray/AgonAI/pull/15,"Use GEMINI_API_KEY for chat and argument generation, fix UI issues",2026-03-24T10:46:00Z,2026-03-24T10:53:03Z,0,False,Python
+https://github.com/idosebban-cmd/duel/pull/69,fix: replace navigate(-1) with navigate('/matches') on chat back button,2026-03-22T07:40:09Z,2026-03-22T07:40:21Z,0,False,TypeScript
+https://github.com/charliebeckstrand/midgard/pull/86,"Audit codebase: fix bugs, remove dead code, clean up dependencies",2026-03-17T09:11:03Z,2026-03-17T09:11:11Z,0,False,TypeScript
+https://github.com/ActuarialNotes/Actuarial-Notes-Wiki/pull/130,Update API proxy URL to new server domain,2026-03-16T05:32:37Z,2026-03-16T05:32:42Z,1,False,JavaScript
+https://github.com/annanetra37/SME-portal/pull/68,Add manual photo upload + website editing agent,2026-03-23T12:06:41Z,2026-03-23T12:06:53Z,0,False,HTML
+https://github.com/svapnil/groupchat/pull/2,Add ability to suspend agent input and continue normal chat,2026-03-29T05:35:32Z,2026-03-29T05:38:27Z,1,False,TypeScript
+https://github.com/choiceoh/Deneb/pull/836,Refactor: Extract tool implementations to chat/tools package,2026-03-30T03:59:48Z,2026-03-30T04:01:29Z,1,False,Go
+https://github.com/michaeljwilt/kidsay-tool-demo/pull/1,Make layout mobile-friendly with responsive CSS,2026-03-23T03:17:16Z,2026-03-23T03:18:31Z,0,False,JavaScript
+https://github.com/PigeonCoo1/All2/pull/1,Add AI PC Control Panel - web-based remote PC control with autonomy slider,2026-03-26T15:18:54Z,2026-03-26T15:20:20Z,0,False,CSS
+https://github.com/HankHuang0516/EClaw/pull/432,fix: filter chip toggle button not visible due to overflow clipping,2026-03-23T01:21:03Z,2026-03-23T09:34:09Z,3,False,JavaScript
+https://github.com/redcatsix/char_chat/pull/17,feat: add model selection dropdown in chat settings,2026-03-17T14:59:32Z,2026-03-17T14:59:39Z,0,False,JavaScript
+https://github.com/imonroe/movie-club-app/pull/211,Update documentation for Release 0.0.6 features,2026-03-26T00:49:34Z,2026-03-26T00:54:15Z,0,False,PHP
+https://github.com/roadsidedev/ClawZz/pull/44,feat: redesign livestream page as TikTok-style vertical discovery feed,2026-03-23T19:59:55Z,2026-03-23T20:00:08Z,0,False,TypeScript
+https://github.com/quimibond/quimibond-intelligence/pull/2,"feat: integrate qb19 backend — Chat API, Phase 2 tables, feedback loop",2026-03-24T05:35:15Z,2026-03-24T05:59:15Z,0,False,TypeScript
