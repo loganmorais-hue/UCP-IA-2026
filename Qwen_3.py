@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
 model_name = "Qwen/Qwen2.5-1.5B-Instruct"
 
-HF_TOKEN = "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"
+HF_TOKEN = "seu_token"
 
 Tokenizer = AutoTokenizer.from_pretrained(model_name, token=HF_TOKEN)
 
