@@ -26,6 +26,7 @@ A correção feita por ambas as IA's estão corretas, consertando o problema no 
 O segundo problema envolvia a identificação de similaridades de código: O CodeBert deveria printar na tela a porcentagem de semelhança que ambos os códigos têm.
 Somente de olhar para ambos os códigos em Java era possível perceber que eram bastante similares, dedução que o CodeBert aprovou: aproximadamente 99% de similaridade entre os dois códigos
 
+java
 ```
 public boolean isAdult(User user){
     if(user.getAge() >= 18){
@@ -45,6 +46,7 @@ public boolean canAccessRestrictedArea(User user){
 ## Exercício 3
 O último exercício era a geração de documentação e testes automatizados de um método em Java que verificava se os números são Primos:
 
+java
 ```
 public boolean isPrime(int n){
     if(n <= 1) return false;
@@ -55,5 +57,8 @@ public boolean isPrime(int n){
     return true;
 }
 ```
-### 1.1)
-O Qwen realizou testes automatizados usando diversos números e parâmetros (números primos e não primos, pequenos, grandes}, enquanto o StarCoder apenas me avisou para o que servia o código.
+### 3.1)
+O Qwen realizou testes automatizados usando diversos números e parâmetros (números primos e não primos, pequenos, grandes}, enquanto o StarCoder se mostrou mais suscinto em suas respostas, apenas explicando o que o código faz
+
+### 3.2)
+
