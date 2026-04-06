@@ -5,8 +5,7 @@
 ### 1.1)
 Exercício foi a análise de um código Java que realizava uma divisão:
 
-java
-```
+```java
 public int divide(int a, int b){
        return a / b;
 }
@@ -26,8 +25,7 @@ A correção feita por ambas as IA's estão corretas, consertando o problema no 
 O segundo problema envolvia a identificação de similaridades de código: O CodeBert deveria printar na tela a porcentagem de semelhança que ambos os códigos têm.
 Somente de olhar para ambos os códigos em Java era possível perceber que eram bastante similares, dedução que o CodeBert aprovou: aproximadamente 99% de similaridade entre os dois códigos
 
-java
-```
+```java
 public boolean isAdult(User user){
     if(user.getAge() >= 18){
         return true;
@@ -46,8 +44,7 @@ public boolean canAccessRestrictedArea(User user){
 ## Exercício 3
 O último exercício era a geração de documentação e testes automatizados de um método em Java que verificava se os números são Primos:
 
-java
-```
+```java
 public boolean isPrime(int n){
     if(n <= 1) return false;
     for(int i = 2; i < n;i++){
@@ -61,4 +58,46 @@ public boolean isPrime(int n){
 O Qwen realizou testes automatizados usando diversos números e parâmetros (números primos e não primos, pequenos, grandes}, enquanto o StarCoder se mostrou mais suscinto em suas respostas, apenas explicando o que o código faz
 
 ### 3.2)
+Em ambos os casos não houve geração de documentação, eu não sei o que eu fiz de errado
+-------------------------------
+# Rodando via API
 
+## Exercício 1
+O exercício foi uma repetição do 1°, porém replicando o experimento usando uma LLM via API
+```text
+The provided Java code has a few issues:
+
+1. **Division by Zero Error**: The code does not handle the case where `b` is zero. In Java, attempting to divide by zero will throw an `ArithmeticException`.
+To fix this, you should add a check to ensure that `b` is not zero before performing the division.
+2. **Integer Division**: The code performs integer division, which means that any fractional part of the result will be truncated.
+If you want to perform floating-point division, you should cast one or both of the operands to a floating-point type (such as `double`).
+3. **Missing Exception Handling**: The code does not include any exception handling mechanisms.
+In a real-world application, you would want to handle potential exceptions that may occur during the execution of the code.
+4. **Syntax Error**: The code has a syntax error due to an extra semicolon (`;`) at the end of the return statement.
+The corrected return statement should be `return a / b;`
+```
+### 1.1) 
+Apontou corretamente o problema no caso de b = 0. Apontou também outros problemas de performance como no caso de divisão de números decimais ou inteiros.
+
+### 1.2)
+```java
+public int divide(int a, int b) {
+    if (b == 0) {
+        throw new ArithmeticException("Cannot divide by zero");
+    }
+    return a / b;
+}
+```
+
+Alternatively, you can use a try-catch block to handle the ´ArithmeticException`:
+
+```java
+public int divide(int a, int b) {
+    try {
+        return a / b;
+    } catch (ArithmeticException e) {
+        System.out.println("Error: " + e.getMessage());
+        return 0; // or some other default value
+    }
+}
+```
