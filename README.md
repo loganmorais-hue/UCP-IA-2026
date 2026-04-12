@@ -104,14 +104,14 @@ public int divide(int a, int b) {
 ## Exercício 2
 Repetição do exercício 2 da primeira parte, porém, utilizando do Llama via API
 
-### 1.1) 
+### 2.1) 
 ```java
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 ```
 Testes automatizados do código foram gerados.
 
-### 1.2)
+### 2.2)
 ### Documentação para o Método `isPrime`
 
 ```java
@@ -129,7 +129,7 @@ public boolean isPrime(int n) {
 ```
 Documentação do código gerada, apontando como o código funciona.
 
-### 1.3)
+### 2.3)
 ### Mensagem de Commit
 
 ```
