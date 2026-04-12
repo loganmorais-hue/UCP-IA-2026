@@ -101,3 +101,42 @@ public int divide(int a, int b) {
     }
 }
 ```
+## Exercício 2
+Repetição do exercício 2 da primeira parte, porém, utilizando do Llama via API
+
+### 1.1) 
+```java
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+```
+Testes automatizados do código foram gerados.
+
+### 1.2)
+### Documentação para o Método `isPrime`
+
+```java
+/**
+ * Verifica se um número inteiro é primo.
+ * 
+ * Um número é considerado primo se for maior que 1 e não tiver divisores além de 1 e ele mesmo.
+ * 
+ * @param n o número a ser verificado
+ * @return true se o número for primo, false caso contrário
+ */
+public boolean isPrime(int n) {
+    // Implementação corrigida
+}
+```
+Documentação do código gerada, apontando como o código funciona.
+
+### 1.3)
+### Mensagem de Commit
+
+```
+Ajuste e otimização do método isPrime
+
+* Corrigido loop interno desnecessário e variável repetida
+* Implementado testes automáticos para casos comuns e de borda
+* Adicionada documentação Javadoc para o método isPrime
+```
+Mensagem de Commit gerada após a correção do código feita pela IA
