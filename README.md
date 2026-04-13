@@ -59,7 +59,7 @@ O Qwen realizou testes automatizados usando diversos números e parâmetros (nú
 
 ### 3.2)
 
-Em ambos os casos não gerou documentação, eu não sei o que eu fiz de errado, sincerame
+Em ambos os casos não gerou documentação, eu não sei o que eu fiz de errado, sinceramente.
 
 -------------------------------
 # Rodando via API
