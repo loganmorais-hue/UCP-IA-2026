@@ -58,7 +58,9 @@ public boolean isPrime(int n){
 O Qwen realizou testes automatizados usando diversos números e parâmetros (números primos e não primos, pequenos, grandes}, enquanto o StarCoder se mostrou mais suscinto em suas respostas, apenas explicando o que o código faz
 
 ### 3.2)
-Em ambos os casos não houve geração de documentação, eu não sei o que eu fiz de errado
+
+Em ambos os casos não gerou documentação
+
 -------------------------------
 # Rodando via API
 
