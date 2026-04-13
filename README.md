@@ -18,7 +18,7 @@ Tendo em vista que o StarCoder é um modelo de AutoComplete de um code ele não 
 ### 1.2)
 A segunda parte do exercício foi a correção do código
 
-A correção feita por ambas as IA's estão corretas, consertando o problema no caso de b=0, porém o Qwen utilizou do math.ceil() e de variáveis "double" para arrendondar para retornar o valor, enquanto o Starcoder usou return(a/b), sendo mais direto ao ponto.
+A correção feita por ambas as IA's estão corretas, consertando o problema no caso de b=0, porém o Qwen utilizou do ```Math.Ceil()```e de variáveis "double" para arrendondar para retornar o valor, enquanto o Starcoder usou return(a/b) com as correção principal no caso de b=0, sendo mais direto ao ponto.
 
 ----------------------------------------------
 ## Exercício 2 
@@ -59,7 +59,7 @@ O Qwen realizou testes automatizados usando diversos números e parâmetros (nú
 
 ### 3.2)
 
-Em ambos os casos não gerou documentação
+Em ambos os casos não gerou documentação, eu não sei o que eu fiz de errado, sincerame
 
 -------------------------------
 # Rodando via API
